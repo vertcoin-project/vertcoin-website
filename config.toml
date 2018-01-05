@@ -1,0 +1,280 @@
+baseURL = "https://vertcoin.org/"
+languageCode = "en-us"
+title = "Vertcoin"
+theme = "elate"
+
+[params]
+    [params.navigation]
+    brand = "Vertcoin"
+    home = "Home"
+
+  [params.hero]
+    title = "The People's Coin"
+    subtitle = "Vertcoin is the currency anyone can mine, forever. Committed to fairness for all, Vertcoin stays true to the original goal of cryptocurrency: money controlled by and for its users, not banks."
+ 
+  [params.intro]
+
+  [[params.intro.item]]
+    title = "Get a wallet"
+    description = "Take control of your money. Securely store your Vertcoin using an official wallet or third-party hardware device."
+    url = "#"
+    button = "Explore your options"
+    icon = "icon-wallet"
+
+  [[params.intro.item]]
+    title = "Start mining"
+    description = "Anyone can mine Vertcoin with hardware found in your local computer store. It's easy and possible with only a modest investment."
+    url = "#"
+    button = "Find out how"
+    icon = "icon-diamond"
+
+  [[params.intro.item]]
+    title = "Trade"
+    description = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
+    url = "#"
+    button = "View exchanges"
+    icon = "icon-rocket"
+    
+  [[params.intro.item]]
+    title = "Get involved"
+    description = "Vertcoin is developed entirely by volunteers and funded by donations. There's plenty to do and a way for anyone to contribute."
+    url = "#"
+    button = "Help develop Vertcoin"
+    icon = "icon-wrench"
+    
+  [[params.intro.item]]
+    title = "Learn more"
+    description = "What makes Vertcoin special? What is the roadmap? How does it work? All of your questions answered."
+    url = "#"
+    button = "Read the docs"
+    icon = "icon-question"
+    
+  [[params.intro.item]]
+    title = "Accept Vertcoin"
+    description = "Vertans (people who have Vertcoin) are itching for new ways to spend their coins and your business could be capitalising already."
+    url = "#"
+    button = "Merchant tools"
+    icon = "icon-basket-loaded"
+
+  [params.intro.video]
+    enable = true
+    title = "Watch the video"
+    icon = "icon-play2"
+    url = "https://www.youtube.com/watch?v=80kzNwYGMpg"
+  
+  [params.services]
+    enable = true
+    title = "Why Vertcoin?"
+    description = "At the forefront of digital currency technology for over four years, Vertcoin is pushing the boundaries of people power. We aim to replace the existing financial system with a better alternative in software, free from the rent extraction of big banks and monopolized miners."
+
+    [[params.services.item]]
+      title = "Anyone can mine"
+      description = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the specialized hardware that is used to mine currencies like Bitcoin. We believe that everyone should have an equal oppurtunity to share in the benefits of the system and that miners should not stand in the way of technological progress."
+      icon = "icon-people"
+
+    [[params.services.item]]
+      title = "Cheap, fast and reliable settlement"
+      description = "The average Vertcoin transaction costs less than two cents and settles within two-and-a-half minutes. This makes Vertcoin useful as a currency, not just a store of value. With a proven track record of impeccable reliability, you can trust the Vertcoin Network to store and transmit your money securely for decades to come."
+      icon = "icon-lock"
+      
+    [[params.services.item]]
+      title = "Lightning Network enabled"
+      description = "In 2017, Vertcoin was the first cryptocurrency to perform a livenet Lightning Network (LN) transaction. LN will allow Vertcoin to scale almost unbounded beyond its current capacity while enabling instant settlement, trustless currency swaps without a third-party escrow and peer-to-peer derivatives. LN transactions occur encrypted and off the blockchain giving you privacy without the need for slow and cumbersome cryptography."
+      icon = "icon-energy"
+
+    [[params.services.item]]
+      title = "No premine, no ICO, no air-drop"
+      description = "Vertcoin is not a get-rich-quick scheme. Fairly distributed starting in January 2014, every Vertcoin in existence has been mined by its users on a level playing field. This makes Vertcoin less susceptible to market manipulation as the developers do not maintain large holdings to artificially inflate the market capitalization. Vertcoin's developers are volunteers and are our operations are funded entirely by community donations."      
+      icon = "icon-heart"
+      
+    [[params.services.item]]
+      title = "Vibrant community"
+      description = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our Discord server or Subreddit to meet a tonne of like-minded people who are waiting to help you get started. Often hailed as one of the "best communities in crypto", Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'  
+      icon = "icon-bubble"
+      
+    [[params.services.item]]
+      title = "Active developers"
+      description = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on Discord and Reddit and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we're happy to help new users to understand this new and exciting technology."
+      icon = "icon-chemistry"
+      
+  # Counters section
+  [params.counters]
+    enable = true
+    title = "Stats"
+    background = "full_image_1.jpg"
+
+    [[params.counters.item]]
+      description = "Vertcoins in circulation"
+      icon = "icon-refresh"
+      from = 42300000
+      to = 42343150
+      interval = 2000
+      speed = 50000
+
+    [[params.counters.item]]
+      description = "Reddit subscribers"
+      icon = "icon-social-reddit"
+      from = 0
+      to = 30604
+      interval = 500
+      speed = 10000
+
+    [[params.counters.item]]
+      description = "USD transacted in 24 hours"
+      icon = "icon-speedometer"
+      from = 13700000
+      to = 13771410
+      interval = 3000
+      speed = 7000
+
+    [[params.counters.item]]
+      description = "Twitter followers"
+      icon = "icon-social-twitter"
+      from = 0
+      to = 71500
+      interval = 5000
+      speed = 10000
+      
+  [params.about]
+    enable = true
+    title = "The Vertcoin team"
+    description = "Our international team of core developers have backgrounds ranging from microprocessor development to medical devices to biotech. All have a shared vision of a world with true competition in the financial sector."
+
+    [[params.about.item]]
+      name = "James Lovejoy"
+      position = "Lead Developer"
+      description = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
+      img = "james.jpg"
+      alt = "James Lovejoy"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-linkedin", "#"]
+      ]
+
+    [[params.about.item]]
+      name = "Zemrys"
+      position = "Developer"
+      description = "Zemrys’ primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
+      img = "joe.jpg"
+      alt = "Zemrys"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-github", "#"]
+      ]
+
+    [[params.about.item]]
+      name = "Eric (Etang)"
+      position = "Developer"
+      description = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
+      img = "eric.png"
+      alt = "Eric"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]
+      
+    [[params.about.item]]
+      name = "Star (Godwits)"
+      position = "Developer"
+      description = "Godwits started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
+      img = "star.jpg"
+      alt = "Star"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]  
+      
+    [[params.about.item]]
+      name = "Bryan Goodson (Goodminer)"
+      position = "Developer"
+      description = "More info coming soon"
+      img = "bryan.jpg"
+      alt = "Bryan Goodson"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]  
+      
+    [[params.about.item]]
+      name = "Gert-Jaap Glasbergen"
+      position = "Developer"
+      description = "Works in the field of software engineering since 1998, got in touch with cryptocurrencies since early 2013. Deeply interested in the field, and just recently getting involved with development side of cryptocurrencies and blockchains. Joined the Vertcoin development team to gain further experience in the field, and to contribute something to the community."
+      img = "gertjaap.png"
+      alt = "Gert-Jaap Glasbergen"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]  
+      
+    [[params.about.item]]
+      name = "Alex Turek (turekaj)"
+      position = "Developer"
+      description = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
+      img = "alex.jpg"
+      alt = "Alex Turek"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ] 
+      
+    [[params.about.item]]
+      name = "jk_14"
+      position = "Developer"
+      description = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+      img = "person1.jpg"
+      alt = "jk_14"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]  
+      
+    [[params.about.item]]
+      name = "pknight"
+      position = "Developer"
+      description = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
+      img = "person2.jpg"
+      alt = "pknight"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ] 
+      
+    [[params.about.item]]
+      name = "a432511 (Adam)"
+      position = "Former Lead Developer"
+      description = "Adam is a Software Engineer at heart but now oversees an entire Digital Innovation practice at a global marketing agency. His current role includes significant fiduciary, management and implementation responsibilities. Adam was the Lead Developer of Vertcoin in 2014 but took time off to focus on his family and career."
+      img = "adam.jpg"
+      alt = "a432511"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ] 
+      
+    [[params.about.item]]
+      name = "Daiki"
+      position = "PR – Public Relations (Japan)"
+      description = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+      img = "daiki.jpg"
+      alt = "Daiki"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ] 
+       
+      
+# Footer section
+  [params.footer]
+    enable = true
+    copyright = '&copy; Vertcoin 2018<br> &copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+

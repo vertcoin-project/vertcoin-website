@@ -65,7 +65,7 @@ theme = "elate"
   [params.services]
     enable = true
     title = "Why Vertcoin?"
-    description = "At the forefront of digital currency technology for over four years, Vertcoin is pushing the boundaries of people power. We aim to replace the existing financial system with a better alternative in software, free from the rent extraction of big banks and monopolized miners."
+    description = "At the forefront of digital currency technology development and implementation for over four years, Vertcoin is pushing the boundaries of people power. We aim to transform the financial system with a better alternative in software, free from big banks and centralized miners, returning power to the many from the few."
 
     [[params.services.item]]
       title = "Anyone can mine"
@@ -271,9 +271,7 @@ theme = "elate"
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ] 
-       
       
-# Footer section
   [params.footer]
     enable = true
     copyright = '&copy; Vertcoin 2018<br> &copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'

@@ -147,7 +147,7 @@ theme = "elate"
       img = "james.jpg"
       alt = "James Lovejoy"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/jamesl22"],
         ["icon-facebook", "#"],
         ["icon-linkedin", "#"]
       ]
@@ -171,7 +171,7 @@ theme = "elate"
       img = "eric.png"
       alt = "Eric"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/etang600"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ]
@@ -195,7 +195,7 @@ theme = "elate"
       img = "bryan.jpg"
       alt = "Bryan Goodson"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/BryanGoodson"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ]  
@@ -207,7 +207,7 @@ theme = "elate"
       img = "gertjaap.png"
       alt = "Gert-Jaap Glasbergen"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/gertjaap"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ]  
@@ -255,7 +255,7 @@ theme = "elate"
       img = "adam.jpg"
       alt = "a432511"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/a432511"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ] 

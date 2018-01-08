@@ -148,8 +148,7 @@ theme = "elate"
       alt = "James Lovejoy"
       social = [
         ["icon-twitter", "https://twitter.com/jamesl22"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-github", "https://github.com/metalicjames/"]
       ]
 
     [[params.about.item]]
@@ -159,9 +158,7 @@ theme = "elate"
       img = "joe.jpg"
       alt = "Zemrys"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-github", "https://github.com/zemrys"]
       ]
 
     [[params.about.item]]
@@ -171,22 +168,16 @@ theme = "elate"
       img = "eric.png"
       alt = "Eric"
       social = [
-        ["icon-twitter", "https://twitter.com/etang600"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-twitter", "https://twitter.com/etang600"]
       ]
       
     [[params.about.item]]
       name = "Star Im"
       position = "Developer"
-      description = "Godwits started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
+      description = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
       img = "star.jpg"
       alt = "Star"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]  
+      social = []  
       
     [[params.about.item]]
       name = "Bryan Goodson"
@@ -196,8 +187,8 @@ theme = "elate"
       alt = "Bryan Goodson"
       social = [
         ["icon-twitter", "https://twitter.com/BryanGoodson"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-github", "https://github.com/Bryangoodson"],
+        ["icon-linkedin", "https://www.linkedin.com/in/bgoodson"]
       ]  
       
     [[params.about.item]]
@@ -208,8 +199,8 @@ theme = "elate"
       alt = "Gert-Jaap Glasbergen"
       social = [
         ["icon-twitter", "https://twitter.com/gertjaap"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-github", "https://github.com/gertjaap"],
+        ["icon-linkedin", "https://www.linkedin.com/in/gertjaap"]
       ]  
       
     [[params.about.item]]
@@ -219,9 +210,7 @@ theme = "elate"
       img = "alex.jpg"
       alt = "Alex Turek"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/turekaj/"]
       ] 
       
     [[params.about.item]]
@@ -230,11 +219,7 @@ theme = "elate"
       description = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
       img = "person1.jpg"
       alt = "jk_14"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]  
+      social = []  
       
     [[params.about.item]]
       name = "pknight"
@@ -242,11 +227,7 @@ theme = "elate"
       description = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
       img = "person2.jpg"
       alt = "pknight"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ] 
+      social = [] 
       
     [[params.about.item]]
       name = "Adam Rivera"
@@ -256,8 +237,7 @@ theme = "elate"
       alt = "a432511"
       social = [
         ["icon-twitter", "https://twitter.com/a432511"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/adammrivera/"]
       ] 
       
     [[params.about.item]]

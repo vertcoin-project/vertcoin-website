@@ -153,9 +153,9 @@ theme = "elate"
       ]
 
     [[params.about.item]]
-      name = "Zemrys"
+      name = "Joe Straub"
       position = "Developer"
-      description = "Zemrys’ primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
+      description = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
       img = "joe.jpg"
       alt = "Zemrys"
       social = [
@@ -165,7 +165,7 @@ theme = "elate"
       ]
 
     [[params.about.item]]
-      name = "Eric (Etang)"
+      name = "Eric Kubik"
       position = "Developer"
       description = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
       img = "eric.png"
@@ -177,7 +177,7 @@ theme = "elate"
       ]
       
     [[params.about.item]]
-      name = "Star (Godwits)"
+      name = "Star Im"
       position = "Developer"
       description = "Godwits started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
       img = "star.jpg"
@@ -189,7 +189,7 @@ theme = "elate"
       ]  
       
     [[params.about.item]]
-      name = "Bryan Goodson (Goodminer)"
+      name = "Bryan Goodson"
       position = "Developer"
       description = "More info coming soon"
       img = "bryan.jpg"
@@ -213,7 +213,7 @@ theme = "elate"
       ]  
       
     [[params.about.item]]
-      name = "Alex Turek (turekaj)"
+      name = "Alex Turek"
       position = "Developer"
       description = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
       img = "alex.jpg"
@@ -249,7 +249,7 @@ theme = "elate"
       ] 
       
     [[params.about.item]]
-      name = "a432511 (Adam)"
+      name = "Adam Rivera"
       position = "Former Lead Developer"
       description = "Adam is a Software Engineer at heart but now oversees an entire Digital Innovation practice at a global marketing agency. His current role includes significant fiduciary, management and implementation responsibilities. Adam was the Lead Developer of Vertcoin in 2014 but took time off to focus on his family and career."
       img = "adam.jpg"
@@ -262,7 +262,7 @@ theme = "elate"
       
     [[params.about.item]]
       name = "Daiki"
-      position = "PR – Public Relations (Japan)"
+      position = "Public Relations (Japan)"
       description = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
       img = "daiki.jpg"
       alt = "Daiki"
@@ -271,6 +271,14 @@ theme = "elate"
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ] 
+      
+    [[params.about.item]]
+      name = "The Community"
+      position = ""
+      description = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+      img = "placeholder.png"
+      alt = "Community"
+      social = [] 
       
   [params.footer]
     enable = true

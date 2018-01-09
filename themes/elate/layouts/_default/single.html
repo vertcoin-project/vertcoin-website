@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+  <head>
+    {{ partial "head.html" .}}
+  </head>
+  <body>
+    {{ partial "nav.html" .}}
+    
+    <div class="container mt-5">
+        <div class="row">
+            {{ .Content }}
+        </div>
+    </div>
+    
+    {{ if .Site.Params.footer.enable }}
+        {{ partial "footer.html" .}}
+    {{ end }}
+
+    {{ partial "js.html" .}}
+  </body>
+</html>

@@ -17,49 +17,100 @@ theme = "elate"
  
   [params.intro]
 
-  [[params.intro.item]]
+  # English
+  [[Languages.en.intro.item]]
     title = "Get a wallet"
     description = "Take control of your money. Securely store your Vertcoin using an official wallet or third-party hardware device."
     url = "#"
     button = "Explore your options"
     icon = "icon-wallet"
 
-  [[params.intro.item]]
+  [[Languages.en.intro.item]]
     title = "Start mining"
     description = "Anyone can mine Vertcoin with hardware found in your local computer store. It's easy and possible with only a modest investment."
     url = "#"
     button = "Find out how"
     icon = "icon-diamond"
 
-  [[params.intro.item]]
+  [[Languages.en.intro.item]]
     title = "Trade"
     description = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
     url = "/trade"
     button = "View exchanges"
     icon = "icon-rocket"
     
-  [[params.intro.item]]
+  [[Languages.en.intro.item]]
     title = "Get involved"
     description = "Vertcoin is developed entirely by volunteers and funded by donations. There's plenty to do and a way for anyone to contribute."
     url = "#"
     button = "Help develop Vertcoin"
     icon = "icon-wrench"
     
-  [[params.intro.item]]
+  [[Languages.en.intro.item]]
     title = "Learn more"
     description = "What makes Vertcoin special? What is the roadmap? How does it work? All of your questions answered."
     url = "#"
     button = "Read the docs"
     icon = "icon-question"
     
-  [[params.intro.item]]
+  [[Languages.en.intro.item]]
     title = "Accept Vertcoin"
     description = "Vertans (people who have Vertcoin) are itching for new ways to spend their coins and your business could be capitalising already."
     url = "#"
     button = "Merchant tools"
     icon = "icon-basket-loaded"
 
-  [params.intro.video]
+  [Languages.en.intro.video]
+    enable = true
+    title = "Watch the video"
+    icon = "icon-play2"
+    url = "https://www.youtube.com/watch?v=80kzNwYGMpg"
+
+
+  # French
+  [[Languages.fr.intro.item]]
+    title = "Get a wallet (but in french)"
+    description = "Take control of your money. Securely store your Vertcoin using an official wallet or third-party hardware device."
+    url = "#"
+    button = "Explore your options"
+    icon = "icon-wallet"
+
+  [[Languages.fr.intro.item]]
+    title = "Start mining"
+    description = "Anyone can mine Vertcoin with hardware found in your local computer store. It's easy and possible with only a modest investment."
+    url = "#"
+    button = "Find out how"
+    icon = "icon-diamond"
+
+  [[Languages.fr.intro.item]]
+    title = "Trade"
+    description = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
+    url = "/trade"
+    button = "View exchanges"
+    icon = "icon-rocket"
+    
+  [[Languages.fr.intro.item]]
+    title = "Get involved"
+    description = "Vertcoin is developed entirely by volunteers and funded by donations. There's plenty to do and a way for anyone to contribute."
+    url = "#"
+    button = "Help develop Vertcoin"
+    icon = "icon-wrench"
+    
+  [[Languages.fr.intro.item]]
+    title = "Learn more"
+    description = "What makes Vertcoin special? What is the roadmap? How does it work? All of your questions answered."
+    url = "#"
+    button = "Read the docs"
+    icon = "icon-question"
+    
+  [[Languages.fr.intro.item]]
+    title = "Accept Vertcoin"
+    description = "Vertans (people who have Vertcoin) are itching for new ways to spend their coins and your business could be capitalising already."
+    url = "#"
+    button = "Merchant tools"
+    icon = "icon-basket-loaded"
+
+  [Languages.fr.intro.video]
     enable = true
     title = "Watch the video"
     icon = "icon-play2"

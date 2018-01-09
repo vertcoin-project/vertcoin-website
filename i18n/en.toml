@@ -1,0 +1,79 @@
+# Hero Section
+
+[hero_title]
+other = "The People's Coin"
+
+[hero_subtitle]
+other = "Vertcoin is the currency anyone can mine, forever. Committed to fairness for all, Vertcoin stays true to the original goal of cryptocurrency: money controlled by and for its users, not banks."
+
+
+# Intro Section
+
+[video_title]
+other = "Watch the video"
+
+
+[intro_0_title]
+other = "Get a wallet"
+
+[intro_0_description]
+other = "Take control of your money. Securely store your Vertcoin using an official wallet or third-party hardware device."
+
+[intro_0_button]
+other = "Explore your options"
+
+
+
+[intro_1_title]
+other = "Start mining"
+
+[intro_1_description]
+other = "Anyone can mine Vertcoin with hardware found in your local computer store. It's easy and possible with only a modest investment."
+
+[intro_1_button]
+other = "Find out how"
+
+
+
+[intro_2_title]
+other = "Trade"
+
+[intro_2_description]
+other = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
+
+[intro_2_button]
+other = "View exchanges"
+
+
+
+[intro_3_title]
+other = "Get involved"
+
+[intro_3_description]
+other = "Vertcoin is developed entirely by volunteers and funded by donations. There's plenty to do and a way for anyone to contribute."
+
+[intro_3_button]
+other = "Help develop Vertcoin"
+
+
+
+[intro_4_title]
+other = "Learn more"
+
+[intro_4_description]
+other = "What makes Vertcoin special? What is the roadmap? How does it work? All of your questions answered."
+
+[intro_4_button]
+other = "Read the docs"
+
+
+
+[intro_5_title]
+other = "Accept Vertcoin"
+
+[intro_5_description]
+other = "Vertans (people who have Vertcoin) are itching for new ways to spend their coins and your business could be capitalising already."
+
+[intro_5_button]
+other = "Merchant tools"
+

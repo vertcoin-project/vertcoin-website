@@ -134,3 +134,125 @@ other = "Active developers"
 [service_5_description]
 other = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on Discord and Reddit and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we're happy to help new users to understand this new and exciting technology."
 
+
+
+# Counters section
+[counters_title]
+other = "Stats"
+
+[counter_0_description]
+other = "Vertcoins in circulation"
+
+[counter_1_description]
+other = "Reddit subscribers"
+
+[counter_2_description]
+other = "USD transacted in 24 hours"
+
+[counter_3_description]
+other = "Twitter followers"
+
+
+
+# About section
+[about_title]
+other = "The Vertcoin team"
+
+[about_description]
+other = "Our international team of core developers have backgrounds ranging from microprocessor development to medical devices to biotech. All have a shared vision of a world with true competition in the financial sector."
+
+
+
+[about_0_position]
+other = "Lead Developer"
+
+[about_0_description]
+other = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
+
+
+
+[about_1_position]
+other = "Developer"
+
+[about_1_description]
+other = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
+
+
+
+[about_2_position]
+other = "Developer"
+
+[about_2_description]
+other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
+
+
+
+[about_3_position]
+other = "Developer"
+
+[about_3_description]
+other = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
+
+
+
+[about_4_position]
+other = "Developer"
+
+[about_4_description]
+other = "More info coming soon"
+
+
+
+[about_5_position]
+other = "Developer"
+
+[about_5_description]
+other = "Works in the field of software engineering since 1998, got in touch with cryptocurrencies since early 2013. Deeply interested in the field, and just recently getting involved with development side of cryptocurrencies and blockchains. Joined the Vertcoin development team to gain further experience in the field, and to contribute something to the community."
+
+
+
+[about_6_position]
+other = "Developer"
+
+[about_6_description]
+other = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
+
+
+
+[about_7_position]
+other = "Developer"
+
+[about_7_description]
+other = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+
+
+
+[about_8_position]
+other = "Developer"
+
+[about_8_description]
+other = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
+
+
+
+[about_9_position]
+other = "Former Lead Developer"
+
+[about_9_description]
+other = "Adam is a Software Engineer at heart but now oversees an entire Digital Innovation practice at a global marketing agency. His current role includes significant fiduciary, management and implementation responsibilities. Adam was the Lead Developer of Vertcoin in 2014 but took time off to focus on his family and career."
+
+
+
+[about_10_position]
+other = "Public Relations (Japan)"
+
+[about_10_description]
+other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+
+
+
+[about_11_position]
+other = " "
+
+[about_11_description]
+other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."

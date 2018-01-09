@@ -368,6 +368,15 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0s;
 }
 
+.small-home {
+  height: 7em !important;
+}
+
+.content-container {
+  margin-top: 2em;
+  padding-left: 1.5em;
+}
+
 #fh5co-home {
   background-color: transparent;
   background-size: cover;

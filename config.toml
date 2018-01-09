@@ -6,7 +6,6 @@ theme = "elate"
 [params]
     [params.navigation]
     brand = "Vertcoin"
-    home = "Home"
 
   [params.hero]
     title = "The People's Coin"
@@ -31,7 +30,7 @@ theme = "elate"
   [[params.intro.item]]
     title = "Trade"
     description = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
-    url = "#"
+    url = "/trade"
     button = "View exchanges"
     icon = "icon-rocket"
     

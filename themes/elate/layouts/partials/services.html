@@ -2,20 +2,20 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-left">
-					<h2 class=" left-border to-animate">{{ with .Site.Params.services.title }}{{ . | markdownify }}{{ end }}</h2>
+					<h2 class=" left-border to-animate">{{ i18n "services_title" | markdownify }}</h2>
 					<div class="row">
 						<div class="col-md-8 subtext to-animate">
-							<h3>{{ with .Site.Params.services.description }}{{ . | markdownify }}{{ end }}</h3>
+							<h3>{{ i18n "services_description" | markdownify }}</h3>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-			{{ range .Site.Params.services.item }}
+			{{ range $index, $element := .Site.Params.services.item }}
 				<div class="col-md-4 col-sm-4 fh5co-service to-animate">
 					<i class="icon to-animate-2 {{ .icon | markdownify }}"></i>
-					<h3>{{ .title | markdownify }}</h3>
-					<p>{{ .description | markdownify }}</p>
+					<h3>{{ i18n (printf "service_%d_title" $index) | markdownify }}</h3>
+					<p>{{ i18n (printf "service_%d_description" $index) | markdownify }}</p>
 				</div>
 				<div class="clearfix visible-sm-block"></div>
 			{{ end }}

@@ -5,72 +5,58 @@ theme = "elate"
 
 [params]
   [params.navigation]
-  brand = "Vertcoin"
+    brand = "Vertcoin"
  
   [params.intro]
 
-  [[params.intro.item]]
-    url = "#"
-    icon = "icon-wallet"
+      [[params.intro.item]]
+        url = "#"
+        icon = "icon-wallet"
 
-  [[params.intro.item]]
-    url = "#"
-    icon = "icon-diamond"
+      [[params.intro.item]]
+        url = "#"
+        icon = "icon-diamond"
 
-  [[params.intro.item]]
-    url = "/trade"
-    icon = "icon-rocket"
-    
-  [[params.intro.item]]
-    url = "#"
-    icon = "icon-wrench"
-    
-  [[params.intro.item]]
-    url = "#"
-    icon = "icon-question"
-    
-  [[params.intro.item]]
-    url = "#"
-    icon = "icon-basket-loaded"
+      [[params.intro.item]]
+        url = "/trade"
+        icon = "icon-rocket"
+        
+      [[params.intro.item]]
+        url = "#"
+        icon = "icon-wrench"
+        
+      [[params.intro.item]]
+        url = "#"
+        icon = "icon-question"
+        
+      [[params.intro.item]]
+        url = "#"
+        icon = "icon-basket-loaded"
 
-  [params.intro.video]
-    enable = true
-    icon = "icon-play2"
-    url = "https://www.youtube.com/watch?v=80kzNwYGMpg"
+      [params.intro.video]
+        enable = true
+        icon = "icon-play2"
+        url = "https://www.youtube.com/watch?v=80kzNwYGMpg"
   
   [params.services]
     enable = true
-    title = "Why Vertcoin?"
-    description = "At the forefront of digital currency technology development and implementation for over four years, Vertcoin is pushing the boundaries of people power. We aim to transform the financial system with a better alternative in software, free from big banks and centralized miners, returning power to the many from the few."
 
     [[params.services.item]]
-      title = "Anyone can mine"
-      description = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the specialized hardware that is used to mine currencies like Bitcoin. We believe that everyone should have an equal oppurtunity to share in the benefits of the system and that miners should not stand in the way of technological progress."
       icon = "icon-people"
 
     [[params.services.item]]
-      title = "Cheap, fast and reliable settlement"
-      description = "The average Vertcoin transaction costs less than two cents and settles within two-and-a-half minutes. This makes Vertcoin useful as a currency, not just a store of value. With a proven track record of impeccable reliability, you can trust the Vertcoin Network to store and transmit your money securely for decades to come."
       icon = "icon-lock"
       
     [[params.services.item]]
-      title = "Lightning Network enabled"
-      description = "In 2017, Vertcoin was the first cryptocurrency to perform a livenet Lightning Network (LN) transaction. LN will allow Vertcoin to scale almost unbounded beyond its current capacity while enabling instant settlement, trustless currency swaps without a third-party escrow and peer-to-peer derivatives. LN transactions occur encrypted and off the blockchain giving you privacy without the need for slow and cumbersome cryptography."
       icon = "icon-energy"
 
-    [[params.services.item]]
-      title = "No premine, no ICO, no air-drop"
-      description = "Vertcoin is not a get-rich-quick scheme. Fairly distributed starting in January 2014, every Vertcoin in existence has been mined by its users on a level playing field. This makes Vertcoin less susceptible to market manipulation as the developers do not maintain large holdings to artificially inflate the market capitalization. Vertcoin's developers are volunteers and are our operations are funded entirely by community donations."      
+    [[params.services.item]]      
       icon = "icon-heart"
       
-    [[params.services.item]]
-      title = "Vibrant community"
-      description = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our Discord server or Subreddit to meet a tonne of like-minded people who are waiting to help you get started. Often hailed as one of the "best communities in crypto", Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'  
+    [[params.services.item]]  
       icon = "icon-bubble"
       
     [[params.services.item]]
-      title = "Active developers"
-      description = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on Discord and Reddit and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we're happy to help new users to understand this new and exciting technology."
       icon = "icon-chemistry"
       
   # Counters section

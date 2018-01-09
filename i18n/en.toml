@@ -77,3 +77,60 @@ other = "Vertans (people who have Vertcoin) are itching for new ways to spend th
 [intro_5_button]
 other = "Merchant tools"
 
+
+
+# Services section
+[services_title]
+other = "Why Vertcoin?"
+
+[services_description]
+other = "At the forefront of digital currency technology development and implementation for over four years, Vertcoin is pushing the boundaries of people power. We aim to transform the financial system with a better alternative in software, free from big banks and centralized miners, returning power to the many from the few."
+
+
+
+[service_0_title]
+other = "Anyone can mine"
+
+[service_0_description]
+other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the specialized hardware that is used to mine currencies like Bitcoin. We believe that everyone should have an equal oppurtunity to share in the benefits of the system and that miners should not stand in the way of technological progress."
+
+
+
+[service_1_title]
+other = "Cheap, fast and reliable settlement"
+
+[service_1_description]
+other = "The average Vertcoin transaction costs less than two cents and settles within two-and-a-half minutes. This makes Vertcoin useful as a currency, not just a store of value. With a proven track record of impeccable reliability, you can trust the Vertcoin Network to store and transmit your money securely for decades to come."
+
+
+
+[service_2_title]
+other = "Lightning Network enabled"
+
+[service_2_description]
+other = "In 2017, Vertcoin was the first cryptocurrency to perform a livenet Lightning Network (LN) transaction. LN will allow Vertcoin to scale almost unbounded beyond its current capacity while enabling instant settlement, trustless currency swaps without a third-party escrow and peer-to-peer derivatives. LN transactions occur encrypted and off the blockchain giving you privacy without the need for slow and cumbersome cryptography."
+
+
+
+[service_3_title]
+other = "No premine, no ICO, no air-drop"
+
+[service_3_description]
+other = "Vertcoin is not a get-rich-quick scheme. Fairly distributed starting in January 2014, every Vertcoin in existence has been mined by its users on a level playing field. This makes Vertcoin less susceptible to market manipulation as the developers do not maintain large holdings to artificially inflate the market capitalization. Vertcoin's developers are volunteers and are our operations are funded entirely by community donations."      
+
+
+
+[service_4_title]
+other = "Vibrant community"
+
+[service_4_description]
+other = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our Discord server or Subreddit to meet a tonne of like-minded people who are waiting to help you get started. Often hailed as one of the "best communities in crypto", Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'  
+
+
+
+[service_5_title]
+other = "Active developers"
+
+[service_5_description]
+other = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on Discord and Reddit and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we're happy to help new users to understand this new and exciting technology."
+

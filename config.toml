@@ -1,5 +1,5 @@
 baseURL = "https://vertcoin.org/"
-languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "Vertcoin"
 theme = "elate"
 
@@ -7,9 +7,13 @@ theme = "elate"
     [params.navigation]
     brand = "Vertcoin"
 
-  [params.hero]
+  [Languages]
+  [Languages.en.hero]
     title = "The People's Coin"
     subtitle = "Vertcoin is the currency anyone can mine, forever. Committed to fairness for all, Vertcoin stays true to the original goal of cryptocurrency: money controlled by and for its users, not banks."
+  [Languages.fr.hero]
+    title = "La pièce du peuple"
+    subtitle = "Vertcoin est la monnaie que tout le monde peut extraire, pour toujours. Engagé pour l'équité pour tous, Vertcoin reste fidèle à l'objectif initial de crypto-monnaie: l'argent contrôlé par et pour ses utilisateurs, et non les banques."
  
   [params.intro]
 

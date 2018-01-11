@@ -10,7 +10,7 @@ theme = "elate"
   [params.intro]
 
       [[params.intro.item]]
-        url = "#"
+        url = "/wallets"
         icon = "icon-wallet"
 
       [[params.intro.item]]

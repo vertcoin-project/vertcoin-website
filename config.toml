@@ -179,11 +179,7 @@ theme = "elate"
       name = "Daiki"
       img = "daiki.jpg"
       alt = "Daiki"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ] 
+      social = [] 
       
     [[params.about.item]]
       name = "The Community"

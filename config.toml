@@ -14,7 +14,7 @@ theme = "elate"
         icon = "icon-wallet"
 
       [[params.intro.item]]
-        url = "#"
+        url = "/mine"
         icon = "icon-diamond"
 
       [[params.intro.item]]

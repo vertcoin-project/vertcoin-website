@@ -31,7 +31,7 @@ weight = 2
         icon = "icon-rocket"
         
       [[params.intro.item]]
-        url = "#"
+        url = "develop"
         icon = "icon-wrench"
         
       [[params.intro.item]]

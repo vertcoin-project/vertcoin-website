@@ -39,7 +39,7 @@ weight = 2
         icon = "icon-question"
         
       [[params.intro.item]]
-        url = "#"
+        url = "merchants"
         icon = "icon-basket-loaded"
 
       [params.intro.video]

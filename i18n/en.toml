@@ -256,3 +256,13 @@ other = " "
 
 [about_11_description]
 other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+
+#donation page
+[donation_donated]
+other = "Donated"
+
+[donation_goal]
+other = "Goal"
+
+[donation_address]
+other = "Address"

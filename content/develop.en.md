@@ -40,4 +40,4 @@ These are projects that are lead by entities external to the Vertcoin developmen
 
 Vertcoin relies on donations to pay for servers, exchange listing fees, bounties for external development. Your generous donations make the Vertcoin project possible without a large stack of ICO or pre-mined funds due to our fair distribution via the mining network.
 
-[Donate for Vertcoin's development](https://vertcoin.org/donate/)
+[Donate for Vertcoin's development](/donate/)

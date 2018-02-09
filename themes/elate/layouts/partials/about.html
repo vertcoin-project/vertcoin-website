@@ -1,28 +1,30 @@
 	<section id="fh5co-about" data-section="about">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ i18n "about_title" | markdownify }}</h2>
+
+
+					<h2 class="teamTitle">{{ i18n "about_title" | markdownify }}</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext to-animate">
 							<h3>{{ i18n "about_description" | markdownify }}</h3>
 						</div>
 					</div>
-				</div>
+
 			</div>
-			<div class="row">
+			<div class="row" style="width: 110%;">
 			{{ range $index, $element := .Site.Params.about.item }}
-				<div class="col-md-4">
-					<div class="fh5co-person text-center to-animate">
-						<figure><img src="/images/{{ .img }}" alt="{{ .alt }}"></figure>
+				<div class="col-md-4 profileController">
+					<div class="fh5co-person text-center">
+						<figure><img src="../images/{{ .img }}" alt="{{ .alt }}"></figure>
 						<h3>{{ .name | markdownify }}</h3>
 						<span class="fh5co-position">{{ i18n (printf "about_%d_position" $index) | markdownify }}</span>
-						<p>{{ i18n (printf "about_%d_description" $index) | markdownify }}</p>
 						<ul class="social social-circle">
-						{{ range .social }}
-							<li><a href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
-						{{ end }}
+							{{ range .social }}
+							<li><a href="{{ index . 1 }}" target="_blank"><i class="{{ index .  0 }}"></i></a></li>
+							{{ end }}
 						</ul>
+						<p>{{ i18n (printf "about_%d_description" $index) | markdownify }}</p>
+
 					</div>
 				</div>
 			{{ end }}

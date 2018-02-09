@@ -444,15 +444,15 @@
 	// Document on load.
 	$(function(){
 
-		parallax();
+		// parallax();
 
 		burgerMenu();
 
-		clickMenu();
+		// clickMenu();
 
-		windowScroll();
+		// windowScroll();
 
-		navigationSection();
+		// navigationSection();
 
 		goToTop();
 

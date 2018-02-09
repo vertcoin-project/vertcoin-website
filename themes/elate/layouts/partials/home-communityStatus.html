@@ -1,0 +1,34 @@
+<section id="home-communityStatus" data-section="home-communityStatus">
+
+
+
+
+        <div class="wrapper">
+            <div class="inner-wrapper">
+                <div class="childController">
+
+
+                    <h3>{{ i18n "communityStatus_title" | markdownify }}</h3>
+                    <p>{{ i18n "communityStatus_description" | markdownify }}</p>
+
+
+                    <ul class="social social-circle">
+                        {{ range $index, $element := .Site.Params.communityStatus.item }}
+                        {{ range .social }}
+                        <li><a href="{{ index . 1 }}" target="_blank"><i class="{{ index .  0 }}"></i></a></li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+</section>

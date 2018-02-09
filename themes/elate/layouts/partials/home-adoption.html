@@ -1,0 +1,19 @@
+
+<div class="container">
+    {{ range $index, $element := .Site.Params.adoption.item }}
+    <h2 class="guideTitles"> <a href='{{ .url }}'>{{ i18n (printf "adoption_%d_title" $index) | markdownify }}</a>
+        <svg width="35px" height="15px" viewBox="0 0 35 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+            <title>Arrow</title>
+
+            <defs></defs>
+            <g id="Desktop-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-801.000000, -3755.000000)">
+                <g id="Group-Copy" transform="translate(801.000000, 3755.000000)" fill="#000000" fill-rule="nonzero">
+                    <path d="M26.6345294,11.3999023 L17.39375,2.25454545 L19.603125,0.0692727273 L34.5,14.5 L28,14.5 L28,14.4908114 L0.46875,14.4908114 L0.46875,11.3999023 L26.6345294,11.3999023 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </svg>
+    </h2>
+
+    {{ end }}
+</div>

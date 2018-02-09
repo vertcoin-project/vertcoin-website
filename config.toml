@@ -3,107 +3,135 @@ DefaultContentLanguage = "en"
 title = "Vertcoin"
 theme = "elate"
 
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
 
-[languages.fr]
-languageName = "Française"
-weight = 2
+#This file prints out code blocks
+
+
+
+#Language
+
+
+    [languages]
+    [languages.en]
+    languageName = "English"
+    weight = 1
+
+    [languages.fr]
+    languageName = "Franc"
+    weight = 2
+
+
+
+
+#Parameters
+
 
 [params]
+
+
+
+
   [params.navigation]
-    brand = "Vertcoin"
- 
+
+
+    [[params.navigation.item]]
+     url = "download"
+    [[params.navigation.item]]
+    url = "buy-vertcoin"
+    [[params.navigation.item]]
+    url = "team"
+    [[params.navigation.item]]
+    url = "donate"
+
+
+  [params.action]
+
+    [[params.navigationAction.item]]
+
+
+  [params.desktopDownload]
+
+
+    [[params.desktopButton.item]]
+
+
+
+
+  [params.mobileDownload]
+
+    [[params.mobileButton.item]]
+
+
+
+
   [params.intro]
 
       [[params.intro.item]]
-        url = "wallets"
-        icon = "icon-wallet"
-
-      [[params.intro.item]]
         url = "mine"
-        icon = "icon-diamond"
+        img = "start-mining.jpg"
+
 
       [[params.intro.item]]
-        url = "trade"
-        icon = "icon-rocket"
-        
+        url = "buy-vertcoin"
+        img = "buy-vertcoin.jpg"
+
       [[params.intro.item]]
-        url = "develop"
-        icon = "icon-wrench"
-        
+        url = "accept-vertcoin"
+        img = "accept-vertcoin.jpg"
+
+
       [[params.intro.item]]
-        url = "https://docs.vertcoin.org"
-        icon = "icon-question"
-        
-      [[params.intro.item]]
-        url = "merchants"
-        icon = "icon-basket-loaded"
+        url = "community"
+        img = "community.jpg"
 
-      [params.intro.video]
-        enable = true
-        icon = "icon-play2"
-        url = "https://www.youtube.com/watch?v=80kzNwYGMpg"
-  
-  [params.services]
-    enable = true
 
-    [[params.services.item]]
-      icon = "icon-people"
+# How Questions
 
-    [[params.services.item]]
-      icon = "icon-lock"
-      
-    [[params.services.item]]
-      icon = "icon-energy"
+    [params.howQuestion]
+    [[params.howQuestion.item]]
+    url = "specifications-explained"
+    [[params.howQuestion.item]]
+    url = "https://medium.com/vertcoin-blog/2017-in-review-2018-roadmap-d4ba51b29da3"
 
-    [[params.services.item]]      
-      icon = "icon-heart"
-      
-    [[params.services.item]]  
-      icon = "icon-bubble"
-      
-    [[params.services.item]]
-      icon = "icon-chemistry"
-      
-  # Counters section
-  [params.counters]
-    enable = true
-    background = "full_image_1.jpg"
 
-    [[params.counters.item]]
-      icon = "icon-refresh"
-      from = 42300000
-      to = 42343150
-      interval = 2000
-      speed = 50000
+# Adoption Links
 
-    [[params.counters.item]]
-      icon = "icon-social-reddit"
-      from = 0
-      to = 30604
-      interval = 500
-      speed = 10000
+     [params.adoption]
+        [[params.adoption.item]]
+        url = "accept-vertcoin"
+        [[params.adoption.item]]
+        url = "buy-vertcoin"
 
-    [[params.counters.item]]
-      icon = "icon-speedometer"
-      from = 13700000
-      to = 13771410
-      interval = 3000
-      speed = 7000
 
-    [[params.counters.item]]
-      icon = "icon-social-twitter"
-      from = 0
-      to = 71500
-      interval = 5000
-      speed = 10000
-      
+
+# Guides
+
+    [params.guide]
+    [[params.guide.item]]
+    url = "lightning"
+    [[params.guide.item]]
+    url = "specifications-explained"
+
+
+# Social Links - Community Section
+
+
+
+    [params.communityStatus]
+    [[params.communityStatus.item]]
+    social = [
+            ["icon-reddit", "https://twitter.com/jamesl22"],
+            ["icon-twitter", "https://github.com/metalicjames/"],
+            ["icon-discord", "https://github.com/metalicjames/"]
+          ]
+
+
+
+ # About Section
+
   [params.about]
-    enable = true
-  
+
+
     [[params.about.item]]
       name = "James Lovejoy"
       img = "james.jpg"
@@ -128,13 +156,13 @@ weight = 2
       social = [
         ["icon-twitter", "https://twitter.com/etang600"]
       ]
-      
+
     [[params.about.item]]
       name = "Star Im"
       img = "star.jpg"
       alt = "Star"
-      social = []  
-      
+      social = []
+
     [[params.about.item]]
       name = "Bryan Goodson"
       img = "bryan.jpg"
@@ -143,38 +171,38 @@ weight = 2
         ["icon-twitter", "https://twitter.com/BryanGoodson"],
         ["icon-github", "https://github.com/Bryangoodson"],
         ["icon-linkedin", "https://www.linkedin.com/in/bgoodson"]
-      ]  
-      
+      ]
+
     [[params.about.item]]
       name = "Gert-Jaap Glasbergen"
-      img = "gertjaap.png"
+      img = "gertjaap.jpg"
       alt = "Gert-Jaap Glasbergen"
       social = [
         ["icon-twitter", "https://twitter.com/gertjaap"],
         ["icon-github", "https://github.com/gertjaap"],
         ["icon-linkedin", "https://www.linkedin.com/in/gertjaap"]
-      ]  
-      
+      ]
+
     [[params.about.item]]
       name = "Alex Turek"
       img = "alex.jpg"
       alt = "Alex Turek"
       social = [
         ["icon-linkedin", "https://www.linkedin.com/in/turekaj/"]
-      ] 
-      
+      ]
+
     [[params.about.item]]
       name = "jk_14"
       img = "person1.jpg"
       alt = "jk_14"
-      social = []  
-      
+      social = []
+
     [[params.about.item]]
       name = "pknight"
       img = "person2.jpg"
       alt = "pknight"
-      social = [] 
-      
+      social = []
+
     [[params.about.item]]
       name = "Adam Rivera"
       img = "adam.jpg"
@@ -182,21 +210,30 @@ weight = 2
       social = [
         ["icon-twitter", "https://twitter.com/a432511"],
         ["icon-linkedin", "https://www.linkedin.com/in/adammrivera/"]
-      ] 
-      
+      ]
+
     [[params.about.item]]
       name = "Daiki"
       img = "daiki.jpg"
       alt = "Daiki"
-      social = [] 
-      
+      social = []
+
     [[params.about.item]]
-      name = "The Community"
+      name = "Vertcoin Community"
       img = "placeholder.png"
       alt = "Community"
-      social = [] 
-      
+      social = []
+
+
+
+
+ [params.contact]
+
+
+
+
   [params.footer]
     enable = true
-    copyright = '&copy; Vertcoin 2018<br> &copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = ''
+
 

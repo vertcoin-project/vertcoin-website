@@ -1,261 +1,371 @@
+
+# Navigation Section
+
+
+    [navigation_0_title]
+    other = "Download"
+
+
+
+
+    [navigation_1_title]
+    other = "Purchase"
+
+
+    [navigation_2_title]
+    other = "Team"
+
+
+    [navigation_3_title]
+    other = "Donate"
+
+
+
+# Navigation Action Button
+
+
+    [navigationAction_0_title]
+    other = "Start Mining"
+
+
 # Hero Section
 
-[hero_title]
-other = "The People's Coin"
 
-[hero_subtitle]
-other = "Vertcoin is the currency anyone can mine, forever. Committed to fairness for all, Vertcoin stays true to the original goal of cryptocurrency: money controlled by and for its users, not banks."
+    [hero_title]
+    other = "Complete control of your own money."
+    [hero_subtitle]
+    other = "Free from big banks and centralised mining, secured by Proof-Of-Work."
+
+
+# Hero Desktop Downloads
+
+     [desktopDownload_0_title]
+        other = "Download for OS X"
+
+
+# Hero Mobile Downloads
+
+
+    [mobileDownload_0_title]
+            other = "Mobile App"
 
 
 # Intro Section
 
-[video_title]
-other = "Watch the video"
 
+    [intro_0_title]
+    other = "Start Mining"
+    [intro_0_description]
+    other = "Help Secure The Network"
 
-[intro_0_title]
-other = "Get a wallet"
 
-[intro_0_description]
-other = "Take control of your money. Securely store your Vertcoin using an official wallet or third-party hardware device."
+    [intro_1_title]
+    other = "Buy Vertcoin"
+    [intro_1_description]
+    other = "Where to Trade/Buy"
 
-[intro_0_button]
-other = "Explore your options"
 
+    [intro_2_title]
+    other = "Accept Vertcoin"
+    [intro_2_description]
+    other = "Save On Card Fees"
 
 
-[intro_1_title]
-other = "Start mining"
+    [intro_3_title]
+    other = "Community"
+    [intro_3_description]
+    other = "Vibrant Community"
 
-[intro_1_description]
-other = "Anyone can mine Vertcoin with hardware found in your local computer store. It's easy and possible with only a modest investment."
 
-[intro_1_button]
-other = "Find out how"
 
 
+# Why Section
 
-[intro_2_title]
-other = "Trade"
+[why_title]
+    other = "Why Vertcoin?"
+[why_description]
+    other = "We will transform the financial system with better software, free from the big banks and centralized miners, returning power from the few to the many. <img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
-[intro_2_description]
-other = "Buy and sell Vertcoin either over-the-counter or on an exchange. Trade for both other cryptocurrencies or your national currency."
 
-[intro_2_button]
-other = "View exchanges"
+# Why Section Picture
 
+[whyPicture_0_title]
+    other = "No Monopolies"
+[whyPicture_1_title]
+    other = "No ASICs"
 
 
-[intro_3_title]
-other = "Get involved"
+# How
 
-[intro_3_description]
-other = "Vertcoin is developed entirely by volunteers and funded by donations. There's plenty to do and a way for anyone to contribute."
+[how_title]
+    other = "How?"
+[how_description]
+    other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> Vertcoin is based on a proven stable implementation of Proof-Of-Work complemented by <a href='https://github.com/mit-dci/lit' target='_blank'>LIT - Lightning Network</a> developed at MIT. <img class='how-vertcoin' src='images/how-vertcoin.png' alt='Fair Mining and Lightning Network'>"
 
-[intro_3_button]
-other = "Help develop Vertcoin"
 
+# How Section Picture
+[howPicture_0_title]
+    other = "Proof-Of-Work Stability"
+[howPicture_1_title]
+    other = "Lightning Network (Non Commercial) MIT Version"
 
 
-[intro_4_title]
-other = "Learn more"
+# How Section Picture Caption
+[howPictureCaption_title]
+    other = "Proof-Of-Work has a proven track record for 10 years."
 
-[intro_4_description]
-other = "What makes Vertcoin special? What is the roadmap? How does it work? All of your questions answered."
 
-[intro_4_button]
-other = "Read the docs"
 
+# How Questions FAQ
 
 
-[intro_5_title]
-other = "Accept Vertcoin"
+[howQuestion_0_title]
+    other = "Why Vertcoin is Proof-Of-Work"
+[howQuestion_1_title]
+    other = "Vertcoin's Roadmap 2018"
 
-[intro_5_description]
-other = "Vertans (people who have Vertcoin) are itching for new ways to spend their coins and your business could be capitalising already."
 
-[intro_5_button]
-other = "Merchant tools"
 
 
 
-# Services section
-[services_title]
-other = "Why Vertcoin?"
 
-[services_description]
-other = "At the forefront of digital currency technology development and implementation for over four years, Vertcoin is pushing the boundaries of people power. We aim to transform the financial system with a better alternative in software, free from big banks and centralized miners, returning power to the many from the few."
+# Mining
 
+[mining_title]
+    other = "Fair To Mine, Forever"
+[mining_description]
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='../what-is-an-asic/'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an equal opportunity to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
-[service_0_title]
-other = "Anyone can mine"
 
-[service_0_description]
-other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the specialized hardware that is used to mine currencies like Bitcoin. We believe that everyone should have an equal oppurtunity to share in the benefits of the system and that miners should not stand in the way of technological progress."
+# Lightning
 
+[lightning_title]
+    other = "Lightning Network"
+[lightning_description]
+    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> Vertcoin is the <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>first coin</a> to implement <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>, the only non commercial version of the Lightning Networks, meaning that it will never be monetised. <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
 
 
-[service_1_title]
-other = "Cheap, fast and reliable settlement"
+# Lit Ecosystem
 
-[service_1_description]
-other = "The average Vertcoin transaction costs less than two cents and settles within two-and-a-half minutes. This makes Vertcoin useful as a currency, not just a store of value. With a proven track record of impeccable reliability, you can trust the Vertcoin Network to store and transmit your money securely for decades to come."
+[litEcosystem_title]
+    other = "Mobile Adoption Platform Lightning Enabled"
 
+[litEcosystem_subtitle]
+    other = "No Bank. Scalable. The Future."
 
+[litEcosystem_description]
+    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network mobile interface that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
-[service_2_title]
-other = "Lightning Network enabled"
 
-[service_2_description]
-other = "In 2017, Vertcoin was the first cryptocurrency to perform a livenet Lightning Network (LN) transaction. LN will allow Vertcoin to scale almost unbounded beyond its current capacity while enabling instant settlement, trustless currency swaps without a third-party escrow and peer-to-peer derivatives. LN transactions occur encrypted and off the blockchain giving you privacy without the need for slow and cumbersome cryptography."
 
+# Atomic Swaps
 
+[atomicSwaps_title]
+    other = "Lightning Atomic Swaps"
 
-[service_3_title]
-other = "No premine, no ICO, no air-drop"
+[atomicSwaps_subtitle]
+    other = "Swap Currencies Easily."
 
-[service_3_description]
-other = "Vertcoin is not a get-rich-quick scheme. Fairly distributed starting in January 2014, every Vertcoin in existence has been mined by its users on a level playing field. This makes Vertcoin less susceptible to market manipulation as the developers do not maintain large holdings to artificially inflate the market capitalization. Vertcoin's developers are volunteers and are our operations are funded entirely by community donations."      
+[atomicSwaps_description]
+    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment, convert it and accept it as a Bitcoin payment instead or any other currency that is supported. <br><br> We’re building Atomic Swaps into our platform as a larger move to move away from centralised exchanges for the benefit of crypto. <img class='atomic-swap-image' src='../images/atomic-swaps.png' alt='Swap Currencies on the go'>"
 
 
 
-[service_4_title]
-other = "Vibrant community"
+# Atomic Swaps Section Picture
 
-[service_4_description]
-other = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our Discord server or Subreddit to meet a tonne of like-minded people who are waiting to help you get started. Often hailed as one of the "best communities in crypto", Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'  
+[atomicSwapsPicture_0_title]
+    other = "Trustless Swap (No 3rd Party)"
+[atomicSwapsPicture_1_title]
+    other = "Lightning Network (Non Commercial) MIT Version"
 
 
 
-[service_5_title]
-other = "Active developers"
+# Atomic Swaps Section Picture
 
-[service_5_description]
-other = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on Discord and Reddit and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we're happy to help new users to understand this new and exciting technology."
 
+[atomicSwapsPictureCaption_0_title]
+    other = "Trustless Swap (No 3rd Party)"
+[atomicSwapsPictureCaption_1_title]
+    other = "Example: Merchant receives LTC and BTC and then converts them ‘on the fly’ into the equivalent fiat value of Vertcoins using a liquidity network. <br><br> Further Segwit coins can be added in the ease."
 
 
-# Counters section
-[counters_title]
-other = "Stats"
+# Adoption Links
 
-[counter_0_description]
-other = "Vertcoins in circulation"
+[adoption_0_title]
+    other = "Vertcoin For Business"
+[adoption_1_title]
+    other = "Purchase Vertcoin"
 
-[counter_1_description]
-other = "Reddit subscribers"
 
-[counter_2_description]
-other = "USD transacted in 24 hours"
 
-[counter_3_description]
-other = "Twitter followers"
+# Social Contract
 
+[socialContract_title]
+    other = "Commited To Building A Balanced System"
+[socialContract_description]
+    other = "Vertcoin has a social contract between the developers and the community to build the fairest system possible, free from monopoly whether it be ASICs or corporate 3rd party interests that want to control Vertcoin. Everyone should be able to participate equally and openly. <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest.'>"
 
 
-# About section
-[about_title]
-other = "The Vertcoin team"
+# Social Contract Picture
 
-[about_description]
-other = "Our international team of core developers have backgrounds ranging from microprocessor development to medical devices to biotech. All have a shared vision of a world with true competition in the financial sector."
+[socialContractPictureCaption_0_title]
+    other = "We will create the most balanced system, free from coporate interests. A monetary system for the people of the world to be proud of."
 
 
+# No Premine ICO AirDrop
 
-[about_0_position]
-other = "Lead Developer"
+[noPremine_title]
+    other = "No Premine, No ICO, No Air-Drop"
+[noPremine_description]
+    other = "Vertcoin is not a get-rich-quick scheme. Fairly distributed starting in January 2014, every Vertcoin in existence has been mined by its users on a level playing field.<br><br> This makes Vertcoin less susceptible to market manipulation as the developers do not maintain large holdings to artificially inflate the market capitalization."
 
-[about_0_description]
-other = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
 
 
 
-[about_1_position]
-other = "Developer"
+# No Premine ICO Airdrop Section Picture
 
-[about_1_description]
-other = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
 
+[noPreminePicture_0_title]
+    other = "No Premine"
+[noPreminePicture_1_title]
+    other = "No Airdrop"
 
 
-[about_2_position]
-other = "Developer"
 
-[about_2_description]
-other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
 
+# Community Status
 
+[communityStatus_title]
+    other = "Vibrant Community"
+[communityStatus_description]
+    other = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our <a href="https://discord.gg/vertcoin">Discord Server</a> or <a href="https://www.reddit.com/r/vertcoin/">Reddit</a> to meet a ton of like-minded people who are waiting to help you get started. <br><br> Often hailed as one of the “best communities in crypto”, Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'
 
-[about_3_position]
-other = "Developer"
 
-[about_3_description]
-other = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
 
+# Guides
 
 
-[about_4_position]
-other = "Developer"
+[guide_0_title]
+    other = "Vertcoin Lightning Guide"
+[guide_1_title]
+    other = "Vertcoin Specifications Explained"
 
-[about_4_description]
-other = "More info coming soon"
 
 
 
-[about_5_position]
-other = "Developer"
 
-[about_5_description]
-other = "Works in the field of software engineering since 1998, got in touch with cryptocurrencies since early 2013. Deeply interested in the field, and just recently getting involved with development side of cryptocurrencies and blockchains. Joined the Vertcoin development team to gain further experience in the field, and to contribute something to the community."
+# Team List
 
 
+    [about_title]
+    other = "Team"
+    [about_description]
+    other = " "
 
-[about_6_position]
-other = "Developer"
 
-[about_6_description]
-other = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
 
+    [about_0_position]
+    other = "Lead Developer"
+    [about_0_description]
+    other = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
 
 
-[about_7_position]
-other = "Developer"
 
-[about_7_description]
-other = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+    [about_1_position]
+    other = "Developer"
+    [about_1_description]
+    other = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
 
 
 
-[about_8_position]
-other = "Developer"
+    [about_2_position]
+    other = "Developer"
+    [about_2_description]
+    other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
 
-[about_8_description]
-other = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
 
 
+    [about_3_position]
+    other = "Developer"
+    [about_3_description]
+    other = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
 
-[about_9_position]
-other = "Former Lead Developer"
 
-[about_9_description]
-other = "Adam is a Software Engineer at heart but now oversees an entire Digital Innovation practice at a global marketing agency. His current role includes significant fiduciary, management and implementation responsibilities. Adam was the Lead Developer of Vertcoin in 2014 but took time off to focus on his family and career."
 
+    [about_4_position]
+    other = "Developer"
+    [about_4_description]
+    other = "More info coming soon"
 
 
-[about_10_position]
-other = "Public Relations (Japan)"
 
-[about_10_description]
-other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+    [about_5_position]
+    other = "Developer"
+    [about_5_description]
+    other = "Works in the field of software engineering since 1998, got in touch with cryptocurrencies since early 2013. Deeply interested in the field, and just recently getting involved with development side of cryptocurrencies and blockchains. Joined the Vertcoin development team to gain further experience in the field, and to contribute something to the community."
 
 
 
-[about_11_position]
-other = " "
+    [about_6_position]
+    other = "Developer"
+    [about_6_description]
+    other = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
 
-[about_11_description]
-other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+
+
+    [about_7_position]
+    other = "Developer"
+    [about_7_description]
+    other = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+
+
+
+    [about_8_position]
+    other = "Developer"
+    [about_8_description]
+    other = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
+
+
+
+    [about_9_position]
+    other = "Former Lead Developer"
+    [about_9_description]
+    other = "Adam is a Software Engineer at heart but now oversees an entire Digital Innovation practice at a global marketing agency. His current role includes significant fiduciary, management and implementation responsibilities. Adam was the Lead Developer of Vertcoin in 2014 but took time off to focus on his family and career."
+
+
+
+    [about_10_position]
+    other = "Public Relations (Japan)"
+    [about_10_description]
+    other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+
+
+
+    [about_11_position]
+    other = "Multi Skill Set"
+    [about_11_description]
+    other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+
+
+
+
+# Contact
+
+[contact_title]
+    other = "Feel Free To Chat!"
+[contact_description]
+    other = 'As community members just like you, the developers are friendly and approachable. Many of us are active daily on <a href="https://discord.gg/vertcoin">Discord</a> or <a href="https://www.reddit.com/r/vertcoin/">Reddit</a> and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we’re happy to help new users to understand this new and exciting technology.'
+
+
+
+
+
+
+
+
+
+
 
 #donation page
 [donation_donated]
@@ -266,3 +376,4 @@ other = "Goal"
 
 [donation_address]
 other = "Address"
+

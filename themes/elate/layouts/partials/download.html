@@ -1,0 +1,61 @@
+<section id="fh5co-home" data-section="home" style="" data-stellar-background-ratio="0.5">
+    <div class="gradient"></div>
+    <div class="container" style="width: 1020px;">
+        <div style="position: relative; bottom: 0px;">
+            <img style="
+    position: absolute;
+    z-index: 10;
+    bottom: 0px;
+    /* max-width: 990px; */
+    /* margin: 0 auto; */
+    width: 420px;
+    right: -52px;
+    top: 145px;
+    filter: drop-shadow(0px 40px 33px grey);
+
+    " src="../images/iphoneX-lit.png" alt="vertcoin-lightning-wallet">
+        </div>
+    </div>
+    <div class="container">
+        <div class="text-wrap">
+            <div class="text-inner">
+                <div class="row">
+
+                    <h1 class="">{{ i18n "hero_title" | markdownify }}</h1>
+                    <p class="">{{ i18n "hero_subtitle" | markdownify }}</p>
+
+
+                    <div>
+
+                        {{ range $index, $element := .Site.Params.desktopButton.item }}
+
+                        <div class="button" style="    width: fit-content;
+    font-size: 15px;
+    padding: 10px 17px; margin-right: 10px;">{{ i18n (printf "desktopDownload_%d_title" $index) | markdownify }}</div>
+
+                        {{ end }}
+
+
+
+                        {{ range $index, $element := .Site.Params.mobileButton.item }}
+                        <div class="button" style="    width: fit-content;
+    font-size: 15px;
+    padding: 10px 39px; background: white; color: black; margin-left: 10px; border: 1px solid rgba(0,0,0,0.14);">{{ i18n (printf "mobileDownload_%d_title" $index) | markdownify }}
+
+                        </div>
+
+
+
+                        {{ end }}
+
+                    </div>
+                    <div style="color: black;
+    /* opacity: 0.6; */
+    font-size: 13px;
+    margin-top: 17px;">MacOS 10.10 (Yosemite) or higher</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--<div class="slant"></div>-->
+</section>

@@ -8,40 +8,98 @@
         {{ partial "head.html" .}}
     </head>
     <body>
-        {{ partial "nav.html" .}}
 
-		{{ partial "hero.html" .}}
-		
+
+
+
+
+
+
+
+
+
+
+    {{ partial "nav.html" .}}
+
+        {{ partial "hero.html" .}}
+
+
+
         {{ partial "intro.html" .}}
 
-		{{ if .Site.Params.work.enable }}
-       		{{ partial "work.html" .}}
-       	{{ end }}
 
-		{{ if .Site.Params.testimonials.enable }}
-        	{{ partial "testimonials.html" .}}
-		{{ end }}
+        <section class="separator-greenLine">
+            {{ partial "home-why.html" .}}
+        </section>
 
-		{{ if .Site.Params.services.enable }}
-        	{{ partial "services.html" .}}
-		{{ end }}
 
-		{{ if .Site.Params.about.enable }}
-        	{{ partial "about.html" .}}
-		{{ end }}
+        <section class="separator-greenLine">
+            {{ partial "home-how.html" .}}
+            {{ partial "home-how-questions.html"  .}}
+        </section>
 
-		{{ if .Site.Params.counters.enable }}
-        	{{ partial "counters.html" .}}
-        {{ end }}
 
-		{{ if .Site.Params.contact.enable }}
-        	{{ partial "contact.html" .}}
-        {{ end }}
+        <section class="separator-greenLine">
+            <div class="side-by-side">
+            {{ partial "home-mining.html" .}}
+            {{ partial "home-lightning.html" .}}
+            </div>
+        </section>
 
-        {{ if .Site.Params.footer.enable }}
-        	{{ partial "footer.html" .}}
-        {{ end }}
+
+
+
+        <section class="separator-greenLine">
+            {{ partial "home-atomicSwaps.html" .}}
+        </section>
+
+    <section class="separator-greenLine">
+        {{ partial "home-litEcosystem.html" .}}
+    </section>
+
+    <section class="separator-greenLine guideSpacer">
+        {{ partial "home-adoption.html" .}}
+    </section>
+
+
+        <section class="separator-greenLine">
+            {{ partial "home-socialContract.html" .}}
+        </section>
+
+
+
+        <section class="separator-greenLine">
+            <div class="side-by-side" style="padding-bottom: 46px;">
+            {{ partial "home-noPremine.html" .}}
+            {{ partial "home-communityStatus" .}}
+            </div>
+
+        </section>
+
+
+        <section class="separator-greenLine guideSpacer">
+            {{ partial "home-guides.html" .}}
+        </section>
+
+
+		<section class="separator-greenLine">
+            {{ partial "about.html" .}}
+        </section>
+
+
+
+        <section class="separator-greenLine">
+		{{ partial "home-contact.html" .}}
+        </section>
+
+
+        {{ partial "footer.html" .}}
+
 
         {{ partial "js.html" .}}
     </body>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
 </html>

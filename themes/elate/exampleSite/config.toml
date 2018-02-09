@@ -36,7 +36,11 @@ theme = "hugo-elate-theme"
     #  url = "http://gohugo.io"
     #  name = "External link"
     #  weight = 10
-  
+
+
+
+
+
   # Hero section
   [params.hero]
     title = "Do something you love."
@@ -244,35 +248,17 @@ theme = "hugo-elate-theme"
       interval = 50
       speed = 5000
 
-    [[params.counters.item]]
-      description = "Happy clients"
-      icon = "icon-people"
-      from = 0
-      to = 52
-      interval = 50
-      speed = 5000
+
 
   # Contact section
   [params.contact]
-    enable = true
-    map = true
-    form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    
-    # Available icons: http://simplelineicons.com/
-    details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
-      ]
+    description = "As community members just like you, the developers are friendly and approachable. Many of us are active daily on
+             							<a href='https://discord.gg/vertcoin'>Discord</a> and <a href='https://www.reddit.com/r/vertcoin'>Reddit</a> and regularly converse with users, providing support and answering questions.
+             							Besides development and marketing, one of our primary roles is education and we’re happy to help
+             							new users to understand this new and exciting technology. "
 
-    name = "Name"
-    email = "Email"
-    phone = "Phone"
-    message = "Message"
-    button = "Send message"
+
 
   # Footer section
   [params.footer]

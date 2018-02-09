@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+<head>
+    {{ partial "head.html" .}}
+
+
+    <style>
+        svg {
+            filter: brightness(10000);
+        }
+
+        #navbar li a {
+            color: white !important;
+        }
+
+        .locale-picker .opener .line {
+            background-color: white !important;
+        }
+
+        .navbar-brand img {
+            filter: brightness(10000);
+        }
+    </style>
+</head>
+<body style="background: url('../images/iphoneX-lit-real.png'); background-size: cover;">
+<style>
+    #fh5co-about {
+        margin-top: 20px;
+    }
+</style>
+
+{{ partial "nav.html" .}}
+
+<section class="separator-greenLine">
+
+    <div class="container content-container">
+
+        {{ .Content }}
+
+    </div>
+
+</section>
+
+
+
+</body>
+</html>

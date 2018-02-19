@@ -36,6 +36,11 @@ body {
   overflow-x: hidden;
 }
 
+strong {
+  font-family: "Gotham Bold";
+  font-weight: normal;
+}
+
 tr {
   font-family: "Gotham Book";
 }
@@ -436,7 +441,7 @@ table {
 .small-home {
   height: 6em !important;
   height: 257px !important;
-  height: 605px !important;
+  height: 205px !important;
 }
 
 .content-container {
@@ -542,6 +547,7 @@ table {
 #fh5co-home .text-inner h1 {
   font-size: 26.85px;
   font-size: 37.44px;
+  font-size: 40.44px;
   color: white;
   color: #111111;
   margin: 0 0 16px 0;
@@ -621,6 +627,7 @@ table {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
+  display: initial;
 }
 #fh5co-intro .fh5co-block {
   width: 25%;
@@ -693,6 +700,7 @@ table {
 }
 
 #fh5co-intro .fh5co-block * {
+  color: #121212;
   color: white;
 }
 
@@ -806,8 +814,8 @@ table {
   padding-right: 30px;
 }
 .wrapper h3 {
-  font-size: 37.44px;
-  color: #000;
+  font-size: 43.44px;
+  color: #121212;
   text-transform: capitalize;
   line-height: 1.4;
 }
@@ -1192,6 +1200,7 @@ h4 svg {
 .fh5co-person figure img {
   width: 247px;
   /*border: 2px solid #f2f2f2;*/
+  border-radius: 3px;
 
 }
 .fh5co-person h3 {
@@ -1408,8 +1417,9 @@ h4 svg {
   display: block;
   margin: 0 auto;
   display: none;
-  height: 44px;
-  width: 25px;
+  height: 66px;
+  width: 45px;
+  z-index: 9999;
   border-bottom: none !important;
 }
 @media screen and (max-width: 768px) {
@@ -1731,7 +1741,7 @@ h4 svg {
   position: absolute;
   bottom: 0px;
   left: 0px;
-  border-bottom: 1px solid #111111;
+  /*border-bottom: 1px solid #111111;*/
 }
 
 @media (max-width: 768px) {
@@ -2072,7 +2082,7 @@ h4 svg {
 .teamTitle {
 
   margin-top: 38px !important;
-  font-size: 50px !important;
+  font-size: 55px !important;
 }
 
 .guideTitles {
@@ -2207,4 +2217,67 @@ h2.guideTitles svg {
   .hideMobile {
     display: none;
   }
+}
+
+.progress-bar-success {
+  background: #329C71;
+}
+
+.progress {
+  background-color: #D8D8D8;
+  border-radius: 0px;
+  box-shadow: none;
+  height: 41px;
+}
+
+.donationGoal {
+  width: 100%;
+  margin-bottom: 97px;
+  min-height: 300px;
+  margin-top: 10px;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.donationGoal h1 {
+  white-space: nowrap;
+  margin-top: 10px;
+}
+
+.donationGoal .donationAddress {
+  white-space: nowrap;
+}
+
+.centre {
+  text-align: center;
+}
+
+.container h1 {
+  text-transform: capitalize;
+}
+
+
+.spinner {
+  animation-name: spinner;
+  -webkit-animation-name: spinner;
+  animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  animation-timing-function: linear;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  visibility: visible !important;
+}
+
+@keyframes spinner  {
+
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+
 }

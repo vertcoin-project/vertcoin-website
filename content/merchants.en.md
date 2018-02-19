@@ -16,20 +16,3 @@ Payment gateways accept Vertcoin on your behalf and give you your national curre
 
 Vertcoin is compatible with most exiting libraries intended for Bitcoin such as [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) and [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib). Vertcoin also has ports of [Bitcore](https://github.com/Cubey2019/vertcore), [Insight](https://insight.vertcoin.org) and [Electrum](https://github.com/kyuupichan/electrumx). 
 
-#### Existing merchants
-
-##### Video Games
-
-- [Keys4coins](https://www.keys4coins.com/)
-- [XBL4BTC](https://xbl4btc.com/)
-
-##### Food
-
-- [Crypto de Change(UK)](https://www.cryptodechange.com/?currency=vtc)
-
-##### Goods/Merchandise
-
-- [Gifftoff](https://giftoff.com/)
-- [Geekboxit](https://geekboxit.com/product/vertcoin-t-shirt/)
-- [Shirtcoins](https://shirtcoins.com/collections/vtc)
-

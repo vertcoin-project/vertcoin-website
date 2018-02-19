@@ -72,9 +72,9 @@
 
 
     [intro_3_title]
-    other = "Community"
+    other = "Join Community"
     [intro_3_description]
-    other = "Vibrant Community"
+    other = "Contribute Your Skills"
 
 
 
@@ -134,7 +134,7 @@
 [mining_title]
     other = "Fair To Mine, Forever"
 [mining_description]
-    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='../what-is-an-asic/'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an equal opportunity to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an equal opportunity to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
 
@@ -143,32 +143,32 @@
 [lightning_title]
     other = "Lightning Network"
 [lightning_description]
-    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> Vertcoin is the <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>first coin</a> to implement <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>, the only non commercial version of the Lightning Networks, meaning that it will never be monetised. <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
+    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> Vertcoin is the <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>first coin</a> to implement <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>, the only non commercial version of the Lightning Networks, <strong>meaning that it will never be monetised.</strong> <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
 
 
 # Lit Ecosystem
 
 [litEcosystem_title]
-    other = "Mobile Adoption Platform Lightning Enabled"
+    other = "Your Money, Your Bank, Your Control."
 
 [litEcosystem_subtitle]
     other = "No Bank. Scalable. The Future."
 
 [litEcosystem_description]
-    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network mobile interface that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network mobile and desktop app that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 
 # Atomic Swaps
 
 [atomicSwaps_title]
-    other = "Lightning Atomic Swaps"
+    other = "Swap Currencies Easily"
 
 [atomicSwaps_subtitle]
-    other = "Swap Currencies Easily."
+    other = "Lightning Atomic Swaps"
 
 [atomicSwaps_description]
-    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment, convert it and accept it as a Bitcoin payment instead or any other currency that is supported. <br><br> We’re building Atomic Swaps into our platform as a larger move to move away from centralised exchanges for the benefit of crypto. <img class='atomic-swap-image' src='../images/atomic-swaps.png' alt='Swap Currencies on the go'>"
+    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin instead or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as a larger move to move away from centralised exchanges for the benefit of crypto. <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
 
 
 
@@ -193,7 +193,7 @@
 # Adoption Links
 
 [adoption_0_title]
-    other = "Vertcoin For Business"
+    other = "Accept Vertcoin Payments"
 [adoption_1_title]
     other = "Purchase Vertcoin"
 
@@ -247,7 +247,7 @@
 
 
 [guide_0_title]
-    other = "Vertcoin Lightning Guide"
+    other = "Contribute Your Skills"
 [guide_1_title]
     other = "Vertcoin Specifications Explained"
 
@@ -372,8 +372,10 @@
 other = "Donated"
 
 [donation_goal]
-other = "Goal"
+other = "Donation goal"
 
 [donation_address]
-other = "Address"
+other = "VTC Donation Address"
+
+
 

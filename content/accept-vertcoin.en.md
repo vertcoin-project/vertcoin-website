@@ -5,14 +5,13 @@ draft: false
 ---
 
 
-# Vertcoin For Business
+You can either accept Vertcoin via a payment processor that accepts cryptocurrency and give you your local currency, or by integrating the Vertcoin wallet into your payment system. Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support.
 
-The Vertcoin One-Click Miner is by far the easiest way to get started. It's a user-friendly piece of software (Windows only), that allows you to start mining with a few easy steps. You can download the One-Click Miner using the button below, and follow [this guide](https://medium.com/vertcoin-blog/updated-vertcoin-one-click-miner-ocm-setup-b7052a4664c9) for setting it up.
+# Payment Gateways
 
+Payment gateways accept Vertcoin on your behalf and give you your national currency in return. [CoinPayments](https://www.coinpayments.net/) is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charged an 0.5% fee for its services and has integrations with various popular [e-commerce platforms](https://www.coinpayments.net/merchant-tools-plugins) including WooCommerce, Xcart, drupal and wordpress.
 
-# Point Of Sales Equipment
+# For Developers
 
-If you're more than a casual miner, you can also consider investing in dedicated mining hardware. You can build a dedicated computer solely for mining, where most so-called _rigs_ contain 6 or more GPUs. By adding a bigger number of GPUs, the rewards are also proportionally higher - but so is the investment upfront.
+Vertcoin is compatible with most exiting libraries intended for Bitcoin such as [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) and [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib). Vertcoin also has ports of [Bitcore](https://github.com/Cubey2019/vertcore), [Insight](https://insight.vertcoin.org) and [Electrum](https://github.com/kyuupichan/electrumx).
 
-
-There's plenty of guides on how to build a dedicated mining rig on the internet; if you're capable of assembling a normal desktop computer, you should be able to assemble a mining rig. Dedicated miners are commonly using a command-line script for starting the miner so that the miner automatically starts when the machine starts. Most dedicated rigs use the mining software [ccminer](https://github.com/tpruvot/ccminer), which is also included in the One-Click Miner, but without the Graphical User Interface.

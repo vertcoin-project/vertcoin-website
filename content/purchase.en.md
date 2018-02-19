@@ -1,11 +1,8 @@
 ---
-title: "Buy Vertcoin"
+title: "Purchase"
 date: 2018-01-09T01:51:53Z
 draft: false
 ---
-
-# Trade Vertcoin
-
 Vertcoin trades 24 hours per day, 365 days per year, globally with millions of 
 United States Dollars worth of daily trading volume. You can trade Vertcoin for 
 other cryptocurrencies or for your national currency using an exchange. Brokers 

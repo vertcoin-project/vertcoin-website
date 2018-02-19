@@ -37,7 +37,7 @@ theme = "elate"
     [[params.navigation.item]]
      url = "download"
     [[params.navigation.item]]
-    url = "buy-vertcoin"
+    url = "purchase"
     [[params.navigation.item]]
     url = "team"
     [[params.navigation.item]]

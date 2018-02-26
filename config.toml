@@ -100,7 +100,7 @@ theme = "elate"
         [[params.adoption.item]]
         url = "accept-vertcoin"
         [[params.adoption.item]]
-        url = "buy-vertcoin"
+        url = "purchase"
 
 
 

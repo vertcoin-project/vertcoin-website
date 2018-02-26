@@ -699,6 +699,7 @@ table {
   background-repeat: no-repeat;
   text-decoration: none;
   position: relative;
+  transition: none;
 }
 
 #fh5co-intro .fh5co-block:after {
@@ -714,13 +715,13 @@ table {
   background-image: linear-gradient(top,transparent 0,rgba(0,0,0,0.7) 100%);
 }
 
-@media screen and (max-width: 616px) {
+@media screen and (max-width: 767px) {
   #fh5co-intro .fh5co-block {
     width: 100%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) and (min-width: 768px) {
   #fh5co-intro .fh5co-block {
     width: 50%;
   }

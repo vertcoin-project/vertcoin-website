@@ -100,7 +100,7 @@
 [how_title]
     other = "How?"
 [how_description]
-    other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> Vertcoin is based on a proven stable implementation of Proof-Of-Work complemented by <a href='https://github.com/mit-dci/lit' target='_blank'>LIT - Lightning Network</a> developed at MIT. <img class='how-vertcoin' src='images/how-vertcoin.png' alt='Fair Mining and Lightning Network<br>'>"
+    other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> Vertcoin is based on a proven stable implementation of Proof-Of-Work complemented by <a href='https://github.com/mit-dci/lit' target='_blank'>LIT - Lightning Network</a> developed at MIT. <img class='how-vertcoin' src='images/how-vertcoin.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture
@@ -204,7 +204,7 @@
 [socialContract_title]
     other = "Commited To Building A Balanced System"
 [socialContract_description]
-    other = "Vertcoin has a social contract between the developers and the community to build the fairest system possible, free from monopoly whether it be ASICs or corporate 3rd party interests that want to control Vertcoin. Everyone should be able to participate equally and openly. <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest.<br>'>"
+    other = "Vertcoin has a social contract between the developers and the community to build the fairest system possible, free from monopoly whether it be ASICs or corporate 3rd party interests that want to control Vertcoin. Everyone should be able to participate equally and openly. <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest.'>"
 
 
 # Social Contract Picture

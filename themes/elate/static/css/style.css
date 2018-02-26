@@ -296,7 +296,7 @@ table {
 
 #fh5co-header {
   position: absolute;
-  z-index: 99;
+  z-index: 6500;
   width: 100%;
   opacity: 1;
   top: 0;
@@ -367,7 +367,7 @@ table {
   /* Web Font */
   font-family: "Gotham A", "Gotham B";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   /*---------*/
 
 
@@ -578,14 +578,14 @@ table {
   display: table;
   width: 100%;
   position: relative;
-  z-index: 4;
+  z-index: 5555;
 }
 #fh5co-home .text-inner {
   vertical-align: middle;
-  text-align: left;
+  text-align: center;
   position: relative;
   margin-top: 142px;
-  margin-top: 203px;
+  margin-top: 163px;
   z-index: 5000;
   transform: rotate(0);
 
@@ -618,7 +618,7 @@ table {
   color: #111111;
   margin: 0 0 16px 0;
   line-height: 1.4;
-  max-width: 570px;
+  /*max-width: 570px; */
 
 }
 
@@ -642,7 +642,7 @@ table {
   color: #111111;
   margin: 0;
   margin-bottom: 28px;
-  max-width: 510px;
+  /*max-width: 510px;*/
 }
 
 @media screen and (max-width: 768px) {
@@ -1703,11 +1703,17 @@ h4 svg {
   margin-right: 27px;
 }
 
+.container {
+  /*padding-left: 27px;*/
+  /*padding-right: 27px;*/
+}
+
 .button {
   border-radius: 3px;
   padding: 7px;
   background: #1D5C2F;
   background: #349d72;
+  background: #13B57D;
 
 
 

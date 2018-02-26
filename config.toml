@@ -57,9 +57,7 @@ theme = "elate"
 
 
 
-  [params.mobileDownload]
 
-    [[params.mobileButton.item]]
 
 
 

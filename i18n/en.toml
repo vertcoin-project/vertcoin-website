@@ -28,26 +28,22 @@
     other = "Start Mining"
 
 
-# Hero Section
+# Hero Section Start Mining
 
 
     [hero_title]
-    other = "Complete control of your own money."
+    other = "The People's Coin"
     [hero_subtitle]
-    other = "Free from big banks and centralised mining, secured by Proof-Of-Work."
+    other = "Free from big banks and centralised mining.<br> Truely be your own bank."
 
 
 # Hero Desktop Downloads
 
      [desktopDownload_0_title]
-        other = "Download for OS X"
+        other = "Start Mining Today"
 
 
-# Hero Mobile Downloads
 
-
-    [mobileDownload_0_title]
-            other = "Mobile App"
 
 
 # Intro Section

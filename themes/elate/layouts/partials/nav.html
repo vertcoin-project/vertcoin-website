@@ -5,7 +5,7 @@
                 <div class="navbar-header">
                     <!-- Mobile Toggle Menu Button -->
                     <a class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">MENU</a>
-                    <a class="navbar-brand" href="/index.html"><img src="../images/vertcoin-header-logo.svg" alt="Vertcoin"></a>
+                    <a class="navbar-brand" href="../"><img src="../images/vertcoin-header-logo.svg" alt="Vertcoin"></a>
                     <a class="js-fh5co-nav-toggle fh5co-language-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
@@ -30,7 +30,7 @@
 
                         {{ range $index, $element := .Site.Params.navigationAction.item }}
 
-                        <li><a class="button actionButton" style="margin-right: 10px;" href="/mine" data-nav-section="start-mining"><span>{{ i18n (printf "navigationAction_%d_title" $index) | markdownify }}</span></a></li>
+                        <li><a class="button actionButton" style="display: none; margin-right: 10px;" href="/mine" data-nav-section="start-mining"><span>{{ i18n (printf "navigationAction_%d_title" $index) | markdownify }}</span></a></li>
 
                         {{ end }}
 

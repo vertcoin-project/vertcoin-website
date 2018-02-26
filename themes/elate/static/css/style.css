@@ -1780,6 +1780,7 @@ h4 svg {
   padding-top: 66px;
   padding-top: 96px;
   padding-top: 106px;
+  overflow-x: hidden;
 }
 
 .separator-greenLine section:nth-child(2) {

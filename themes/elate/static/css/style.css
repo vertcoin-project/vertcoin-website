@@ -1769,18 +1769,36 @@ h4 svg {
 }
 
 
+@media (max-width: 515px) {
+  .wrapper {
+
+    padding-bottom: 43px;
+  }
+}
+
+
 
 .wrapper .childController {
   width: 50%;
   position: relative;
   display: inline-block;
 }
+
+
 .separator-greenLine {
   position: relative;
   padding-top: 66px;
   padding-top: 96px;
   padding-top: 106px;
   overflow-x: hidden;
+}
+
+
+
+@media (max-width: 515px) {
+  .separator-greenLine {
+    padding-top: 53px;
+  }
 }
 
 .separator-greenLine section:nth-child(2) {
@@ -2055,9 +2073,9 @@ h4 svg {
   .how-vertcoin {
     float: left;
     position: relative;
-    width: 765px;
+    width: 845px;
     height: auto;
-    margin-top: 28px;
+    margin-top: 48px;
     margin-bottom: 20px;
     top: 0px;
     right: 0px;
@@ -2078,9 +2096,9 @@ h4 svg {
   .atomic-swap-image {
     float: left;
     position: relative;
-    width: 472px;
+    width: 483px;
     height: auto;
-    margin-top: 28px;
+    margin-top: 38px;
     margin-bottom: 20px;
     top: 0px;
     right: 0px;
@@ -2102,7 +2120,7 @@ h4 svg {
   .ecoSystem-image {
     float: left;
     position: relative;
-    width: 315px;
+    width: 333px;
     height: auto;
     margin-top: 48px;
     margin-bottom: 20px;

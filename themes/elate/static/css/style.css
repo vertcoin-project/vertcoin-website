@@ -714,11 +714,18 @@ table {
   background-image: linear-gradient(top,transparent 0,rgba(0,0,0,0.7) 100%);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 616px) {
   #fh5co-intro .fh5co-block {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  #fh5co-intro .fh5co-block {
+    width: 50%;
+  }
+}
+
 #fh5co-intro .fh5co-block > .overlay-darker {
   z-index: 8;
   opacity: .5;
@@ -1477,7 +1484,7 @@ h4 svg {
   z-index: 9999;
   border-bottom: none !important;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 616px) {
   .fh5co-nav-toggle {
     display: block;
   }
@@ -1769,7 +1776,7 @@ h4 svg {
 }
 
 
-@media (max-width: 515px) {
+@media (max-width: 616px) {
   .wrapper {
 
     padding-bottom: 43px;
@@ -1795,7 +1802,7 @@ h4 svg {
 
 
 
-@media (max-width: 515px) {
+@media (max-width: 616px) {
   .separator-greenLine {
     padding-top: 53px;
   }

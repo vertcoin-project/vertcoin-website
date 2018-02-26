@@ -565,6 +565,15 @@ table {
   /*height: 95vh;*/
 
 }
+
+@media screen and (max-width: 768px) {
+  #fh5co-home, #fh5co-home .text-wrap {
+    height: 526px;
+
+  }
+}
+
+
 #fh5co-home .text-wrap {
   display: table;
   width: 100%;
@@ -577,6 +586,8 @@ table {
   position: relative;
   margin-top: 142px;
   margin-top: 203px;
+  z-index: 5000;
+  transform: rotate(0);
 
 }
 
@@ -1895,6 +1906,7 @@ h4 svg {
 
 #fh5co-about {
   position: relative;
+  overflow: hidden;
 }
 #fh5co-about:after {
   width: 50%;
@@ -2074,6 +2086,7 @@ h4 svg {
   height: 501px;
 
   filter: drop-shadow(0px 40px 33px grey);
+  transform: rotate(0);
 
 }
 

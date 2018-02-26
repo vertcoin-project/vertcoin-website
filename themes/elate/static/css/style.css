@@ -1714,6 +1714,7 @@ h4 svg {
   text-transform: capitalize !important;
   font-size: 15px !important;
   color: white;
+  font-weight: 400;
 }
 
 .themeButton {

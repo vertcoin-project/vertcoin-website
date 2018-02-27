@@ -316,6 +316,7 @@ table {
   #fh5co-header .navbar-brand {
     /*color: #52d3aa !important;*/
     padding-top: 0px;
+    padding-right: 0px;
   }
   #fh5co-header #navbar li a {
     color: rgba(0, 0, 0, 1) !important;
@@ -611,7 +612,7 @@ table {
 
 @media screen and (max-width: 767px) {
   #fh5co-home .text-inner {
-    margin-top: 118px;
+    margin-top: 132px;
     text-align: center;
   }
 }
@@ -637,12 +638,14 @@ table {
   margin: 0 0 16px 0;
   line-height: 1.4;
   /*max-width: 570px; */
+  padding-bottom: 10px;
 
 }
 
 @media screen and (max-width: 767px) {
   #fh5co-home .text-inner h1 {
     font-size: 23.23px;
+    font-size: 25.44px;
     margin: 0 0 20px 0;
     width: 75%;
     margin: 0 auto;
@@ -667,9 +670,10 @@ table {
   #fh5co-home .text-inner p {
     line-height: 23px;
     line-height: 1.5;
-    width: 89%;
+    width: 95%;
     margin: 0 auto;
     font-size: 15.67px;
+    font-size: 18.44px;
 
   }
 

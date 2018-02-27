@@ -47,7 +47,7 @@ or sell coins using bank transfer or credit/debit card.
 |[LiteBit](https://www.litebit.eu)|[EUR](https://www.litebit.eu/en/buy/vertcoin)|The Netherlands|
 
 
-## Others
+# Others
 
 For a semi-complete list of exchanges, brokers and their relative trading volumes/prices, you can check
 [CoinMarketCap](https://coinmarketcap.com/currencies/vertcoin/#markets).

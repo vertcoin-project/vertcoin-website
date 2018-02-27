@@ -502,6 +502,8 @@ table {
 .content-container {
   margin-top: 2em;
   /*padding-left: 1.5em;*/
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
 #fh5co-home {
@@ -512,7 +514,7 @@ table {
   width: 100%;
   background-color: #52d3aa;
   background-color: white;
-  background-color: #fafafa;
+  /*background-color: #fafafa;*/
   color: #fff;
   overflow: hidden;
 
@@ -613,7 +615,7 @@ table {
 #fh5co-home .text-inner h1 {
   font-size: 26.85px;
   font-size: 37.44px;
-  font-size: 40.44px;
+  font-size: 43.44px;
   color: white;
   color: #111111;
   margin: 0 0 16px 0;
@@ -636,7 +638,7 @@ table {
 
 #fh5co-home .text-inner p {
   font-size: 15px;
-  font-size: 20.44px;
+  font-size: 25.44px;
   line-height: 38px;
   font-weight: 300;
   color: #111111;

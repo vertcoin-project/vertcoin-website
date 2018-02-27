@@ -604,7 +604,7 @@ table {
   text-align: center;
   position: relative;
   margin-top: 142px;
-  margin-top: 163px;
+  margin-top: 155px;
   z-index: 5000;
   transform: rotate(0);
 
@@ -2361,6 +2361,7 @@ h2.guideTitles svg {
 
 .progress-bar-success {
   background: #329C71;
+  background: #14b57c;
 }
 
 .progress {

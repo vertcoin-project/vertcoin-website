@@ -307,7 +307,7 @@ table {
 
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-header {
     padding-top: 0;
     height: 100px;
@@ -477,7 +477,7 @@ table {
   -ms-border-radius: 0px;
   border-radius: 0px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-header .navbar-default {
     margin-top: 0px;
     padding-right: 0px;
@@ -576,9 +576,17 @@ table {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-home, #fh5co-home .text-wrap {
     height: 526px;
+
+  }
+}
+
+@media screen and (max-width: 616px) {
+  #fh5co-home, #fh5co-home .text-wrap {
+    height: 485px;
+    height: 80vh;
 
   }
 }
@@ -601,7 +609,7 @@ table {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-home .text-inner {
     margin-top: 118px;
     text-align: center;
@@ -632,7 +640,7 @@ table {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-home .text-inner h1 {
     font-size: 23.23px;
     margin: 0 0 20px 0;
@@ -655,12 +663,14 @@ table {
   /*max-width: 510px;*/
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-home .text-inner p {
     line-height: 23px;
+    line-height: 1.5;
     width: 89%;
     margin: 0 auto;
     font-size: 15.67px;
+
   }
 
 }
@@ -689,7 +699,7 @@ table {
   z-index: 10;
   /*padding-bottom: 7em;*/
 }
-/*@media screen and (max-width: 768px) {*/
+/*@media screen and (max-width: 767px) {*/
   /*#fh5co-intro {*/
     /*padding-bottom: 3em;*/
   /*}*/
@@ -742,7 +752,7 @@ table {
   }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 1023px) and (min-width: 767px) {
   #fh5co-intro .fh5co-block {
     width: 50%;
   }
@@ -852,7 +862,7 @@ table {
 #fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about {
   /*padding: 4em 0;*/
 }
-/*@media screen and (max-width: 768px) {*/
+/*@media screen and (max-width: 767px) {*/
   /*#fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about {*/
     /*padding: 2em 0;*/
   /*}*/
@@ -861,7 +871,7 @@ table {
 #fh5co-services, #fh5co-work, #fh5co-counters {
   /*padding: 7em 0;*/
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-services, #fh5co-work, #fh5co-counters {
     /*padding: 4em 0;*/
   }
@@ -916,16 +926,18 @@ h4 svg {
   margin-left: 15px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .wrapper h4 {
-    font-size: 17.44px;;
+    font-size: 17.44px;
+    font-size: 20.44px;
   }
 }
 
 
 @media screen and (max-width: 768px) {
   .wrapper h3 {
-    font-size: 25.44px;;
+    font-size: 25.44px;
+    font-size: 34.44px;
   }
 }
 
@@ -980,7 +992,7 @@ h4 svg {
   width: 100%;
   padding: 9em 0 10em 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-counters {
     padding: 4em 0;
   }
@@ -1387,7 +1399,7 @@ h4 svg {
   /*margin-left: -40px;*/
   /*bottom: 0;*/
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .section-heading h2 {
     font-size: 30px;
   }
@@ -1397,7 +1409,7 @@ h4 svg {
   line-height: 1.5;
   color: #929292;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .section-heading h3 {
     font-size: 24px !important;
     line-height: 34px;
@@ -1440,6 +1452,7 @@ h4 svg {
   background: #ffffff;
   background: #111111;
   transition: all .2s ease-out;
+  border-radius: 5px;
 }
 .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
   content: '';
@@ -1452,6 +1465,7 @@ h4 svg {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+  border-radius: 5px;
 }
 
 .fh5co-nav-toggle i::before {
@@ -1584,7 +1598,7 @@ h4 svg {
   height: 500px;
   position: relative;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #map {
     height: 200px;
   }
@@ -1630,7 +1644,7 @@ h4 svg {
 .row-bottom-padded-lg {
   padding-bottom: 7em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .row-bottom-padded-lg {
     padding-bottom: 2em;
   }
@@ -1639,7 +1653,7 @@ h4 svg {
 .row-bottom-padded-md {
   padding-bottom: 4em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .row-bottom-padded-md {
     padding-bottom: 2em;
   }
@@ -1648,7 +1662,7 @@ h4 svg {
 .row-bottom-padded-sm {
   padding-bottom: 2em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .row-bottom-padded-sm {
     padding-bottom: 2em;
   }
@@ -1671,21 +1685,21 @@ h4 svg {
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   #fh5co-header #navbar li a span {
     color: white;
   }
 }
 
 
-/*@media screen and (max-width: 768px) {*/
+/*@media screen and (max-width: 767px) {*/
   /*.noSpaceMobile {*/
     /*padding: 0px !important;*/
     /*margin: 0px !important;*/
   /*}*/
 /*}*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .collapsing {
     transition: all .2s !important;
@@ -1698,7 +1712,7 @@ h4 svg {
   width: 149px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .navbar-brand img {
     text-align: center;
     margin: 0 auto;
@@ -1770,13 +1784,13 @@ h4 svg {
   background:
 }
 
-@media (min-width: 768px) {}
+@media (min-width: 767px) {}
   .navbar-nav > li > a {
     padding-top: 8.5px;
     padding-bottom: 8.5px;
   }
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
   .navbar-nav {
     margin-top: 16px;
   }
@@ -1832,7 +1846,7 @@ h4 svg {
 
 @media (max-width: 616px) {
   .separator-greenLine {
-    padding-top: 53px;
+    padding-top: 48px;
   }
 }
 
@@ -1841,7 +1855,7 @@ h4 svg {
   left: 58px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .separator-greenLine section:nth-child(2) {
     left: 0px !important;
   }
@@ -1860,7 +1874,7 @@ h4 svg {
   /*border-bottom: 1px solid #111111;*/
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .separator-greenLine:after {
     width: 86%;
   }
@@ -1868,7 +1882,7 @@ h4 svg {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .side-by-side {
     display: block !important;
   }
@@ -1894,7 +1908,7 @@ h4 svg {
 
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .wrapper > div:after {
     width: 84.1%;
@@ -2084,9 +2098,9 @@ h4 svg {
   .why-vertcoin {
     float: left;
     position: relative;
-    width: 315px;
+    width: 100%;
     height: auto;
-    margin-top: 28px;
+    margin-top: 43px;
     margin-bottom: 20px;
     top: 0px !important;
     right: 0px;
@@ -2110,7 +2124,8 @@ h4 svg {
   .how-vertcoin {
     float: left;
     position: relative;
-    width: 845px;
+    width: 869px;
+    /*width: 1000px;*/
     height: auto;
     margin-top: 48px;
     margin-bottom: 20px;
@@ -2129,13 +2144,13 @@ h4 svg {
   height: auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .atomic-swap-image {
     float: left;
     position: relative;
-    width: 483px;
+    width: 536px;
     height: auto;
-    margin-top: 38px;
+    margin-top: 20px;
     margin-bottom: 20px;
     top: 0px;
     right: 0px;
@@ -2153,11 +2168,12 @@ h4 svg {
   filter: drop-shadow(29px 29px 59px grey);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .ecoSystem-image {
     float: left;
     position: relative;
     width: 333px;
+    width: 100%;
     height: auto;
     margin-top: 48px;
     margin-bottom: 20px;
@@ -2179,7 +2195,7 @@ h4 svg {
   margin-bottom: -16px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .fairStart {
     margin-bottom: 26px;
@@ -2217,11 +2233,11 @@ h2.guideTitles svg {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .guideTitles {
-    font-size: 17.44px;
-    margin-left: 15px;
+    font-size: 20.44px;
+    margin-left: 27px;
   }
 }
 
@@ -2331,7 +2347,7 @@ h2.guideTitles svg {
   display: block
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .hideMobile {
     display: none;
   }
@@ -2405,8 +2421,27 @@ h2.guideTitles svg {
   position: absolute; width: 104.26%; top: -4px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .hero-tick-controller {
     top: -70px
+  }
+}
+
+@media screen and (max-width: 616px) {
+  .hero-tick-controller {
+    top: -150px
+  }
+}
+
+
+#fh5co-header .navbar {
+  padding-left: 27px;
+  padding-right: 27px;
+}
+
+@media screen and (max-width: 767px) {
+  #fh5co-header .navbar {
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }

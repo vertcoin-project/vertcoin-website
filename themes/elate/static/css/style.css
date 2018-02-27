@@ -351,6 +351,14 @@ table {
   margin-top: 5px !important;
 }
 
+@media screen and (max-width: 1024px) {
+  .navbar-right {
+    display: none !important;
+  }
+}
+
+
+
 #fh5co-header .navbar {
   padding-bottom: 0;
   margin-bottom: 0;
@@ -1670,12 +1678,12 @@ h4 svg {
 }
 
 
-@media screen and (max-width: 768px) {
-  .noSpaceMobile {
-    padding: 0px !important;
-    margin: 0px !important;
-  }
-}
+/*@media screen and (max-width: 768px) {*/
+  /*.noSpaceMobile {*/
+    /*padding: 0px !important;*/
+    /*margin: 0px !important;*/
+  /*}*/
+/*}*/
 
 @media screen and (max-width: 768px) {
 
@@ -2390,4 +2398,15 @@ h2.guideTitles svg {
     transform: rotate(360deg);
   }
 
+}
+
+
+.hero-tick-controller {
+  position: absolute; width: 104.26%; top: -4px;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-tick-controller {
+    top: -70px
+  }
 }

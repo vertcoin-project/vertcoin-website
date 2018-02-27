@@ -1483,11 +1483,11 @@ h4 svg {
 }
 
 .fh5co-nav-toggle:hover i::before {
-  top: -10px;
+  /*top: -10px;*/
 }
 
 .fh5co-nav-toggle:hover i::after {
-  bottom: -10px;
+  /*bottom: -10px;*/
 }
 
 .fh5co-nav-toggle.active i {
@@ -2355,7 +2355,7 @@ h2.guideTitles svg {
 
 @media screen and (max-width: 767px) {
   .hideMobile {
-    display: none;
+    display: none !important;
   }
 }
 

@@ -602,7 +602,7 @@ table {
 
 #fh5co-home .text-inner a {
   color: white;
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.5);
+  /*border-bottom: 1px dashed rgba(255, 255, 255, 0.5);*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -610,7 +610,7 @@ table {
 #fh5co-home .text-inner a:hover, #fh5co-home .text-inner a:active, #fh5co-home .text-inner a:focus {
   text-decoration: none;
   color: white;
-  border-bottom: 1px dashed white;
+  /*border-bottom: 1px dashed white;*/
 }
 #fh5co-home .text-inner h1 {
   font-size: 26.85px;
@@ -643,7 +643,7 @@ table {
   font-weight: 300;
   color: #111111;
   margin: 0;
-  margin-bottom: 28px;
+  margin-bottom: 33px;
   /*max-width: 510px;*/
 }
 

@@ -934,6 +934,7 @@ h4 svg {
   .wrapper h4 {
     font-size: 17.44px;
     font-size: 20.44px;
+    font-size: 19.44px;
   }
 }
 
@@ -2433,7 +2434,7 @@ h2.guideTitles svg {
 
 @media screen and (max-width: 616px) {
   .hero-tick-controller {
-    top: -150px
+    top: -125px
   }
 }
 

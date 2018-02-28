@@ -295,7 +295,7 @@ table {
 }
 
 .navbar-header {
-  height: 100px;
+  height: 77px;
 }
 
 #fh5co-header {
@@ -380,10 +380,15 @@ table {
   font-weight: 700;
   /*---------*/
 
-
-
-
 }
+
+
+@media screen and (max-width: 767px) {
+  #fh5co-header #navbar li a {
+    text-align: center;
+  }
+}
+
 #fh5co-header #navbar li a span {
   position: relative;
   display: block;
@@ -2489,4 +2494,19 @@ h2.guideTitles svg {
   height: 91px;
   border-bottom: 1px solid rgba(0,0,0,.0975);
 
+}
+
+.intro {
+  display: flex;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    display: block;
+  }
+}
+
+
+.content-container img {
+  width: 100%;
 }

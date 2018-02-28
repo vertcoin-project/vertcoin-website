@@ -70,7 +70,7 @@ theme = "elate"
 
 
       [[params.intro.item]]
-        url = "buy-vertcoin"
+        url = "purchase"
         img = "buy-vertcoin.jpg"
 
       [[params.intro.item]]

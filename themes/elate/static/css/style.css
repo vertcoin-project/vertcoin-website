@@ -2490,7 +2490,7 @@ h2.guideTitles svg {
 
   position: fixed;
   width: 100%;
-  background: #fafafa;
+  background: #fefefe;
   height: 91px;
   border-bottom: 1px solid rgba(0,0,0,.0975);
 
@@ -2518,7 +2518,7 @@ h2.guideTitles svg {
   margin-top: 0px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   #home-lightning .wrapper h3  {
     border-top: 1px solid grey;
     padding-top: 40px;
@@ -2533,7 +2533,7 @@ h2.guideTitles svg {
   margin-top: 0px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   #home-communityStatus .wrapper h3  {
     border-top: 1px solid grey;
     padding-top: 40px;
@@ -2547,7 +2547,7 @@ h2.guideTitles svg {
   margin-top: 0px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   #home-contact .wrapper h3  {
 
     border-top: 1px solid grey;

@@ -1,6 +1,9 @@
 	<section id="fh5co-intro">
 		<div class="container" style="width: 100%; padding: 0px;">
-			<div class="row" style="width: 100%; margin: 0px;">
+			<div class="row" style="    width: 100%;
+   display: flex;
+    max-width: 1240px;
+    margin: 0 auto;">
 				{{ range $index, $element := .Site.Params.intro.item }}
 				<a href="{{ .url }}" class="fh5co-block" style="background-image: url(../images/{{ .img }}); background-size: cover; background-position: 50% 50%; background-color: #262525;">
 					<div class="overlay-darker"></div>

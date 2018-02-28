@@ -2176,6 +2176,14 @@ h4 svg {
   }
 }
 
+@media screen and (min-width: 1280) {
+  .atomic-swap-image {
+    right: -863px;
+    top: -103px;
+    width: 766px;
+  }
+}
+
 
 .ecoSystem-image {
   float: right;

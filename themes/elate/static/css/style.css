@@ -2322,7 +2322,7 @@ h2.guideTitles svg {
 }
 
 .side-by-side .childController {
-  width: 100%;
+  width: 99%;
 }
 
 
@@ -2510,3 +2510,50 @@ h2.guideTitles svg {
 .content-container img {
   width: 100%;
 }
+
+#home-lightning .wrapper h3  {
+
+  border-top: none;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+  #home-lightning .wrapper h3  {
+    border-top: 1px solid grey;
+    padding-top: 40px;
+    margin-top: -26px;
+  }
+}
+
+#home-communityStatus .wrapper h3  {
+
+  border-top: none;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+  #home-communityStatus .wrapper h3  {
+    border-top: 1px solid grey;
+    padding-top: 40px;
+    margin-top: -26px;
+  }
+}
+
+#home-contact .wrapper h3  {
+  border-top: none;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+  #home-contact .wrapper h3  {
+
+    border-top: 1px solid grey;
+    padding-top: 40px;
+    margin-top: -26px;
+  }
+}
+
+

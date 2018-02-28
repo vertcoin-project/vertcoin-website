@@ -2506,9 +2506,10 @@ h2.guideTitles svg {
   }
 }
 
-
-.content-container img {
-  width: 100%;
+@media screen and (max-width: 1024px) {
+  .content-container img {
+    width: 100%;
+  }
 }
 
 #home-lightning .wrapper h3  {

@@ -139,7 +139,7 @@
 [lightning_title]
     other = "Lightning Network"
 [lightning_description]
-    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> Vertcoin is the <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>first coin</a> to implement <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>, the only non commercial version of the Lightning Networks, <strong>meaning that it will never be monetised.</strong> <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
+    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a> is the <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>first coin</a> to implement Vertcoin , the only non commercial version of the Lightning Networks, <strong>meaning that it will never be monetised.</strong> <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
 
 
 # Lit Ecosystem

@@ -12,7 +12,7 @@ The Vertcoin Development team provides two different wallets that users can stor
 on. Third parties provide both mobile and hardware wallets. There
 is also the option to store your Vertcoins without electronics using a <a href="https://vertaddress.org/" target="_blank"> paper wallet</a>.
 
-# Vertcoin Core
+# Vertcoin Core (Most Secure)
 
 This is the Vertcoin reference client (forked from upstream
 [Bitcoin Core](https://github.com/bitcoin/bitcoin) and forms the backbone of the Vertcoin Network.

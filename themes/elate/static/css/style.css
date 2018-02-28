@@ -1544,7 +1544,7 @@ h4 svg {
   z-index: 9999;
   border-bottom: none !important;
 }
-@media screen and (max-width: 616px) {
+@media screen and (max-width: 767px) {
   .fh5co-nav-toggle {
     display: block;
   }
@@ -2409,12 +2409,12 @@ h2.guideTitles svg {
 }
 
 .donationGoal h1 {
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   margin-top: 10px;
 }
 
 .donationGoal .donationAddress {
-  white-space: nowrap;
+  /*white-space: nowrap;*/
 }
 
 .centre {

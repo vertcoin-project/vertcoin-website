@@ -2,7 +2,7 @@
 
 
 
-        <h1>{{.Get "title"}}</h1>
+        <h2>{{.Get "title"}}</h2>
 
         <!--<p>{{.Get "description"}}</p>-->
 
@@ -18,13 +18,13 @@
 
 
 
+<div style="width: 100%;">
 
+<p style="font-size: 26px"><strong>{{ i18n "donation_goal" | markdownify }}: {{ .Get "goal" }} {{ .Get "goalDescription" }}</strong></p>
 
-            <p style="font-size: 26px">{{ i18n "donation_goal" | markdownify }}: {{ .Get "goal" }} {{ .Get "goalDescription" }}</p>
-
-           <h1 style="color: #14b57c;"><strong><span class="donationAmount">0</span> VTC</strong></h1>
+           <h2 style="color: #14b57c;"><strong><span class="donationAmount">0</span> VTC</strong></h2>
         <p class="donationAddress">{{ i18n "donation_address" | markdownify }}: <a target="_blank" href="https://insight.vertcoin.org/address/{{ .Get "address" }}">{{ .Get "address" }}</a></p>
 
-
+</div>
 
 </div>

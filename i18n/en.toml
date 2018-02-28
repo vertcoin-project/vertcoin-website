@@ -96,7 +96,7 @@
 [how_title]
     other = "How?"
 [how_description]
-    other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> Vertcoin is based on a proven stable implementation of Proof-Of-Work complemented by <a href='https://github.com/mit-dci/lit' target='_blank'>LIT - Lightning Network</a> developed at MIT. <img class='how-vertcoin' src='images/how-vertcoin.png' alt='Fair Mining and Lightning Network'>"
+    other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> Vertcoin is based on a proven stable implementation of Proof-Of-Work complemented by <a href='https://github.com/mit-dci/lit' target='_blank'>LIT - Lightning Network</a> developed at MIT. <img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture

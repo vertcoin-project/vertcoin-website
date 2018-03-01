@@ -1586,8 +1586,16 @@ h4 svg {
   font-weight: 700;
   display: inline-block;
   margin-bottom: 20px;
+  margin-top: 5px;
 
 }
+
+@media screen and (max-width: 1024px) {
+  .footer-links a {
+    margin-top: 0px;
+  }
+}
+
 
 .footer-left svg {
   width: 260px;
@@ -2308,9 +2316,18 @@ h4 svg {
 }
 
 .guideTitles {
-  font-size: 37.44px;
+  font-size: 43.44px;
   /*margin-left: 12px;*/
 }
+
+@media screen and (max-width: 767px) {
+  .guideTitles {
+    font-size: 37.44px;
+    /*margin-left: 12px;*/
+  }
+}
+
+
 
 .guideTitles a {
   color: #111111;

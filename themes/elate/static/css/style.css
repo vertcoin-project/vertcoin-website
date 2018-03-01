@@ -2195,6 +2195,20 @@ h4 svg {
   }
 }
 
+@media screen and (max-width: 413px) {
+  .how-vertcoin {
+    float: left;
+    position: relative;
+    width: 800px;
+    /*width: 1000px;*/
+    height: auto;
+    margin-top: 48px;
+    margin-bottom: 20px;
+    top: 0px;
+    right: 0px;
+  }
+}
+
 
 .atomic-swap-image {
   float: right;

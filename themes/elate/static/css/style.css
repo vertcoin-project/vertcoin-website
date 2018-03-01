@@ -1589,7 +1589,7 @@ h4 svg {
 .footer-left svg {
   width: 260px;
   height: auto;
-  margin-top: 14px;
+  margin-top: 86px;
   left: -9px;
   position: relative;
 }
@@ -2606,6 +2606,10 @@ h2.guideTitles svg {
 }
 
 #fh5co-footer {
-  padding-top: 79px;
+
+  width: 100%;
+  background: #fefefe;
+
+  border-top: 1px solid rgba(0,0,0,.0975);
 }
 

@@ -1586,8 +1586,12 @@ h4 svg {
   font-weight: 700;
   display: inline-block;
   margin-bottom: 20px;
-  margin-top: 5px;
+  margin-top: 7px;
 
+}
+
+.footer-left p {
+  font-weight: 700;
 }
 
 @media screen and (max-width: 1024px) {

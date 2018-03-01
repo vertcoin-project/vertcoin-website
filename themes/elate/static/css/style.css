@@ -1583,6 +1583,8 @@ h4 svg {
   color: #161616;
   padding-right: 20px;
   font-weight: 700;
+  display: inline-block;
+  margin-bottom: 20px;
 
 }
 

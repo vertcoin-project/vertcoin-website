@@ -4,7 +4,7 @@ date: 2018-01-17T01:00:00+02:00
 draft: false
 ---
 
-Since Vertcoin did not have an ICO (Initial Coin Offering), or pre-mine (allocation of currency at the launch of the network), the development team has to rely on community donations for their funding. Whilst the developers work as volunteers and do not get paid a salary, they do make costs to advance the project. On this page, we have detailed a number of donation goals that require additional funds.
+Since Vertcoin did not have an ICO (Initial Coin Offering), or pre-mine (allocation of currency at the launch of the network), the development team has to rely on community donations for their funding. Whilst the <strong>developers work as volunteers and do not get paid a salary</strong>, they do make costs to advance the project. On this page, we have detailed a number of donation goals that require additional funds.
 
 
 You can select the goal that mosts suits you; we pledge to use the funding on the designated goal, and account for these in our <a href="https://medium.com/vertcoin-blog">monthly development update.</a>

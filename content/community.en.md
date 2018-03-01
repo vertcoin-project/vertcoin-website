@@ -13,7 +13,7 @@ You can <a href="../donate/">donate VTC to one of our donation goals and help us
 # Translate Content
 If you are native speaker of a language that our new website is not (yet) translated in you can help us by translating it to your native language and make our website reach out to your native audience. Talk to us on <a href="https://discord.gg/vertcoin">Discord</a> and we can set you up with the relevant materials to get started.
 # Run a Full Node
-Improve our network’s resilience. If you have a spare computer or RaspberryPi lying around, run a full node.
+Improve our network’s resilience. If you have a spare computer or RaspberryPi lying around, run a <a href="https://www.cryptocurrencyfreak.com/2017/09/06/setup-vertcoin-full-node-ubuntu-16-04/">full node</a>.
 # Programming
 If you're capable of programming in either C++, Go, VB.Net, NodeJS, or Android (Java) / iOS (Obj-C / Swift) you can contribute to any of our repositories. Our new website will soon have an extensive list of the projects that are important to Vertcoin's success. Most of these projects are located on the <a href="https://github.com/vertcoin-project">Vertcoin Github</a>, but some are also part of the <a href="https://github.com/mit-dci">MIT-DCI</a> - but since they're open source you're free to contribute there too and aid our chance at a successful future.
 # Graphic Design

@@ -1556,9 +1556,43 @@ h4 svg {
   color: #7f7f7f;
   position: relative;
   /*border-top: 1px solid #111111;*/
-  height: 600px;
+
 }
 
+.footer-distributed {
+  text-align: left;
+}
+
+.aboutSection {
+  border-top: none;
+}
+
+.aboutSection {
+  /*border-top: 1px solid gray;*/
+  /*display: none;*/
+}
+
+@media screen and (max-width: 767px) {
+  .aboutSection {
+    border-top: none;
+
+  }
+}
+
+.footer-links a {
+  color: #161616;
+  padding-right: 20px;
+  font-weight: 700;
+
+}
+
+.footer-left svg {
+  width: 260px;
+  height: auto;
+  margin-top: 14px;
+  left: -9px;
+  position: relative;
+}
 
 
 
@@ -2558,4 +2592,20 @@ h2.guideTitles svg {
   }
 }
 
+.footerSection {
+  background: #f6f6f6;
+  padding-top: 0px;
+
+}
+
+@media screen and (max-width: 1024px) {
+  .footerSection {
+    padding-left: 27px;
+    padding-right: 27px;
+  }
+}
+
+#fh5co-footer {
+  padding-top: 79px;
+}
 

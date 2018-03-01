@@ -130,7 +130,7 @@
 [mining_title]
     other = "Fair To Mine, Forever"
 [mining_description]
-    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an equal opportunity to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
 
@@ -151,7 +151,7 @@
     other = "No Bank. Scalable. The Future."
 
 [litEcosystem_description]
-    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network mobile and desktop app that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network <strong>mobile and desktop app</strong> that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 
@@ -235,7 +235,7 @@
 [communityStatus_title]
     other = "Vibrant Community"
 [communityStatus_description]
-    other = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our <a href="https://discord.gg/vertcoin">Discord Server</a> or <a href="https://www.reddit.com/r/vertcoin/">Reddit</a> to meet a ton of like-minded people who are waiting to help you get started. <br><br> Often hailed as one of the “best communities in crypto”, Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'
+    other = 'Vertcoin has tens of thousands of community members from all over the globe. A great coin for beginners, join our <a href="https://discord.gg/vertcoin" target="_blank">Discord Server</a> or <a href="https://www.reddit.com/r/vertcoin/" target="_blank">Reddit</a> to meet a ton of like-minded people who are waiting to help you get started. <br><br> Often hailed as one of the “best communities in crypto”, Vertcoin really is all about you. There are no businesses or celebrities behind Vertcoin, only real people with a shared vision.'
 
 
 

@@ -77,7 +77,7 @@
         </section>
 
 
-        <section class="hideMobile separator-greenLine guideSpacer">
+        <section class="hideMobile separator-greenLine guideSpacer" style="">
             {{ partial "home-guides.html" .}}
         </section>
 
@@ -90,12 +90,15 @@
 
 
 
-        <section class="separator-greenLine">
+        <section class="separator-greenLine aboutSection" style="    max-width: 1035px;
+    margin: 0 auto;">
 		{{ partial "home-contact.html" .}}
         </section>
 
 
+        <section class="separator-greenLine" style="padding-top: 0px;">
         {{ partial "footer.html" .}}
+        </section>
 
 
         {{ partial "js.html" .}}

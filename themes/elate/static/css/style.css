@@ -519,6 +519,7 @@ table {
   /*padding-left: 1.5em;*/
   padding-left: 27px;
   padding-right: 27px;
+  padding-bottom: 57px;
 }
 
 #fh5co-home {
@@ -1581,7 +1582,7 @@ h4 svg {
 
 .footer-links a {
   color: #161616;
-  padding-right: 20px;
+  padding-right: 27px;
   font-weight: 700;
   display: inline-block;
   margin-bottom: 20px;
@@ -1596,6 +1597,10 @@ h4 svg {
   position: relative;
 }
 
+.singleFooter footer {
+  padding-left: 27px;
+  padding-right: 27px;
+}
 
 
 

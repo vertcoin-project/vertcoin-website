@@ -22,3 +22,16 @@
 	<script src="/js/main.js"></script>
 
     <script src="/js/donationfunds.js"></script>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+	<script src="/js/jquery.viewportchecker.js"></script>
+	
+	<script>
+		jQuery(document).ready(function() {
+		jQuery('.wrapper').addClass("hidden-anim").viewportChecker({
+			classToAdd: 'visible-anim animated bounceInLeft',
+			offset: 100
+		   });
+		});
+	</script>

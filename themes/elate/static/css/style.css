@@ -1720,7 +1720,7 @@ h4 svg {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 0em;
 }
 @media screen and (max-width: 767px) {
   .row-bottom-padded-lg {

@@ -1322,7 +1322,7 @@ h4 svg {
   width: 247px;
   /*border: 2px solid #f2f2f2;*/
   border-radius: 3px;
-  box-shadow: 0 1rem 2rem 0 rgba(0,18,59,0.11);
+  /*box-shadow: 0 1rem 2rem 0 rgba(0,18,59,0.11);*/
 
 }
 .fh5co-person h3 {
@@ -2483,6 +2483,14 @@ h2.guideTitles svg {
   border: 1px solid #ccc;
   padding: 50px;
   border-radius: 10px;
+  width: 100%;
+  margin-bottom: 97px;
+  min-height: 300px;
+  margin-top: 10px;
+}
+
+.donationGoal:last-child {
+  margin-bottom: 46px;
 }
 
 .donationGoal h1 {
@@ -2492,6 +2500,10 @@ h2.guideTitles svg {
 
 .donationGoal .donationAddress {
   /*white-space: nowrap;*/
+}
+
+.donationAddress a {
+  font-size: 12.44px;
 }
 
 .centre {

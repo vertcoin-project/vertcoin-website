@@ -2489,6 +2489,10 @@ h2.guideTitles svg {
   margin-top: 10px;
 }
 
+.donationGoal:first-child {
+  margin-top: 46px;
+}
+
 .donationGoal:last-child {
   margin-bottom: 46px;
 }

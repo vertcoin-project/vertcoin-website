@@ -5,18 +5,16 @@
     [navigation_0_title]
     other = "Download"
 
-
-
-
     [navigation_1_title]
     other = "Purchase"
 
-
     [navigation_2_title]
+	other = "Mine"
+	
+	[navigation_3_title]
     other = "Team"
 
-
-    [navigation_3_title]
+	[navigation_4_title]    
     other = "Donate"
 
 

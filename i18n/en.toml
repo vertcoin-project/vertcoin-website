@@ -12,9 +12,12 @@
 	other = "Mine"
 	
 	[navigation_3_title]
-    other = "Team"
+    other = "Community"
 
 	[navigation_4_title]    
+    other = "Team"
+	
+	[navigation_5_title]    
     other = "Donate"
 
 

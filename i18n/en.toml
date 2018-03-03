@@ -11,12 +11,18 @@
     [navigation_1_title]
     other = "Purchase"
 
-
     [navigation_2_title]
-    other = "Team"
+        other = "Community"
 
 
     [navigation_3_title]
+    other = "Team"
+
+
+    [navigation_4_title]
+        other = "Mining"
+
+    [navigation_5_title]
     other = "Donate"
 
 

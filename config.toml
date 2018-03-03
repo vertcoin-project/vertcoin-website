@@ -39,9 +39,14 @@ theme = "elate"
     [[params.navigation.item]]
     url = "purchase"
     [[params.navigation.item]]
+    url = "community"
+    [[params.navigation.item]]
     url = "team"
     [[params.navigation.item]]
+    url = "mine"
+    [[params.navigation.item]]
     url = "donate"
+
 
 
   [params.action]

@@ -19,7 +19,9 @@ Proof-Of-Work is the most secure and balanced consensus algorithm (with ASIC Res
 
 # Why not Proof-Of-Stake
 
-Proof-Of-Work is the most reliable consensus algorithm operating on Bitcoin for the last 10 years without failure. Proof-Of-Stake still has not yet been shown to work properly, as there have been multiple failures and hacks in the past. The second issue is that Proof-Of-Stake consensus is proportional to the amount of tokens that you hold. As you can imagine if you endlessly inflate the tokens, the users who already have tokens will have a disproportionally high amount of consensus to a new user.
+Proof-Of-Work is the most reliable consensus algorithm operating on Bitcoin for the last 10 years without failure. Proof-Of-Stake is a permissioned system as opposed to a permissionless system like Proof-Of-Work. This means that in order to gain consensus holding in the system another user who holds the tokens needs to agree to give you some. This can become an issue if a user was ever able to obtain 50%+ of the supply it would be impossible to displace them, meaning that they would have full control over the network.  Secondly, over time users who hold tokens will own more tokens proportionally to new users as the system endlessly inflates.
+
+The goal of a decentralised monetary system should always be to spread consensus as much as possible. Not only does this reduce central points of failure but it also ensures that more people have an equal say in the network rather than a central few.
 
 # Why aren't on-chain transactions free and instant?
 

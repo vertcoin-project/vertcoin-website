@@ -38,6 +38,6 @@ There are a lot of specification comparison sheets that float around the interne
 # How do Stealth Addresses work?
 
 
-Stealth addresses work by generating a separate substitute addresses that you can give out publicly. If someone were to look up this addresses they wouldn't be able to see your balance or transactions as the addresses is just a substitute for your own, not the real addresses. The Lightning Network also gives similar levels of anonymity through substitute addresses so stealth addresses will be implemented as a later solution on top on Lightning Network.
+Stealth addresses work by generating a separate substitute addresses that you can give out publicly. If someone were to look up this addresses they wouldn't be able to see your balance or transactions as the addresses is just a substitute for your own, not the real addresses. The new mobile/desktop application from Vertcoin will include a Lightning-ready, cleaner implementation of Stealth Addresses where it is able to provide substitute addresses for both on-chain and off-chain transactions, made possible through LIT.
 
 

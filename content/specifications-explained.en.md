@@ -7,9 +7,9 @@ draft: false
 
 # What is Proof-Of-Work
 
-Proof-of-Work is a security system that secures the past and current events on a blockchain. It comprises of a extremely difficult computation (the Work) to be verified easily from its result (the Proof).
+Proof-of-Work is a security system that secures the past and current events on a blockchain. It comprises of an extremely difficult computation (the Work) to be verified easily from its result (the Proof).
 
-In Vertcoin Mining we use a mathematical operation called "hashing". Hashing takes input data of any length and gives an output of a fixed length. Hashes are deterministic, meaning that giving the same input will always produce the same output. In Vertcoin Mining, the input to the hash is the header of the block containing a magic number.
+In Vertcoin Mining we use a mathematical operation called "hashing". Hashing takes input data of any length and gives an output of a fixed length. Hashes are deterministic, meaning that giving the same input will always produce the same output, even though the input that generates a given output cannot be found. In Vertcoin Mining, the input to the hash is the header of the block containing a magic number.
 
 That magic number is the difficult computation to do (the Work): the output hash value has to below a predetermined target, and the correct number can only be found by continuously changing the magic number until the output hash qualifies as a valid one. The Proof to having done the Work is the magic number itself: a Vertcoin user can verify the magic number is correct with only a single hash calculation.
 

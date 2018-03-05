@@ -41,7 +41,7 @@ theme = "elate"
 
     [[params.navigation.item]]
     url = "team"
-  
+
     [[params.navigation.item]]
     url = "donate"
 

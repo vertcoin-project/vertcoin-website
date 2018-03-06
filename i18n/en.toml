@@ -82,9 +82,9 @@
 # Why Section
 
 [why_title]
-    other = "Why Vertcoin?"
+    other = "What Is Vertcoin?"
 [why_description]
-    other = "We will transform the financial system with better software, free from the big banks and centralized miners, returning power from the few to the many. <img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
+    other = "Vertcoin is a digital currency like Bitcoin or Litecoin with focus of keeping the ecosystem as decentralised as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
 
 # Why Section Picture

@@ -2579,9 +2579,8 @@ h2.guideTitles svg {
 
   padding-top: 14px;
 
-
-
-  position: fixed;
+  position: relative;
+  /*position: fixed;*/
   width: 100%;
   background: #fefefe;
   height: 91px;

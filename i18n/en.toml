@@ -8,25 +8,20 @@
     [navigation_1_title]
     other = "Download"
 
-
-
-
     [navigation_2_title]
-    other = "Purchase"
-
-
-
+	other = "Purchase"
 
     [navigation_3_title]
+    other = "Mine"
+
+    [navigation_4_title]
     other = "Community"
 
-
-      [navigation_4_title]
+    [navigation_5_title]
     other = "Team"
 	
-	[navigation_5_title]    
-        other = "Donate"
-
+	[navigation_6_title]    
+    other = "Donate"
 
 
 # Navigation Action Button

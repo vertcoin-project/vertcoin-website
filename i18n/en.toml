@@ -3,25 +3,29 @@
 
 
     [navigation_0_title]
-    other = "Download"
+    other = "Home"
 
 
 
 
     [navigation_1_title]
-    other = "Purchase"
+    other = "Download"
 
 
 
 
     [navigation_2_title]
-    other = "Team"
+    other = "Purchase"
 
 
 
 
     [navigation_3_title]
-    other = "Donate"
+    other = "Team"
+
+
+      [navigation_4_title]
+        other = "Donate"
 
 
 

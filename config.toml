@@ -32,7 +32,8 @@ theme = "elate"
 
 
   [params.navigation]
-
+ [[params.navigation.item]]
+     url = "../"
 
     [[params.navigation.item]]
      url = "download"

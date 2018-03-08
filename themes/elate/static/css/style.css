@@ -446,7 +446,7 @@ table {
   padding-left: 0;
   color: #fff;
   text-align: center;
-  padding-top: 0px !important;
+  padding-top: 16px;
 }
 #fh5co-header.navbar-fixed-top {
   /*position: fixed !important;*/
@@ -533,8 +533,17 @@ table {
   /*background-color: #fafafa;*/
   color: #fff;
   overflow: hidden;
-
+  border-bottom: 20px solid white;
 }
+
+@media screen and (max-width: 767px) {
+  #fh5co-home {
+
+    border-bottom: none;
+  }
+}
+
+
 #fh5co-home .gradient {
   position: absolute;
   top: 0;
@@ -1788,6 +1797,7 @@ h4 svg {
 .navbar-brand img {
   width: 136px;
   width: 149px;
+  width: 171px;
 }
 
 @media screen and (max-width: 767px) {
@@ -1846,6 +1856,7 @@ h4 svg {
 
 .themeButton {
   background: #4BB182;
+  background: #24B47E;
   border-radius: 5px;
   padding: 12px 23px;
   color: white;
@@ -2582,14 +2593,15 @@ h2.guideTitles svg {
   position: relative;
   /*position: fixed;*/
   width: 100%;
-  background: #fefefe;
+  /*background: #fefefe;*/
   height: 91px;
-  border-bottom: 1px solid rgba(0,0,0,.0975);
+  /*border-bottom: 1px solid rgba(0,0,0,.0975);*/
 
 }
 
 .intro {
   display: flex;
+
 }
 
 @media screen and (max-width: 1024px) {

@@ -26,20 +26,12 @@
                     </g>
                 </svg></a></p>
                 <p class="footer-links">
-
-                    <a href="../download">Download</a>
-
-                    <a href="../purchase">Purchase</a>
 				
-                    <a href="../mine">Mine</a>
+                      {{ range $index, $element := .Site.Params.navigation.item }}
 
-                    <a href="../community">Community</a>
+                    <a href='../{{ .url }}' data-nav-section=''><span>{{ i18n (printf "navigation_%d_title" $index) | markdownify }}</span></a>
 
-                    <a href="../team">Team</a>
-
-                    <a href="../donate">Donate</a>
-
-
+                      {{ end }}
 
 
                 </p>

@@ -4,3 +4,17 @@
 .visible-anim{
      opacity:1;
 }
+    ul.navbar-right li a:hover {
+      -webkit-transform: rotateZ(360deg);
+      -moz-transform: rotateZ(360deg);
+      transform: rotateZ(360deg);
+	  color: #048657!important;
+    }
+	
+	ul.navbar-right svg g {
+      fill: currentColor;
+    }
+	
+	ul.navbar-right svg path {
+      fill: currentColor;
+    }

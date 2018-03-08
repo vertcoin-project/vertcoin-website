@@ -501,12 +501,12 @@ table {
   color: #52d3aa;
   font-style: normal;
 }
-#fh5co-header a {
+/* #fh5co-header a {
   -webkit-transition: 0s;
   -o-transition: 0s;
   transition: 0s;
 
-}
+} */
 
 .small-home {
   height: 6em !important;

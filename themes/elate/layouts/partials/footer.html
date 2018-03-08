@@ -32,7 +32,7 @@
 				
                       {{ range .Site.Menus.main }}
 
-                    <a href='../{{ .URL }}' data-nav-section=''><span>{{ i18n (printf "navigation_titles_%s" .Name) | markdownify }}</span></a>
+                    <a href='{{ .URL }}' data-nav-section=''><span>{{ i18n (printf "navigation_titles_%s" .Name) | markdownify }}</span></a>
 
                       {{ end }}
 

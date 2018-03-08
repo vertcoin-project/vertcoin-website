@@ -4,11 +4,14 @@
 .visible-anim{
      opacity:1;
 }
+
+/*-------------Icon flipping-------------*/
+
     ul.navbar-right li a:hover {
       -webkit-transform: rotateZ(360deg);
       -moz-transform: rotateZ(360deg);
       transform: rotateZ(360deg);
-	  color: #048657!important;
+	  color: #52d3aa!important;
     }
 	
 	ul.navbar-right svg g {
@@ -18,3 +21,57 @@
 	ul.navbar-right svg path {
       fill: currentColor;
     }
+	
+/*-------------Menu Sliding underline-------------*/
+ 
+    ul.navbar-left li {
+            display: inline-block;
+            position: relative;
+            padding-bottom: 8px;
+            font-size: 20px;
+            font-weight: 800;
+            -webkit-transition: all .2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            transition: all 0.2s ease-out;}
+ 
+    ul.navbar-left li a {
+            padding-top: 10px;}
+			
+    ul.navbar-left li.nav-active a {
+        color: #52d3aa!important;}
+ 
+    ul.navbar-left li a:hover {
+        color: #52d3aa!important;}
+ 
+    ul.navbar-left li a:before {
+            content: '';
+            display: block;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 2px;
+            width: 0;
+            transition: width 0s ease, background .2s ease;}
+ 
+    ul.navbar-left li a:after {
+            content: '';
+            display: block;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            height: 2px;
+            width: 0;
+            background: #52d3aa;
+            transition: width .2s ease;}
+ 
+    ul.navbar-left li a:hover:before {
+            width: 100%;
+            background: #52d3aa;
+            transition: width .2s ease;}
+ 
+    ul.navbar-left li a:hover:after {
+            width: 100%;
+            background: transparent;
+            transition: all 0s ease;}

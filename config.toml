@@ -29,32 +29,32 @@ name = "home"
 weight = 1
 
 [[menu.main]]
-url = "/download"
+url = "/download/"
 name = "download"
 weight = 3
 
 [[menu.main]]
-url = "/purchase"
+url = "/purchase/"
 name = "purchase"
 weight = 5
 
 [[menu.main]]
-url = "/mine"
+url = "/mine/"
 name = "mine"
 weight = 7
 
 [[menu.main]]
-url = "/community"
+url = "/community/"
 name = "community"
 weight = 9
 
 [[menu.main]]
-url = "/team"
+url = "/team/"
 name = "team"
 weight = 11
 
 [[menu.main]]
-url = "/donate"
+url = "/donate/"
 name = "donate"
 weight = 13
 	

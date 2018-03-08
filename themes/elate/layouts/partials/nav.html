@@ -11,10 +11,9 @@
                 <div id="navbar" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav navbar-left">
 
-                      {{ range $index, $element := .Site.Params.navigation.item }}
+                      {{ range .Site.Menus.main }}
 
-
-                    <li><a href='../{{ .url }}' data-nav-section=''><span>{{ i18n (printf "navigation_%d_title" $index) | markdownify }}</span></a></li>
+                    <li><a href='{{ .URL }}' data-nav-section=''><span>{{ i18n (printf "navigation_titles_%s" .Name) | markdownify }}</span></a></li>
 
                       {{ end }}
 

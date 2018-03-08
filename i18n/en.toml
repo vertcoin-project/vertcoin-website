@@ -2,27 +2,26 @@
 # Navigation Section
 
 
-    [navigation_0_title]
+    [navigation_titles_home]
     other = "Home"
-
-    [navigation_1_title]
+    
+	[navigation_titles_download]
     other = "Download"
-
-    [navigation_2_title]
-	other = "Purchase"
-
-    [navigation_3_title]
+	
+	[navigation_titles_purchase]
+    other = "Purchase"
+	
+	[navigation_titles_mine]
     other = "Mine"
-
-    [navigation_4_title]
+	
+	[navigation_titles_community]
     other = "Community"
-
-    [navigation_5_title]
+	
+	[navigation_titles_team]
     other = "Team"
 	
-	[navigation_6_title]    
+	[navigation_titles_donate]
     other = "Donate"
-
 
 # Navigation Action Button
 

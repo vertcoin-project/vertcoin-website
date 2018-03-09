@@ -1,5 +1,4 @@
 $(function(){
-    console.log("Hallo!");
     if($('.donationGoal').length > 0) {
         $('.donationGoal').each(function() {
             var goalObj = $(this);

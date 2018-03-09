@@ -1,13 +1,10 @@
 ---
-title: "Purchase"
+title: "Trading"
 date: 2018-01-09T01:51:53Z
 draft: false
 ---
-Vertcoin trades 24 hours per day, 365 days per year, globally with millions of 
-United States Dollars worth of daily trading volume. You can trade Vertcoin for 
-other cryptocurrencies or for your national currency using an exchange. Brokers 
-provide trading options that do not require an account for a worse rate and 
-higher fee. It is also possible to meet up in-person and trade using your
+Vertcoin trades 24 hours per day, 365 days per year, globally, with millions of United States Dollars worth of daily trading volume. You can trade Vertcoin for
+other cryptocurrencies or for your national currency using an exchange. Brokers provide trading options that do not require an account for a worse rate and higher fee. It is also possible to meet up in-person and trade using your
 preferred method of transfer. Finally, those who are confident with the command
 line can on-chain atomic swap (trustless exchange without a third party) for a 
 handful of other cryptocurrencies. 

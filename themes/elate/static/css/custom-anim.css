@@ -11,19 +11,19 @@
       -webkit-transform: rotateZ(360deg);
       -moz-transform: rotateZ(360deg);
       transform: rotateZ(360deg);
-	  color: #52d3aa!important;
+	  color: #048657!important;
     }
-	
+
 	ul.navbar-right svg g {
       fill: currentColor;
     }
-	
+
 	ul.navbar-right svg path {
       fill: currentColor;
     }
-	
+
 /*-------------Menu Sliding underline-------------*/
- 
+
     ul.navbar-left li {
             display: inline-block;
             position: relative;
@@ -35,16 +35,16 @@
             -ms-transition: all 0.2s ease-out;
             -o-transition: all 0.2s ease-out;
             transition: all 0.2s ease-out;}
- 
+
     ul.navbar-left li a {
             padding-top: 10px;}
-			
+
     ul.navbar-left li.nav-active a {
-        color: #52d3aa!important;}
- 
+        color: #048657!important;}
+
     ul.navbar-left li a:hover {
-        color: #52d3aa!important;}
- 
+        color: #048657!important;}
+
     ul.navbar-left li a:before {
             content: '';
             display: block;
@@ -54,7 +54,7 @@
             height: 2px;
             width: 0;
             transition: width 0s ease, background .2s ease;}
- 
+
     ul.navbar-left li a:after {
             content: '';
             display: block;
@@ -63,14 +63,14 @@
             bottom: 0;
             height: 2px;
             width: 0;
-            background: #52d3aa;
+            background: #048657;
             transition: width .2s ease;}
- 
+
     ul.navbar-left li a:hover:before {
             width: 100%;
-            background: #52d3aa;
+            background: #048657;
             transition: width .2s ease;}
- 
+
     ul.navbar-left li a:hover:after {
             width: 100%;
             background: transparent;

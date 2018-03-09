@@ -8,8 +8,8 @@
 	[navigation_titles_download]
     other = "Download"
 	
-	[navigation_titles_purchase]
-    other = "Purchase"
+	[navigation_titles_trading]
+    other = "Trading"
 	
 	[navigation_titles_mine]
     other = "Mine"
@@ -82,7 +82,7 @@
 [why_title]
     other = "What Is Vertcoin?"
 [why_description]
-    other = "Vertcoin is a digital currency like Bitcoin or Litecoin with focus of keeping the ecosystem as decentralised as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
+    other = "Vertcoin is a digital currency like Bitcoin or Litecoin with an added focus on keeping the ecosystem as decentralised as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
 
 # Why Section Picture
@@ -132,7 +132,7 @@
 [mining_title]
     other = "Fair To Mine, Forever"
 [mining_description]
-    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share in the benefits of the system and that miners should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share the benefits of the system and that mining cartels should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
 
@@ -142,7 +142,7 @@
     other = "Lightning Network"
 [lightning_description]
 
-    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs while not compromising security standards. <br><br> <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>  is the first Lightning Network to <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>include</a> Vertcoin support, and currently the only non-commercial Lightning Network implementation, meaning that it can never be monetised. <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
+    other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs without compromising security standards. <br><br> <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>  is the first Lightning Network to <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>include</a> Vertcoin support, and currently the only non-commercial Lightning Network implementation, meaning that it can never be monetised. <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."
 
 # Lit Ecosystem
 
@@ -153,7 +153,7 @@
     other = "No Bank. Scalable. The Future."
 
 [litEcosystem_description]
-    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network <strong>mobile and desktop app</strong> that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of crypto. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network <strong>mobile and desktop app</strong> that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of the cryptocurrency ecosystem. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 
@@ -166,7 +166,7 @@
     other = "Lightning Atomic Swaps"
 
 [atomicSwaps_description]
-    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin instead or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as a larger move to move away from centralised exchanges for the benefit of crypto. <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
+    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as part of a larger strategy to move away from centralised exchanges for the benefit of crypto.  <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
 
 
 

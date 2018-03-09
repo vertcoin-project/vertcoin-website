@@ -34,8 +34,8 @@ name = "download"
 weight = 3
 
 [[menu.main]]
-url = "/purchase/"
-name = "purchase"
+url = "/trading/"
+name = "trading"
 weight = 5
 
 [[menu.main]]

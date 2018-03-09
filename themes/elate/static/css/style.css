@@ -90,14 +90,14 @@ tbody {
 }
 
 a {
-  color: #52d3aa;
+  color: #048657;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   cursor: pointer;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: #048657;
   outline: none;
   opacity: 0.8
 }
@@ -318,7 +318,7 @@ table {
 
   }
   #fh5co-header .navbar-brand {
-    /*color: #52d3aa !important;*/
+    /*color: #048657 !important;*/
     padding-top: 0px;
     padding-right: 0px;
   }
@@ -332,7 +332,7 @@ table {
 
 
   #fh5co-header #navbar li a:hover {
-    color: #52d3aa !important;
+    color: #048657 !important;
   }
   #fh5co-header #navbar li a span:before {
     background: transparent !important;
@@ -340,7 +340,7 @@ table {
   #fh5co-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: #52d3aa !important;
+    color: #048657 !important;
   }
   #fh5co-header #navbar li.active a span:before {
     visibility: visible;
@@ -459,22 +459,22 @@ table {
   /*top: 0;*/
 }
 #fh5co-header.navbar-fixed-top .navbar-brand {
-  color: #52d3aa;
+  color: #048657;
 }
 
 #fh5co-header.navbar-fixed-top #navbar li a:hover {
-  color: #52d3aa;
+  color: #048657;
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
-  color: #52d3aa;
+  color: #048657;
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
-  background-color: #52d3aa;
+  background-color: #048657;
 }
 #fh5co-header .navbar-default {
   border: transparent;
@@ -498,7 +498,7 @@ table {
   color: #adadad;
 }
 #fh5co-header .navbar-default .brand-slogan em {
-  color: #52d3aa;
+  color: #048657;
   font-style: normal;
 }
 /* #fh5co-header a {
@@ -528,7 +528,7 @@ table {
   background-attachment: fixed;
   position: relative;
   width: 100%;
-  background-color: #52d3aa;
+  background-color: #048657;
   background-color: white;
   /*background-color: #fafafa;*/
   color: #fff;
@@ -822,7 +822,7 @@ table {
 }
 #fh5co-intro .fh5co-block > .fh5co-text .fh5co-intro-icon {
   font-size: 50px;
-  color: #52d3aa;
+  color: #048657;
   display: block;
 }
 
@@ -838,8 +838,8 @@ table {
 }
 
 /*#fh5co-intro .fh5co-block:hover .btn:hover, #fh5co-intro .fh5co-block:focus .btn:hover {*/
-  /*background: #52d3aa !important;*/
-  /*border: 2px solid #52d3aa !important;*/
+  /*background: #048657 !important;*/
+  /*border: 2px solid #048657 !important;*/
 /*}*/
 
 .watch-video {
@@ -861,7 +861,7 @@ table {
   height: 120px;
   width: 120px;
   margin: 0 auto;
-  border: 2px solid #52d3aa;
+  border: 2px solid #048657;
   line-height: 0px;
   display: table;
   text-align: center;
@@ -914,12 +914,12 @@ table {
   background-color: #ffffff;
   /*!* IE9, iOS 3.2+ *!*/
   /*background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxsaW5lYXJHcmFkaWVudCBpZD0idnNnZyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIHN0b3AtY29sb3I9IiMzZjk1ZWEiIHN0b3Atb3BhY2l0eT0iMSIgb2Zmc2V0PSIwIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzUyZDNhYSIgc3RvcC1vcGFjaXR5PSIxIiBvZmZzZXQ9IjEiLz48L2xpbmVhckdyYWRpZW50PjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjdnNnZykiIC8+PC9zdmc+);*/
-  /*background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, #3f95ea), color-stop(1, #52d3aa));*/
+  /*background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, #3f95ea), color-stop(1, #048657));*/
   /*!* Android 2.3 *!*/
-  /*background-image: -webkit-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);*/
+  /*background-image: -webkit-repeating-linear-gradient(top left, #3f95ea 0%, #048657 100%);*/
   /*!* IE10+ *!*/
-  /*background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #52d3aa 100%);*/
-  /*background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);*/
+  /*background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #048657 100%);*/
+  /*background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #048657 100%);*/
   overflow: hidden;
   position: relative;
   color: #111111;
@@ -1017,7 +1017,7 @@ h4 svg {
 }
 
 #fh5co-counters {
-  background: #52d3aa;
+  background: #048657;
   overflow: hidden;
   background-color: transparent;
   background-size: cover;
@@ -1096,7 +1096,7 @@ h4 svg {
 }
 #fh5co-counters .fh5co-counter .fh5co-counter-icon {
   font-size: 40px;
-  color: #52d3aa;
+  color: #048657;
 }
 #fh5co-counters .fh5co-counter .fh5co-counter-number {
   font-size: 70px;
@@ -1125,7 +1125,7 @@ h4 svg {
   border-left: none;
   padding: 30px;
   background: #fff;
-  background: #52d3aa;
+  background: #048657;
   font-size: 20px;
   font-weight: 300;
   position: relative;
@@ -1141,7 +1141,7 @@ h4 svg {
   left: 40px;
   border-top: 10px solid #111111;
   border-top-color: #fff;
-  border-top-color: #52d3aa;
+  border-top-color: #048657;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 }
@@ -1157,7 +1157,7 @@ h4 svg {
   font-weight: 400;
 }
 #fh5co-testimonials .box-testimony .author a {
-  color: #52d3aa;
+  color: #048657;
 }
 #fh5co-testimonials .box-testimony .author a:hover {
   text-decoration: underline;
@@ -1188,15 +1188,15 @@ h4 svg {
   overflow: hidden;
   position: relative;
   color: rgba(255, 255, 255, 0.8);
-  background-color: #52d3aa;
+  background-color: #048657;
   /* IE9, iOS 3.2+ */
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxsaW5lYXJHcmFkaWVudCBpZD0idnNnZyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIHN0b3AtY29sb3I9IiMzZjk1ZWEiIHN0b3Atb3BhY2l0eT0iMSIgb2Zmc2V0PSIwIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzUyZDNhYSIgc3RvcC1vcGFjaXR5PSIxIiBvZmZzZXQ9IjEiLz48L2xpbmVhckdyYWRpZW50PjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjdnNnZykiIC8+PC9zdmc+);
-  background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, #3f95ea), color-stop(1, #52d3aa));
+  background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, #3f95ea), color-stop(1, #048657));
   /* Android 2.3 */
-  background-image: -webkit-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);
+  background-image: -webkit-repeating-linear-gradient(top left, #3f95ea 0%, #048657 100%);
   /* IE10+ */
-  background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #52d3aa 100%);
-  background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);
+  background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #048657 100%);
+  background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #048657 100%);
 }
 #fh5co-work a {
   color: rgba(255, 255, 255, 0.5);
@@ -1361,7 +1361,7 @@ h4 svg {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #52d3aa;
+  border-color: #048657;
 }
 
 .btn {
@@ -1418,7 +1418,7 @@ h4 svg {
   display: block;
   width: 80px;
   height: 2px;
-  background: #52d3aa;
+  background: #048657;
   left: 0%;
   margin-left: 0px;
   bottom: 0;
@@ -1429,7 +1429,7 @@ h4 svg {
   /*display: block;*/
   /*width: 80px;*/
   /*height: 2px;*/
-  /*background: #52d3aa;*/
+  /*background: #048657;*/
   /*left: 50%;*/
   /*margin-left: -40px;*/
   /*bottom: 0;*/
@@ -1465,7 +1465,7 @@ h4 svg {
   margin-left: 20px !important;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  /*background: #52d3aa;*/
+  /*background: #048657;*/
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
@@ -1657,7 +1657,7 @@ h4 svg {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #52d3aa;
+  background: #048657;
   color: #fff;
 }
 .social li a.social-circle {
@@ -1857,6 +1857,7 @@ h4 svg {
 .themeButton {
   background: #4BB182;
   background: #24B47E;
+  background: #048657;
   border-radius: 5px;
   padding: 12px 23px;
   color: white;

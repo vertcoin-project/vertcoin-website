@@ -973,7 +973,7 @@ h4 svg {
   .wrapper h3 {
     font-size: 25.44px;
     font-size: 34.44px;
-    font-size: 31.44px;
+    font-size: 30.44px;
   }
 }
 
@@ -2370,6 +2370,8 @@ h2.guideTitles svg {
   .guideTitles {
     font-size: 20.44px;
     margin-left: 27px;
+    display: none;
+    color:#048657;
   }
 }
 

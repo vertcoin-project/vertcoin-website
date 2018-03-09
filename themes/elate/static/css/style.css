@@ -786,7 +786,7 @@ table {
   }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 767px) {
+@media screen and (max-width: 1050px) and (min-width: 767px) {
   #fh5co-intro .fh5co-block {
     width: 50%;
   }
@@ -1821,6 +1821,8 @@ h4 svg {
 .container {
   /*padding-left: 27px;*/
   /*padding-right: 27px;*/
+  max-width: 1035px;
+  width: initial !important;
 }
 
 .button {
@@ -2025,11 +2027,11 @@ h4 svg {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1050px) {
   * .childController {
     width: 100% !important;
-    padding-left: 27px;
-    padding-right: 27px;
+    padding-left: 21px;
+    padding-right: 21px;
   }
 }
 
@@ -2692,3 +2694,14 @@ h2.guideTitles svg {
   border-top: 1px solid rgba(0,0,0,.0975);
 }
 
+
+
+
+/*iPad Adjustments*/
+
+
+@media screen and (max-width: 1024px) {
+  #fh5co-header #navbar li:nth-child(1), #fh5co-header #navbar li:nth-child(2) {
+    display: none;
+  }
+}

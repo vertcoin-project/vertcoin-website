@@ -28,10 +28,7 @@ url = "/"
 name = "home"
 weight = 1
 
-[[menu.main]]
-url = "/download/"
-name = "download"
-weight = 3
+
 
 [[menu.main]]
 url = "/trading/"

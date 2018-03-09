@@ -354,7 +354,7 @@ table {
 
 
 .navbar-right {
-  margin-top: 5px !important;
+  margin-top: 6px !important;
 }
 
 @media screen and (max-width: 1024px) {
@@ -535,6 +535,9 @@ table {
   color: #fff;
   overflow: hidden;
   border-bottom: 20px solid white;
+  /*background: url('../images/texture.jpg');*/
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 @media screen and (max-width: 767px) {
@@ -604,7 +607,7 @@ table {
 @media screen and (max-width: 616px) {
   #fh5co-home, #fh5co-home .text-wrap {
     height: 485px;
-    height: 80vh;
+    height: 67vh;
 
   }
 }
@@ -657,6 +660,7 @@ table {
   /*max-width: 570px; */
   padding-bottom: 10px;
 
+
 }
 
 @media screen and (max-width: 767px) {
@@ -681,6 +685,7 @@ table {
   margin: 0;
   margin-bottom: 33px;
   /*max-width: 510px;*/
+  /*display: none;*/
 }
 
 @media screen and (max-width: 767px) {
@@ -1473,7 +1478,7 @@ h4 svg {
   height: 25px;
   cursor: pointer;
   text-decoration: none;
-  
+
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
   /*background: #048657;*/
@@ -2518,6 +2523,7 @@ h2.guideTitles svg {
 .progress-bar-success {
   background: #329C71;
   background: #14b57c;
+  background: #048657;
 }
 
 .progress {
@@ -2533,8 +2539,8 @@ h2.guideTitles svg {
   min-height: 300px;
   margin-top: 10px;
   background: white;
-  border: 1px solid #ccc;
-  padding: 50px;
+  /*border: 1px solid #ccc;*/
+  /*padding: 50px;*/
   border-radius: 10px;
   width: 100%;
   margin-bottom: 97px;
@@ -2733,5 +2739,22 @@ h2.guideTitles svg {
 @media screen and (max-width: 1024px) {
   #fh5co-header #navbar li:nth-child(1) {
     display: none;
+  }
+}
+
+.walletDownload {
+  border: 1px solid #121212;
+  border-radius: 3px;
+  margin-top: 6px;
+}
+
+
+@media screen and (max-width: 767px) {
+  .container h1,gradient h1 {
+    font-size: 27px !important;
+  }
+
+  .gradient h1 {
+    font-size: 27px !important;
   }
 }

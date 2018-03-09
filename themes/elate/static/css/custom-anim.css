@@ -8,10 +8,10 @@
 /*-------------Icon flipping-------------*/
 
     ul.navbar-right li a:hover {
-      -webkit-transform: rotateZ(360deg);
-      -moz-transform: rotateZ(360deg);
-      transform: rotateZ(360deg);
-	  color: #048657!important;
+      /*-webkit-transform: rotateZ(360deg);*/
+      /*-moz-transform: rotateZ(360deg);*/
+      /*transform: rotateZ(360deg);*/
+      /*color: #048657!important;*/
     }
 
 	ul.navbar-right svg g {
@@ -23,6 +23,9 @@
     }
 
 /*-------------Menu Sliding underline-------------*/
+
+@media screen and (min-width: 1025px) {
+
 
     ul.navbar-left li {
             display: block;
@@ -71,7 +74,14 @@
             background: #048657;
             transition: width .2s ease;}
 
+
+
+
+
+
     ul.navbar-left li a:hover:after {
             width: 100%;
             background: transparent;
             transition: all 0s ease;}
+
+}

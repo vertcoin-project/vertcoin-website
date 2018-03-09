@@ -1322,10 +1322,10 @@
   }
 }
 
-.fadeIn {
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
-}
+/*.fadeIn {*/
+  /*-webkit-animation-name: fadeIn;*/
+  /*animation-name: fadeIn;*/
+/*}*/
 
 @-webkit-keyframes fadeInDown {
   from {

@@ -821,6 +821,14 @@ table {
   left: 27px;
   bottom: -5px;
 }
+
+@media screen and (max-width: 767px) {
+  #fh5co-intro .fh5co-block > .fh5co-text {
+    left: 21px;
+  }
+}
+
+
 #fh5co-intro .fh5co-block > .fh5co-text .fh5co-intro-icon {
   font-size: 50px;
   color: #048657;
@@ -2263,7 +2271,7 @@ h4 svg {
   .atomic-swap-image {
     float: left;
     position: relative;
-    width: 536px;
+    width: 526px;
     height: auto;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -2371,7 +2379,11 @@ h2.guideTitles svg {
     font-size: 20.44px;
     margin-left: 27px;
 
-    color:#048657;
+
+  }
+
+  .guideTitles a {
+    color:#048657 !important;
   }
 
   .guideTitles svg {
@@ -2476,8 +2488,8 @@ h2.guideTitles svg {
     display: none;
 
   }
-  .howTitles {
-    color: #048657;
+  .howTitles a {
+    color: #048657 !important;
   }
 }
 
@@ -2718,7 +2730,7 @@ h2.guideTitles svg {
 
 
 @media screen and (max-width: 1024px) {
-  #fh5co-header #navbar li:nth-child(1), #fh5co-header #navbar li:nth-child(2) {
+  #fh5co-header #navbar li:nth-child(1) {
     display: none;
   }
 }

@@ -1473,7 +1473,7 @@ h4 svg {
   height: 25px;
   cursor: pointer;
   text-decoration: none;
-  margin-left: 20px !important;
+  
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
   /*background: #048657;*/
@@ -1554,17 +1554,18 @@ h4 svg {
 
 .fh5co-nav-toggle {
   position: absolute;
-  top: 2px;
+  top: 0px;
   left: 0px;
   z-index: 21;
-  padding: 27px 0 0 0;
+  padding: 29px 0 0 0;
   display: block;
   margin: 0 auto;
   display: none;
   height: 66px;
-  width: 45px;
+  width: 66px;
   z-index: 9999;
   border-bottom: none !important;
+  padding-left: 21px;
 }
 @media screen and (max-width: 767px) {
   .fh5co-nav-toggle {

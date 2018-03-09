@@ -973,7 +973,7 @@ h4 svg {
   .wrapper h3 {
     font-size: 25.44px;
     font-size: 34.44px;
-    font-size: 30.44px;
+    font-size: 27.44px;
   }
 }
 
@@ -2370,8 +2370,12 @@ h2.guideTitles svg {
   .guideTitles {
     font-size: 20.44px;
     margin-left: 27px;
-    display: none;
+
     color:#048657;
+  }
+
+  .guideTitles svg {
+    display: none;
   }
 }
 
@@ -2464,6 +2468,17 @@ h2.guideTitles svg {
 
 #home-howQuestions h4 a {
   color: #111111;
+}
+
+
+@media screen and (max-width: 768px) {
+  .howTitles svg {
+    display: none;
+
+  }
+  .howTitles {
+    color: #048657;
+  }
 }
 
 

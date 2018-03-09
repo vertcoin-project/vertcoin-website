@@ -41,8 +41,8 @@ name = "mine"
 weight = 7
 
 [[menu.main]]
-url = "/contribute/"
-name = "contribute"
+url = "/community/"
+name = "community"
 weight = 9
 
 [[menu.main]]

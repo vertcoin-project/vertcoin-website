@@ -972,6 +972,7 @@ h4 svg {
   .wrapper h3 {
     font-size: 25.44px;
     font-size: 34.44px;
+    font-size: 31.44px;
   }
 }
 
@@ -983,6 +984,7 @@ h4 svg {
 @media screen and (max-width: 768px) {
   .wrapper p {
     font-size: 20.44px;
+    font-size: 16.44px;
 
   }
 }
@@ -992,7 +994,7 @@ h4 svg {
 
 @media screen and (max-width: 768px) {
   #fh5co-services p {
-    font-size: 20.44px;;
+    font-size: 16.44px;;
   }
 }
 

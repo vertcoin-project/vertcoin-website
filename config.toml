@@ -97,7 +97,7 @@ weight = 13
 
 
       [[params.intro.item]]
-        url = "purchase"
+        url = "trading"
         img = "buy-vertcoin.jpg"
 
       [[params.intro.item]]

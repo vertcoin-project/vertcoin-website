@@ -1877,6 +1877,12 @@ h4 svg {
   background:
 }
 
+@media (max-width: 767px) {
+  .themeButton {
+    display: none;
+  }
+}
+
 @media (min-width: 767px) {}
   .navbar-nav > li > a {
     padding-top: 8.5px;

@@ -593,7 +593,7 @@ table {
 
 #fh5co-home, #fh5co-home .text-wrap {
   height: 597px;
-  /*height: 95vh;*/
+  height: 93vh;
 
 }
 
@@ -625,6 +625,7 @@ table {
   position: relative;
   margin-top: 142px;
   margin-top: 155px;
+  margin-top: 22vh;
   z-index: 5000;
   transform: rotate(0);
 
@@ -654,7 +655,7 @@ table {
   font-size: 26.85px;
   font-size: 37.44px;
   font-size: 43.44px;
-  font-size: 36.44px;
+  /*font-size: 36.44px;*/
   color: white;
   color: #111111;
   margin: 0 0 16px 0;

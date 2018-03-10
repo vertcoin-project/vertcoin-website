@@ -6,13 +6,10 @@
     margin: 0 auto;">
 				{{ range $index, $element := .Site.Params.intro.item }}
 				<a href="{{ .url }}" class="fh5co-block" style="background-image: url(../images/{{ .img }}); background-size: cover; background-position: 50% 50%; background-color: #262525;">
-					<div class="overlay-darker"></div>
-					<div class="overlay"></div>
 					<div class="fh5co-text">
 						<i class="fh5co-intro-icon {{ .icon }}"></i>
 						<h2>{{ i18n (printf "intro_%d_title" $index) }}</h2>
 						<p>{{ i18n (printf "intro_%d_description" $index) }}</p>
-						<!--<p><a href="{{ .url }}" class="btn btn-primary">{{ i18n (printf "intro_%d_button" $index) }}</a></p>-->
 					</div>
 				</a>
 				{{ end }}

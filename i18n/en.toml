@@ -34,15 +34,21 @@
 
 
     [hero_title]
-    other = "The People's Coin"
+    other = " <br> Committed to total decentralisation."
     [hero_subtitle]
-    other = "Free from big banks and centralised mining.<br> Dedicated to decentralisation."
+    other = "Vertcoin is a payment network, free from big banks and centralised mining."
 
 
 # Hero Desktop Downloads
 
      [desktopDownload_0_title]
         other = "Download Wallet"
+
+
+# Hero Mobile Downloads
+
+     [mobileDownload_0_title]
+        other = "Download Miner"
 
 
 

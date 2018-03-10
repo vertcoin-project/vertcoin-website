@@ -632,7 +632,8 @@ table {
 
 @media screen and (max-width: 767px) {
   #fh5co-home .text-inner {
-    margin-top: 132px;
+
+    margin-top: 92px;
     text-align: center;
   }
 }
@@ -653,12 +654,15 @@ table {
   font-size: 26.85px;
   font-size: 37.44px;
   font-size: 43.44px;
+  font-size: 36.44px;
   color: white;
   color: #111111;
   margin: 0 0 16px 0;
   line-height: 1.4;
   /*max-width: 570px; */
-  padding-bottom: 10px;
+  padding-bottom: 15px;
+  text-transform: initial;
+
 
 
 }
@@ -668,8 +672,9 @@ table {
     font-size: 23.23px;
     font-size: 25.44px;
     margin: 0 0 20px 0;
-    width: 75%;
+    width: 95%;
     margin: 0 auto;
+    padding-bottom: 25px;
 
   }
 }
@@ -683,7 +688,7 @@ table {
   font-weight: 300;
   color: #111111;
   margin: 0;
-  margin-bottom: 33px;
+  margin-bottom: 40px;
   /*max-width: 510px;*/
   /*display: none;*/
 }
@@ -692,11 +697,11 @@ table {
   #fh5co-home .text-inner p {
     line-height: 23px;
     line-height: 1.5;
-    width: 95%;
+    width: 94%;
     margin: 0 auto;
     font-size: 15.67px;
     font-size: 18.44px;
-    margin-bottom: 27px;
+    margin-bottom: 35px;
 
   }
 
@@ -1811,14 +1816,13 @@ h4 svg {
 }
 
 
-.navbar-brand img {
-  width: 136px;
-  width: 149px;
+.navbar-brand svg {
   width: 171px;
+  height: auto;
 }
 
 @media screen and (max-width: 767px) {
-  .navbar-brand img {
+  .navbar-brand svg {
     text-align: center;
     margin: 0 auto;
     margin-top: -2px;
@@ -2751,10 +2755,50 @@ h2.guideTitles svg {
 
 @media screen and (max-width: 767px) {
   .container h1,gradient h1 {
-    font-size: 27px !important;
+    font-size: 25.44px !important;
   }
 
   .gradient h1 {
-    font-size: 27px !important;
+    font-size: 25.44px !important;
   }
+}
+
+
+/*Dark Mode - Changes Hero text to white*/
+
+.darkMode header a {
+  color: white !important;
+}
+
+.darkMode #fh5co-home .text-wrap h1 {
+  color: white !important;
+}
+
+
+.darkMode #fh5co-home .text-wrap p {
+  color: white !important;
+}
+
+.darkMode .fh5co-nav-toggle i {
+  background: white !important;
+}
+
+.darkMode .fh5co-nav-toggle i:before {
+  background: white !important;
+}
+
+.darkMode .fh5co-nav-toggle i:after {
+  background: white !important;
+}
+
+.darkMode .vertcoinLogoTextController {
+  fill: white !important;
+}
+
+
+
+/* Mobile Touch Mode Disabled */
+
+.touch a:hover {
+
 }

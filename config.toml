@@ -79,6 +79,10 @@ weight = 13
     [[params.desktopButton.item]]
 
 
+[params.mobileDownload]
+
+
+    [[params.mobileButton.item]]
 
 
 

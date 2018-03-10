@@ -22,7 +22,11 @@
 				<!--<path d="M5.98470313,579.416458 L96.5677486,475.001255 L418.881748,475.001255 L616.893615,730.711955 L1135.1129,4.06738156 C1165.97388,32.0815951 1194.76384,64.0454327 1221.48278,99.9588942 C1248.20172,135.872356 1271.37412,174.228961 1291,215.028709 L654.812099,1105.75432 C642.789992,1118.53985 630.150498,1124.93262 616.893615,1124.93262 C603.636732,1124.93262 590.295043,1118.53985 576.868548,1105.75432 L174.511299,579.416458 L5.98470313,579.416458 Z" id="Path-2-Copy-4" stroke="#13B57D" stroke-width="5"></path>-->
 			<!--</g>-->
 		<!--</svg>-->
-		<div class="container" style="width: 1020px;">
+		<div class="container" style="width: 1020px; max-width: none; height: 100%; background-image: url(../images/lightningimagevert.jpg); background-size: cover;     z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;">
 
 
 
@@ -51,9 +55,13 @@
 
 
 								{{ range $index, $element := .Site.Params.mobileButton.item }}
-								<div class="button" style="    width: fit-content;
-    font-size: 15px;
-    padding: 10px 39px; background: white; color: black; margin-left: 10px; border: 1px solid rgba(0,0,0,0.14);">{{ i18n (printf "mobileDownload_%d_title" $index) | markdownify }}
+								<div class="button hideMobile" style="    width: fit-content;
+    font-size: 18px;
+    padding: 8px 22px;
+    background: transparent;
+    color: white;
+    margin-left: 10px;
+    border: 2px solid white; display: inline-block;"><a style="color: white;" href="/mine">{{ i18n (printf "mobileDownload_%d_title" $index) | markdownify }}</a>
 
 								</div>
 

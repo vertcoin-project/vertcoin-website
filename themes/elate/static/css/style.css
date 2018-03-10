@@ -613,7 +613,7 @@ table {
 @media screen and (max-width: 616px) {
   #fh5co-home, #fh5co-home .text-wrap {
     height: 485px;
-    height: 67vh;
+    /*height: 67vh;*/
 
   }
 }

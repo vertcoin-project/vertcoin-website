@@ -597,6 +597,12 @@ table {
 
 }
 
+
+
+
+
+
+
 @media screen and (max-width: 767px) {
   #fh5co-home, #fh5co-home .text-wrap {
     height: 526px;
@@ -629,6 +635,12 @@ table {
   z-index: 5000;
   transform: rotate(0);
 
+}
+
+@media screen and (min-width: 1400px) {
+  #fh5co-home .text-inner {
+    margin-top: 25vh;
+  }
 }
 
 @media screen and (max-width: 767px) {

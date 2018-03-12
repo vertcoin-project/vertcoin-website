@@ -164,7 +164,8 @@ weight = 13
       alt = "James Lovejoy"
       social = [
         ["icon-twitter", "https://twitter.com/jamesl22"],
-        ["icon-github", "https://github.com/metalicjames/"]
+        ["icon-github", "https://github.com/metalicjames/"],
+        ["icon-linkedin", "https://www.linkedin.com/in/james-lovejoy-48ab16131/"]
       ]
 
     [[params.about.item]]

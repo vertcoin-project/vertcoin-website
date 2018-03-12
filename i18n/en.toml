@@ -138,7 +138,7 @@
 [mining_title]
     other = "Fair To Mine, Forever"
 [mining_description]
-    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share the benefits of the system and that mining cartels should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a target='_blank' href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share the benefits of the system and that mining cartels should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
 
@@ -358,7 +358,7 @@
 [contact_title]
     other = "Feel Free To Chat!"
 [contact_description]
-    other = 'As community members just like you, the developers are friendly and approachable. Many of us are active daily on <a href="https://discord.gg/vertcoin">Discord</a> or <a href="https://www.reddit.com/r/vertcoin/">Reddit</a> and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we’re happy to help new users to understand this new and exciting technology.'
+    other = 'As community members just like you, the developers are friendly and approachable. Many of us are active daily on <a target="_blank" href="https://discord.gg/vertcoin">Discord</a> or <a target="_blank" href="https://www.reddit.com/r/vertcoin/">Reddit</a> and regularly converse with users, providing support and answering questions. Besides development and marketing, one of our primary roles is education and we’re happy to help new users to understand this new and exciting technology.'
 
 
 

@@ -118,7 +118,7 @@ weight = 13
     url = "specifications-explained"
     [[params.howQuestion.item]]
     url = "https://medium.com/vertcoin-blog/2017-in-review-2018-roadmap-d4ba51b29da3"
-
+    target = "_blank"
 
 # Adoption Links
 
@@ -126,7 +126,7 @@ weight = 13
         [[params.adoption.item]]
         url = "accept-vertcoin"
         [[params.adoption.item]]
-        url = "purchase"
+        url = "trading"
 
 
 

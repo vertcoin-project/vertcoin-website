@@ -12,9 +12,9 @@ Because Vertcoin is dedicated to keeping mining accessible to everyone, all you 
 
 # Simple: One-Click Miner
 
-The Vertcoin One-Click Miner is by far the easiest way to get started. It's a user-friendly piece of software (Windows only), that allows you to start mining with a few easy steps. You can download the One-Click Miner using the button below, and follow [this guide](https://medium.com/vertcoin-blog/updated-vertcoin-one-click-miner-ocm-setup-b7052a4664c9) for setting it up.
+The Vertcoin One-Click Miner is by far the easiest way to get started. It's a user-friendly piece of software (Windows only), that allows you to start mining with a few easy steps. You can download the One-Click Miner using the button below, and follow <a href="https://medium.com/vertcoin-blog/updated-vertcoin-one-click-miner-ocm-setup-b7052a4664c9" target="_blank">this guide</a> for setting it up.
 
-[Download One-Click Miner](https://github.com/vertcoin/One-Click-Miner/releases)
+<a href="https://github.com/vertcoin/One-Click-Miner/releases" target="_blank">Download One-Click Miner</a>
 
 ![One click miner screenshot](/images/oneclickminer.png)
 
@@ -24,7 +24,7 @@ If you're more than a casual miner, you can also consider investing in dedicated
 
 ![Mining rig](/images/miningrig.jpg)
 
-There's plenty of guides on how to build a dedicated mining rig on the internet; if you're capable of assembling a normal desktop computer, you should be able to assemble a mining rig. Dedicated miners are commonly using a command-line script for starting the miner so that the miner automatically starts when the machine starts. Most dedicated rigs use the mining software [ccminer](https://github.com/tpruvot/ccminer), which is also included in the One-Click Miner, but without the Graphical User Interface.
+There's plenty of guides on how to build a dedicated mining rig on the internet; if you're capable of assembling a normal desktop computer, you should be able to assemble a mining rig. Dedicated miners are commonly using a command-line script for starting the miner so that the miner automatically starts when the machine starts. Most dedicated rigs use the mining software <a href="https://github.com/tpruvot/ccminer" target="_blank">ccminer</a>, which is also included in the One-Click Miner, but without the Graphical User Interface.
 
 
 

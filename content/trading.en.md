@@ -21,13 +21,13 @@ you are allowed to trade.
 
 |Exchange                                    |Trading Pairs                  |Country Of Origin|
 |--------------------------------------------|-------------------------------|-----------------|
-|[Bittrex](https://bittrex.com/)             |[BTC](https://bittrex.com/Market/Index?MarketName=BTC-VTC)|USA|
-|[Poloniex](https://poloniex.com/)           |[BTC](https://poloniex.com/exchange/#btc_vtc)|USA|
-|[YoBit](https://yobit.io/en/)               |[BTC](https://yobit.io/en/trade/VTC/BTC/), [USD](https://yobit.io/en/trade/VTC/USD/), [RUR](https://yobit.io/en/trade/VTC/RUR/), [DOGE](https://yobit.io/en/trade/VTC/DOGE/), [WAVES](https://yobit.io/en/trade/VTC/WAVES/), [ETH](https://yobit.io/en/trade/VTC/ETH/)|Russia|
-|[Bleutrade](https://bleutrade.com/)         |[BTC](https://bleutrade.com/exchange/VTC/BTC), [ETH](https://bleutrade.com/exchange/VTC/ETH), [DOGE](https://bleutrade.com/exchange/VTC/DOGE)|Brazil|
-|[SouthXchange](https://www.southxchange.com)|[BTC](https://www.southxchange.com/Market/Book/VTC/BTC)|Argentina|
-|[Coinegg](https://www.coinegg.com/)         |[BTC](https://www.coinegg.com/vtc/)|United Kingdom|
-|[CryptoBridge](https://crypto-bridge.org/)  |BTC|"Decentralized"|
+|<a href="https://bittrex.com/" target="_blank">Bittrex</a>             |<a href="https://bittrex.com/Market/Index?MarketName=BTC-VTC" target="_blank">BTC</a>|USA|
+|<a href="https://poloniex.com/" target="_blank">Poloniex</a>           |<a href="https://poloniex.com/exchange/#btc_vtc" target="_blank">BTC</a>|USA|
+|<a href="https://yobit.io/en/" target="_blank">YoBit</a>               |<a href="https://yobit.io/en/trade/VTC/BTC/" target="_blank">BTC</a>, <a href="https://yobit.io/en/trade/VTC/USD/" target="_blank">USD</a>, <a href="https://yobit.io/en/trade/VTC/RUR/" target="_blank">RUR</a>, <a href="https://yobit.io/en/trade/VTC/DOGE/" target="_blank">DOGE</a>, <a href="https://yobit.io/en/trade/VTC/WAVES/" target="_blank">WAVES</a>, <a href="https://yobit.io/en/trade/VTC/ETH/" target="_blank">ETH</a>|Russia|
+|<a href="https://bleutrade.com/" target="_blank">Bleutrade</a>         |<a href="https://bleutrade.com/exchange/VTC/BTC" target="_blank">BTC</a>, <a href="https://bleutrade.com/exchange/VTC/ETH" target="_blank">ETH</a>, <a href="https://bleutrade.com/exchange/VTC/DOGE" target="_blank">DOGE</a>|Brazil|
+|<a href="https://www.southxchange.com" target="_blank">SouthXchange</a>|<a href="https://www.southxchange.com/Market/Book/VTC/BTC" target="_blank">BTC</a>|Argentina|
+|<a href="https://www.coinegg.com/" target="_blank">Coinegg</a>         |<a href="https://www.coinegg.com/vtc/" target="_blank">Coinegg</a>|United Kingdom|
+|<a href="https://crypto-bridge.org/" target="_blank">CryptoBridge</a>  |<a href="https://wallet.crypto-bridge.org/market/BRIDGE.VTC_BRIDGE.BTC" target="_blank">BTC</a>|"Decentralized"|
 
 
 # Brokers
@@ -39,13 +39,13 @@ or sell coins using bank transfer or credit/debit card.
 
 |Broker|Trading Pairs|Country Of Origin|
 |------|-------------|-----------------|
-|[ShapeShift](https://shapeshift.io)|Many|USA|
-|[Bittylicious](https://bittylicious.com/)|[GBP](https://bittylicious.com/coin/VTC)|United Kingdom|
-|[LiteBit](https://www.litebit.eu)|[EUR](https://www.litebit.eu/en/buy/vertcoin)|The Netherlands|
+|<a href="https://shapeshift.io" target="_blank">ShapeShift</a>|Many|USA|
+|<a href="https://bittylicious.com/" target="_blank">Bittylicious</a>|<a href="https://bittylicious.com/coin/VTC" target="_blank">GBP</a>|United Kingdom|
+|<a href="https://www.litebit.eu" target="_blank">LiteBit</a>|<a href="https://www.litebit.eu/en/buy/vertcoin" target="_blank">EUR</a>|The Netherlands|
 
 
 # Others
 
 For a semi-complete list of exchanges, brokers and their relative trading volumes/prices, you can check
-[CoinMarketCap](https://coinmarketcap.com/currencies/vertcoin/#markets).
+<a href="https://coinmarketcap.com/currencies/vertcoin/#markets" target="_blank">CoinMarketCap</a>.
 

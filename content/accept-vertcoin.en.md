@@ -9,9 +9,9 @@ You can either accept Vertcoin via a payment processor that accepts cryptocurren
 
 # Payment Gateways
 
-Payment gateways accept Vertcoin on your behalf and give you your national currency in return. [CoinPayments](https://www.coinpayments.net/) is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charged an 0.5% fee for its services and has integrations with various popular [e-commerce platforms](https://www.coinpayments.net/merchant-tools-plugins) including WooCommerce, Xcart, drupal and wordpress.
+Payment gateways accept Vertcoin on your behalf and give you your national currency in return. <a href="https://www.coinpayments.net/" target="_blank">CoinPayments</a> is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charged an 0.5% fee for its services and has integrations with various popular <a href="https://www.coinpayments.net/merchant-tools-plugins" target="_blank">e-commerce platforms</a> including WooCommerce, Xcart, drupal and wordpress.
 
 # For Developers
 
-Vertcoin is compatible with most exiting libraries intended for Bitcoin such as [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) and [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib). Vertcoin also has ports of [Bitcore](https://github.com/Cubey2019/vertcore), [Insight](https://insight.vertcoin.org) and [Electrum](https://github.com/kyuupichan/electrumx).
+Vertcoin is compatible with most exiting libraries intended for Bitcoin such as <a href="https://github.com/bitcoinjs/bitcoinjs-lib" target="_blank">bitcoinjs-lib</a> and <a href="https://github.com/petertodd/python-bitcoinlib" target="_blank">python-bitcoinlib</a>. Vertcoin also has ports of <a href="https://github.com/Cubey2019/vertcore" target="_blank">Bitcore</a>, <a href="https://insight.vertcoin.org" target="_blank">Insight</a> and <a href="https://github.com/kyuupichan/electrumx" target="_blank">Electrum</a>.
 

@@ -4,7 +4,7 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 # What is mining?
-When users of our network send each other Vertcoin, their transactions are secured by a process called mining. Miners will compose a so-called block out of the pending transactions, and need to perform a large number of computations called _hashes_ in order to produce the [Proof-of-Work](https://en.bitcoin.it/wiki/Proof_of_work). With this Proof-of-Work, the block is accepted by the network and the transactions in it become confirmed.
+When users of our network send each other Vertcoin, their transactions are secured by a process called mining. Miners will compose a so-called block out of the pending transactions, and need to perform a large number of computations called _hashes_ in order to produce the <a href="https://en.bitcoin.it/wiki/Proof_of_work" target="_blank">Proof-of-Work</a>. With this Proof-of-Work, the block is accepted by the network and the transactions in it become confirmed.
 
 Mining is essentially a race. Whoever finds a valid Proof-of-Work and gets the block propagated over more than half of the Vertcoin network first, wins this race and is allowed to reward themselves with the _block reward_. The block reward is how new Vertcoin come in circulation. This block reward started at 50 VTC when Vertcoin was launched, and halves every four years. The current block reward is 25 VTC. 
 

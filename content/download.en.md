@@ -15,11 +15,10 @@ is also the option to store your Vertcoins without electronics using a <a href="
 # Vertcoin Core (Most Secure)
 
 This is the Vertcoin reference client (forked from upstream
-[Bitcoin Core](https://github.com/bitcoin/bitcoin) and forms the backbone of the Vertcoin Network.
+<a href="https://github.com/bitcoin/bitcoin" target="_blank">Bitcoin Core</a> and forms the backbone of the Vertcoin Network.
 Vertcoin Core is a trustless wallet meaning that you download and verify the entire
 blockchain history for yourself. Additionally, you help to redistribute the blockchain
-to new users, ferry transactions around the network and help prevent
-[eclipse attacks](https://bitcoin.stackexchange.com/questions/61151/eclipse-attack-vs-sybil-attack).
+to new users, ferry transactions around the network and help prevent <a href="https://bitcoin.stackexchange.com/questions/61151/eclipse-attack-vs-sybil-attack" target="_blank">eclipse attacks</a>.
 If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightning Network Wallet will also include these features as well.
 
 |Platform|
@@ -29,11 +28,11 @@ If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightn
 |[Ubuntu/Debian](https://github.com/vertcoin/vertcoin/releases/download/0.12.0/vertcoin-qt_0.12.0_amd64.deb)|
 |[Other Linux](https://github.com/vertcoin/vertcoin/releases/download/0.12.0/vertcoin-v0.12.0-linux-64bit.zip)|
 |[Linux (ARM)](https://github.com/vertcoin/vertcoin/releases/download/0.12.0/vertcoin-v0.12.0-linux-arm.zip)|
-|[Source Code](https://github.com/vertcoin/vertcoin)|
+|<a href="https://github.com/vertcoin/vertcoin" target="_blank">Source Code</a>|
 
 # Electrum-VTC
 
-Electrum-VTC is a lightweight wallet forked from upstream [Electrum](https://github.com/spesmilo/electrum) which does
+Electrum-VTC is a lightweight wallet forked from upstream <a href="https://github.com/spesmilo/electrum" target="_blank">Electrum</a> which does
 not require you to download the full blockchain. The trade-off being that you are
 trusting the miners that they have correctly verified the transactions in the blockchain.
 Whilst this means there is no synchronization time, you are no longer working
@@ -47,13 +46,13 @@ that is put on the Electrum servers. Users should use Vertcoin Core for mining i
 |[Windows (Standalone)](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5-windows.exe)|
 |[MacOS](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5-macosx.dmg)|
 |[Linux](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5.tar.gz)|
-|[Source Code](https://github.com/vertcoin/electrum-vtc)|
+|<a href="https://github.com/vertcoin/electrum-vtc" target="_blank">Source Code</a>|
 
 # Mobile Wallets
 
 Currently there are only third-party mobile wallets availible for VTC. We are working
 on bringing you development team provided wallets on Android and iOS and are in the
-approval stage of this process. In the meantime, currently there is only [Coinomi](https://play.google.com/store/apps/details?id=com.coinomi.wallet)
+approval stage of this process. In the meantime, currently there is only <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" target="_blank">Coinomi</a>
 on Android that supports VTC.
 
 # Hardware Wallets
@@ -61,7 +60,7 @@ on Android that supports VTC.
 A hardware wallet allows you to store your Vertcoins without the private keys ever
 having to leave the device. This prevents remote attackers or viruses on your computer
 from redirecting or stealing your coins. Currently the only hardware wallet for VTC is
-sold by [Ledger](https://www.ledgerwallet.com/).
+sold by <a href="https://www.ledgerwallet.com/" target="_blank">Ledger</a>.
 
 # Paper Wallets
 
@@ -73,6 +72,6 @@ can be imported into Electrum-VTC or Vertcoin Core at a later date and spent fro
 
 |Wallet Generator|
 |----------------|
-|[VertAddress](https://vertaddress.org)|
-|[WalletGenerator](https://walletgenerator.net/?currency=Vertcoin)|
+|<a href="https://vertaddress.org" target="_blank">Vertaddress</a>|
+|<a href="https://walletgenerator.net/?currency=Vertcoin" target="_blank">WalletGenerator</a>|
 

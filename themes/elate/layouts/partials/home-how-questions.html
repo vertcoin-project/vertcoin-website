@@ -10,7 +10,7 @@
 
                     {{ range $index, $element := .Site.Params.howQuestion.item }}
 
-                    <h4 class="howTitles"> <a target="_blank" href='{{ .url }}'>{{ i18n (printf "howQuestion_%d_title" $index) | markdownify }}</a><svg width="35px" height="15px" viewBox="0 0 35 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <h4 class="howTitles"> <a href='{{ .url }}' target='{{ .target }}'>{{ i18n (printf "howQuestion_%d_title" $index) | markdownify }}</a><svg width="35px" height="15px" viewBox="0 0 35 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
                         <title>Arrow</title>
 

@@ -4,7 +4,7 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 
-Vertcoin did not have an ICO or Premine, the developers work entirely from community donations. We are constly looking for more people to help out and build Vertcoin. Below we have listed some ways that you can help out the Vertcoin Community, whether that be accepting Vertcoin as a business or develop code for next-generation applications, everyone can help out.
+Vertcoin did not have an ICO or Premine, the developers work entirely from community donations. We are constantly looking for more people to help out and build Vertcoin. Below we have listed some ways that you can help out the Vertcoin Community, whether that be accepting Vertcoin as a business or develop code for next-generation applications, everyone can help out.
 
 # Add Vertcoin as Payment
 If you are a store owner, you can <a href="../accept-vertcoin/">accept VTC</a> in your store and help adoption of our currency.

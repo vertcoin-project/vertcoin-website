@@ -206,7 +206,7 @@
 # Social Contract
 
 [socialContract_title]
-    other = "Commited To Building A Balanced System"
+    other = "Committed To Building A Balanced System"
 [socialContract_description]
     other = "Vertcoin has a social contract between the developers and the community to build the fairest system possible, free from monopoly whether it be ASICs or corporate 3rd party interests that want to control Vertcoin. Everyone should be able to participate equally and openly. <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest.'>"
 

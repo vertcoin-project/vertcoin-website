@@ -1376,10 +1376,7 @@ h4 svg {
 .fh5co-person .fh5co-position {
   color: #111111;
   display: block;
-  /*margin-bottom: 20px;*/
   margin-bottom: 14px;
-  margin-bottom: 27px;
-
   font-size: 17.44px;
   font-size: 20.44px;
 }
@@ -1667,8 +1664,7 @@ h4 svg {
   display: block;
   position: relative;
   width: 100%;
-  margin-bottom: 5px;
-  display: none;
+  margin-bottom: 12px;
 }
 .social li {
   list-style: none;

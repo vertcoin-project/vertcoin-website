@@ -28,6 +28,10 @@ you are allowed to trade.
 |<a href="https://www.southxchange.com" target="_blank">SouthXchange</a>|<a href="https://www.southxchange.com/Market/Book/VTC/BTC" target="_blank">BTC</a>|Argentina|
 |<a href="https://www.coinegg.com/" target="_blank">Coinegg</a>         |<a href="https://www.coinegg.com/vtc/" target="_blank">Coinegg</a>|United Kingdom|
 |<a href="https://crypto-bridge.org/" target="_blank">CryptoBridge</a>  |<a href="https://wallet.crypto-bridge.org/market/BRIDGE.VTC_BRIDGE.BTC" target="_blank">BTC</a>|"Decentralized"|
+|<a href="https://bitclude.com/" target="_blank">BitClude</a>|BTC|United Kingdom|
+|<a href="https://coingi.com/" target="_blank">Coingi</a>|<a href="https://coingi.com/trade/vtc-btc" target="_blank">BTC</a>|Czech Republic|
+|<a href="https://tradebytrade.com/" target="_blank">Trade By Trade</a>|BTC, USDT|Belize|
+|<a href="https://upbit.com/" target="_blank">UPbit</a>|<a href="https://upbit.com/exchange?code=CRIX.UPBIT.KRW-VTC" target="_blank">KRW</a>, <a href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-VTC" target="_blank">BTC</a>|South Korea|
 
 
 # Brokers
@@ -42,6 +46,8 @@ or sell coins using bank transfer or credit/debit card.
 |<a href="https://shapeshift.io" target="_blank">ShapeShift</a>|Many|USA|
 |<a href="https://bittylicious.com/" target="_blank">Bittylicious</a>|<a href="https://bittylicious.com/coin/VTC" target="_blank">GBP</a>|United Kingdom|
 |<a href="https://www.litebit.eu" target="_blank">LiteBit</a>|<a href="https://www.litebit.eu/en/buy/vertcoin" target="_blank">EUR</a>|The Netherlands|
+|<a href="https://www.coinspot.com.au/" target="_blank">CoinSpot</a>|<a href="https://www.coinspot.com.au/buy/vtc" target="_blank">AUD</a>|Australia|
+|<a href="https://www.instacrypto.in/" target="_blank">InstaCrypto</a>|<a href="https://www.instacrypto.in/crypto/vertcoin/" target="_blank">INR</a>|India|
 
 
 # Others

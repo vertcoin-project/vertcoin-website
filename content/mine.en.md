@@ -24,7 +24,7 @@ If you're more than a casual miner, you can also consider investing in dedicated
 
 ![Mining rig](/images/miningrig.jpg)
 
-There's plenty of guides on how to build a dedicated mining rig on the internet; if you're capable of assembling a normal desktop computer, you should be able to assemble a mining rig. Dedicated miners are commonly using a command-line script for starting the miner so that the miner automatically starts when the machine starts. Most dedicated rigs use the mining software <a href="https://github.com/tpruvot/ccminer" target="_blank">ccminer</a>, which is also included in the One-Click Miner, but without the Graphical User Interface.
+There are plenty of guides on how to build a dedicated mining rig on the internet; if you're capable of assembling a normal desktop computer, you should be able to assemble a mining rig. Dedicated miners are commonly using a command-line script for starting the miner so that the miner automatically starts when the machine starts. Most dedicated rigs use the mining software <a href="https://github.com/tpruvot/ccminer" target="_blank">ccminer</a>, which is also included in the One-Click Miner, but without the Graphical User Interface.
 
 
 

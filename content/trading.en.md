@@ -21,6 +21,7 @@ you are allowed to trade.
 
 |Exchange                                    |Trading Pairs                  |Country Of Origin|
 |--------------------------------------------|-------------------------------|-----------------|
+|<a href="https://www.vertpig.com/" target="_blank">Vertpig</a>             |<a href="https://www.vertpig.com/exchange/VTCGBP" target="_blank">GBP</a>, <a href="https://www.vertpig.com/exchange/VTCBTC" target="_blank">BTC</a>, <a href="https://www.vertpig.com/exchange/LTCBTC" target="_blank">LTC</a>|GBR|
 |<a href="https://bittrex.com/" target="_blank">Bittrex</a>             |<a href="https://bittrex.com/Market/Index?MarketName=BTC-VTC" target="_blank">BTC</a>|USA|
 |<a href="https://poloniex.com/" target="_blank">Poloniex</a>           |<a href="https://poloniex.com/exchange/#btc_vtc" target="_blank">BTC</a>|USA|
 |<a href="https://yobit.io/en/" target="_blank">YoBit</a>               |<a href="https://yobit.io/en/trade/VTC/BTC/" target="_blank">BTC</a>, <a href="https://yobit.io/en/trade/VTC/USD/" target="_blank">USD</a>, <a href="https://yobit.io/en/trade/VTC/RUR/" target="_blank">RUR</a>, <a href="https://yobit.io/en/trade/VTC/DOGE/" target="_blank">DOGE</a>, <a href="https://yobit.io/en/trade/VTC/WAVES/" target="_blank">WAVES</a>, <a href="https://yobit.io/en/trade/VTC/ETH/" target="_blank">ETH</a>|Russia|

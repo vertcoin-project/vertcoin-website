@@ -16,7 +16,7 @@ The Vertcoin One-Click Miner is by far the easiest way to get started. It's a us
 
 <a href="https://github.com/vertcoin/One-Click-Miner/releases" target="_blank">Download One-Click Miner</a>
 
-![One click miner screenshot](/images/oneclickminer.png)
+![One click miner screenshot](/images/oneclickminer-bg-fixed.png)
 
 # Advanced: Dedicated mining hardware
 

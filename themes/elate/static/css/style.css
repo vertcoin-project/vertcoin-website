@@ -683,7 +683,7 @@ table {
 @media screen and (max-width: 767px) {
   #fh5co-home .text-inner h1 {
     font-size: 23.23px;
-    font-size: 25.44px;
+    font-size: 23.44px;
     margin: 0 0 20px 0;
     width: 95%;
     margin: 0 auto;
@@ -696,7 +696,7 @@ table {
 
 #fh5co-home .text-inner p {
   font-size: 15px;
-  font-size: 25.44px;
+  font-size: 23.44px;
   line-height: 38px;
   font-weight: 300;
   color: #111111;
@@ -864,7 +864,7 @@ table {
 }
 
 #fh5co-intro .fh5co-block h2 {
-  font-size: 25.44px;
+  font-size: 23.44px;
   /*font-weight: 400;*/
   margin-bottom: 10px;
 }
@@ -980,7 +980,7 @@ table {
 }
 
 .wrapper h4 {
-  font-size: 25.44px;
+  font-size: 23.44px;
 }
 
 .wrapper h5 {
@@ -1002,14 +1002,14 @@ h4 svg {
 
 @media screen and (max-width: 768px) {
   .wrapper h3 {
-    font-size: 25.44px;
+    font-size: 23.44px;
     font-size: 34.44px;
     font-size: 27.44px;
   }
 }
 
 .wrapper p {
-  font-size: 25.44px;
+  font-size: 23.44px;
 
 }
 
@@ -2765,11 +2765,11 @@ h2.guideTitles svg {
 
 @media screen and (max-width: 767px) {
   .container h1,gradient h1 {
-    font-size: 25.44px !important;
+    font-size: 23.44px !important;
   }
 
   .gradient h1 {
-    font-size: 25.44px !important;
+    font-size: 23.44px !important;
   }
 }
 

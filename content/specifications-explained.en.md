@@ -15,13 +15,13 @@ That magic number is the difficult computation to do (the Work): the output hash
 
 # Why Proof-Of-Work?
 
-Proof-Of-Work is the most secure and balanced consensus algorithm (with ASIC Resistance). Consensus is very important in a decentralised system as the people who control consensus are able to verify the history of events. If a single entity aquires enough consensus they are able to write their own series of events. This would be very similar to the monetary system we have currently where users have no control over their own money. Currently money systems, the people who generate the money have all of the control over the money system.
+Proof-Of-Work is the most secure and balanced consensus algorithm (with ASIC Resistance). Consensus is very important in a decentralized system as the people who control consensus are able to verify the history of events. If a single entity aquires enough consensus they are able to write their own series of events. This would be very similar to the monetary system we have currently where users have no control over their own money. Currently money systems, the people who generate the money have all of the control over the money system.
 
 # Why not Proof-Of-Stake?
 
 Proof-Of-Work is the most reliable consensus algorithm operating on Bitcoin for the last 10 years without failure. Proof-Of-Stake is a permissioned system as opposed to a permissionless system like Proof-Of-Work. This means that in order to gain consensus holding in the system another user who holds the tokens needs to agree to give you some. This can become an issue if a user was ever able to obtain 50%+ of the supply it would be impossible to displace them, meaning that they would have full control over the network.  Secondly, over time users who hold tokens will own more tokens proportionally to new users as the system endlessly inflates.
 
-The goal of a decentralised monetary system should always be to spread consensus as much as possible. Not only does this reduce central points of failure but it also ensures that more people have an equal say in the network rather than a central few.
+The goal of a decentralized monetary system should always be to spread consensus as much as possible. Not only does this reduce central points of failure but it also ensures that more people have an equal say in the network rather than a central few.
 
 # Why aren't on-chain transactions free and instant?
 
@@ -34,7 +34,7 @@ By making the block-time really fast you're setting yourself up for failure when
 
 # Why is the block-time 2.5 minutes?
 
-There are a lot of specification comparison sheets that float around the internet comparing coins. When it comes to block-time specifically, there is a reason Vertcoin's blocktime is 2.5 minutes. As with all specs, there are sweet spots. If you reduce the block-time to zero, everything is fine until the blocks start to fill up. Anything under around 1 minute you will start to get more "orphaned transactions". These orphaned transactions occur not because of the blockchain itself but due to limitations of the internet and how fast the decentralised system can communicate equally across itself. Due to this lag time two miners could mine the same block at the same time, temporarily causing the chain to split in two very similar but different chains. It's really not a good idea to have this happening as it can lead to other issues but it will also result in one of the miners making no profit for their work. 2.5 minutes is a sweet spot of not too fast and not too slow while maintaining good security standard on the Vertcoin main-chain and reasonable speed.
+There are a lot of specification comparison sheets that float around the internet comparing coins. When it comes to block-time specifically, there is a reason Vertcoin's blocktime is 2.5 minutes. As with all specs, there are sweet spots. If you reduce the block-time to zero, everything is fine until the blocks start to fill up. Anything under around 1 minute you will start to get more "orphaned transactions". These orphaned transactions occur not because of the blockchain itself but due to limitations of the internet and how fast the decentralized system can communicate equally across itself. Due to this lag time two miners could mine the same block at the same time, temporarily causing the chain to split in two very similar but different chains. It's really not a good idea to have this happening as it can lead to other issues but it will also result in one of the miners making no profit for their work. 2.5 minutes is a sweet spot of not too fast and not too slow while maintaining good security standard on the Vertcoin main-chain and reasonable speed.
 
 
 # How do Stealth Addresses work?

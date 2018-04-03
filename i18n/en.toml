@@ -34,7 +34,7 @@
 
 
     [hero_title]
-    other = " <br> Committed to total decentralisation."
+    other = " <br> Committed to total decentralization."
     [hero_subtitle]
     other = "Vertcoin is a payment network, free from big banks and centralised mining."
 
@@ -88,7 +88,7 @@
 [why_title]
     other = "What Is Vertcoin?"
 [why_description]
-    other = "Vertcoin is a digital currency like Bitcoin or Litecoin with an added focus on keeping the ecosystem as decentralised as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
+    other = "Vertcoin is a digital currency like Bitcoin or Litecoin with an added focus on keeping the ecosystem as decentralized as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
 
 # Why Section Picture
@@ -172,7 +172,7 @@
     other = "Lightning Atomic Swaps"
 
 [atomicSwaps_description]
-    other = "Atomic Swaps allow for decentralised swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as part of a larger strategy to move away from centralised exchanges for the benefit of crypto.  <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
+    other = "Atomic Swaps allow for decentralized swapping of crypto-currencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as part of a larger strategy to move away from centralised exchanges for the benefit of crypto.  <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
 
 
 

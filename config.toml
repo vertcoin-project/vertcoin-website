@@ -151,7 +151,6 @@ weight = 13
 
   [params.about]
 
-
     [[params.about.item]]
       name = "Vertcoin Community"
       img = "placeholder.png"

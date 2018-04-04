@@ -146,9 +146,9 @@ weight = 13
     [params.communityStatus]
     [[params.communityStatus.item]]
     social = [
-            ["icon-reddit", "https://twitter.com/jamesl22"],
-            ["icon-twitter", "https://github.com/metalicjames/"],
-            ["icon-discord", "https://github.com/metalicjames/"]
+            ["icon-reddit", "https://reddit.com/r/vertcoin"],
+            ["icon-twitter", "https://twitter.com/vertcoin"],
+            ["icon-discord", "https://discord.gg/vertcoin"]
           ]
 
 

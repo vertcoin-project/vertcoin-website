@@ -212,7 +212,7 @@ weight = 13
 
     [[params.about.item]]
       name = "Alex Turek"
-      img = "alex.jpg"
+      img = "person1.jpg"
       alt = "Alex Turek"
       social = [
         ["icon-linkedin", "https://www.linkedin.com/in/turekaj/"]

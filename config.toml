@@ -159,6 +159,13 @@ weight = 13
 
 
     [[params.about.item]]
+      name = "Vertcoin Community"
+      img = "placeholder.png"
+      alt = "Community"
+      social = []
+
+
+    [[params.about.item]]
       name = "James Lovejoy"
       img = "james.jpg"
       alt = "James Lovejoy"
@@ -245,11 +252,7 @@ weight = 13
       alt = "Daiki"
       social = []
 
-    [[params.about.item]]
-      name = "Vertcoin Community"
-      img = "placeholder.png"
-      alt = "Community"
-      social = []
+    
 
 
 

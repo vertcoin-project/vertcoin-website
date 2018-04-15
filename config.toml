@@ -23,12 +23,6 @@ theme = "elate"
 
 # Menu
 
-[[menu.main]]
-url = "/"
-name = "home"
-weight = 1
-
-
 
 [[menu.main]]
 url = "/trading/"

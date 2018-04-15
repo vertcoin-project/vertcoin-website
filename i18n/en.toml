@@ -2,9 +2,6 @@
 # Navigation Section
 
 
-    [navigation_titles_home]
-    other = "Home"
-    
 	[navigation_titles_download]
     other = "Download"
 	

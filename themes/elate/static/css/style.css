@@ -1827,7 +1827,7 @@ h4 svg {
 
 .navbar-brand svg {
   width: 171px;
-  height: auto;
+  height: 34px;
 }
 
 @media screen and (max-width: 767px) {

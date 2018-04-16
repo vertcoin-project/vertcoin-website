@@ -151,12 +151,16 @@ weight = 13
 
   [params.about]
 
-
     [[params.about.item]]
       name = "Vertcoin Community"
       img = "placeholder.png"
       alt = "Community"
-      social = []
+      social = [
+            ["icon-reddit", "https://reddit.com/r/vertcoin"],
+            ["icon-twitter", "https://twitter.com/vertcoin"],
+            ["icon-discord", "https://discord.gg/vertcoin"],
+            ["icon-github", "https://github.com/vertcoin-project"]
+      ]
 
 
     [[params.about.item]]

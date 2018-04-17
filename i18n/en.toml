@@ -99,7 +99,7 @@
 # How
 
 [how_title]
-    other = "How?"
+    other = "Premise"
 [how_description]
     other = "We believe in a fair monetary system and we don’t push empty promises.<br><br> The developers pledge to change Vertcoin's mining algorithm if monopolising ASICs are ever created for it, and have done so twice in the past through our strong community social contract. <img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 

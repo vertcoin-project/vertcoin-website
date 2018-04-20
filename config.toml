@@ -217,7 +217,7 @@ weight = 13
 
     [[params.about.item]]
       name = "Alex Turek"
-      img = "person1.jpg"
+      img = "person1.png"
       alt = "Alex Turek"
       social = [
         ["icon-linkedin", "https://www.linkedin.com/in/turekaj/"]
@@ -225,13 +225,13 @@ weight = 13
 
     [[params.about.item]]
       name = "jk_14"
-      img = "person1.jpg"
+      img = "person1.png"
       alt = "jk_14"
       social = []
 
     [[params.about.item]]
       name = "pknight"
-      img = "person2.jpg"
+      img = "person2.png"
       alt = "pknight"
       social = []
 

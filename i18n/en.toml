@@ -133,7 +133,7 @@
 # Mining
 
 [mining_title]
-    other = "Fair To Mine, Forever"
+    other = "Decentralised Mining"
 [mining_description]
     other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a target='_blank' href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share the benefits of the system and that mining cartels should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 

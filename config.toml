@@ -109,7 +109,7 @@ weight = 13
 
     [params.howQuestion]
     [[params.howQuestion.item]]
-    url = "specifications-explained"
+    url = "../whatismining/"
     [[params.howQuestion.item]]
     url = "https://medium.com/vertcoin-blog/2017-in-review-2018-roadmap-d4ba51b29da3"
     target = "_blank"

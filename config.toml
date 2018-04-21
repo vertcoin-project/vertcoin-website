@@ -23,31 +23,35 @@ theme = "elate"
 
 # Menu
 
+[[menu.main]]
+url = "/merchants/"
+name = "merchants"
+weight = 5
 
 [[menu.main]]
 url = "/trading/"
 name = "trading"
-weight = 5
+weight = 7
 
 [[menu.main]]
 url = "/mine/"
 name = "mine"
-weight = 7
+weight = 9
 
 [[menu.main]]
 url = "/community/"
 name = "community"
-weight = 9
+weight = 11
 
 [[menu.main]]
 url = "/team/"
 name = "team"
-weight = 11
+weight = 13
 
 [[menu.main]]
 url = "/donate/"
 name = "donate"
-weight = 13
+weight = 15
 	
 	
 

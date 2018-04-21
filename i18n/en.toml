@@ -1,6 +1,8 @@
 
 # Navigation Section
 
+    [navigation_titles_merchants]
+    other = "Merchants"
 
 	[navigation_titles_download]
     other = "Download"

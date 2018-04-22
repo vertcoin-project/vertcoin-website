@@ -135,7 +135,7 @@
 # Mining
 
 [mining_title]
-    other = "Decentralised Mining"
+    other = "Decentralised User Centric Mining"
 [mining_description]
     other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a target='_blank' href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> We believe that everyone should have an <strong>equal opportunity</strong> to share the benefits of the system and that mining cartels should not stand in the way of technological progress. <br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
@@ -144,7 +144,7 @@
 # Lightning
 
 [lightning_title]
-    other = "Lightning Network"
+    other = "Lightning Network Contributors"
 [lightning_description]
 
     other = "Lightning Network is a payment layer designed to solve the problems of scalability, speed and transaction costs without compromising security standards. <br><br> <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>  is the first Lightning Network to include <a href='https://www.youtube.com/watch?v=WD8V1C-Ay2E&t=2s' target='_blank'>Vertcoin support</a>, and currently the only non-commercial Lightning Network implementation, meaning that it can never be monetised. <br><br> LIT is developed at MIT DCI by Thaddeus Dryja the co-author of the <a href='https://lightning.network/lightning-network-paper.pdf' target='_blank'>Original Lightning Network White Paper</a>."

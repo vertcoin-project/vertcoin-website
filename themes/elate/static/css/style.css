@@ -2752,7 +2752,7 @@ h2.guideTitles svg {
 
 @media screen and (max-width: 1024px) {
   #fh5co-header #navbar li:nth-child(1) {
-    display: none;
+    
   }
 }
 

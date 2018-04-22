@@ -77,7 +77,7 @@ can be imported into Electrum-VTC or Vertcoin Core at a later date and spent fro
 
 # Third Party Wallets
 
-These are wallets that are not produced by the Vertcoin development team and don't into any of
+These are wallets that are not produced by the Vertcoin development team and don't fall into any of
 the other categories. 
 
 ## Exodus

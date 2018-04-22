@@ -5,16 +5,16 @@ draft: false
 ---
 Show your appreciation for the businesses that lead the way in the adoption of cryptocurrencies. Instead of paying with fiat for your next purchase, pay with Vertcoin instead. Below is a list of merchants that accept Vertcoin as payment.
 
-## Accept Vertcoin for your business?
+# Accept Vertcoin for your business?
 If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store and help adoption of our currency.
 
 
-### Debit cards
+# Debit cards
 
 * [Uquid](https://uquid.com/altcoin-debit-card)
 
 
-### Video Games
+# Video Games
 
 * [XBL4BTC](https://xbl4btc.com)
 
@@ -33,7 +33,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [PexPeppers](https://www.pexpeppers.com/)
 
 
-### Goods/Merchandise
+# Goods/Merchandise
 * [VTCmarket](https://vtcmarket.com)
 
 * [Cryptoble](Https://cryptoble.win/shop/)
@@ -63,23 +63,23 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
 
 
-### Gambling
+# Gambling
 * [Vertcoingames](https://vertcoingames.com/)
 
 
-### Wallets & miscellaneous
+# Wallets & miscellaneous
 
 * [Paper wallet](https://www.reddit.com/r/vertcoin/comments/6ywwjg/i_designed_vertcoin_public_and_private_wallets/)
 
 * [Wooden Vertcoin](https://www.etsy.com/listing/568026663/custom-etched-wooden-vertcoin-with-your?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vertcoin&ref=s)
 
 
-### Multimedia Services
+# Multimedia Services
 
 * [Richmond Drone Services](http://www.richmonddroneservices.com/)
 
 
-### Professional Services
+# Professional Services
 
 * [The Crypto Lawyers(U.S.)](https://thecryptolawyers.com/)
 

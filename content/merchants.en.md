@@ -26,7 +26,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 
 
-### Food
+# Food
 
 * [Crypto de Change(UK)](https://www.cryptodechange.com/?currency=vtc)
 

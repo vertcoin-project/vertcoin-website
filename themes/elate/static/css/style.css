@@ -2806,6 +2806,10 @@ h2.guideTitles svg {
 }
 
 
+#home-litEcosystem h5 {
+display: none;
+}
+
 
 /* Mobile Touch Mode Disabled */
 

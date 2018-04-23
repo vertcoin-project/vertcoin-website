@@ -158,7 +158,7 @@
     other = "Be Your Own Bank - Multicoin Lightning Wallet"
 
 [litEcosystem_description]
-    other = "Vertcoin does not care for hype. We care about making quality products. We will fulfill the original crypto vision by allowing you to be your own bank. <br><br> We are creating a Lightning Network <strong>mobile and desktop app</strong> that gives you access to the MIT-DCI Lightning Network (LIT). <br><br> Because LIT is natively compatible with other SegWit enabled coins, adding other coins to the ecosystem is trivial, unlike other implementations of lightning that require coins to software upgrade. <br><br> This system is not just for Vertcoin, but for the whole of the cryptocurrency ecosystem. A payment system that truly allows adoption. <img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn't practical. That is how Lightning Network fundamentally works. <br><br> Solving this you have two choices. You could give control of your funds to a third party having them manage it for you and doing so recreating the banking system we already have. <br><br> Alternatively, you could have a device in your house similar to a small router in your house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what LitBox is, a multi coin lightning solution that lets you be your own bank.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 

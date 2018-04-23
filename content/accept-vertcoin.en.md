@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-You can either accept Vertcoin via a payment processor that accepts cryptocurrency and give you your local currency, or by integrating the Vertcoin wallet into your payment system. Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support.
+You can either accept Vertcoin via a payment processor that accepts cryptocurrency and gives you your local currency, or by integrating the Vertcoin wallet into your payment system. Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support.
 
 # Payment Gateways
 

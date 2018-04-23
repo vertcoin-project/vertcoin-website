@@ -158,7 +158,7 @@
     other = "Be Your Own Bank - Multicoin Lightning Wallet"
 
 [litEcosystem_description]
-    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn't practical. That is how Lightning Network fundamentally works. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreating the banking system we already have. <br><br> Alternatively, you could have a device in your house similar to a small router in your house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution that lets you be your own bank</strong>.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn't practical. That is how Lightning Network fundamentally works. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreating the banking system we already have. <br><br> Alternatively, you could have a device in your house similar to a small router in your house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution</strong> that lets you be your own bank.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 

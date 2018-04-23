@@ -137,7 +137,7 @@
 [mining_title]
     other = "Decentralised Mining"
 [mining_description]
-    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a target='_blank' href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialized hardware</a> that is used to mine currencies like Bitcoin. <br><br> As mining represents an ownership in the network we believe that everyone has the right to access. We have created an easy One-Click Miner to help you get started with mining.<br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
+    other = "While other cryptocurrencies have succumbed to monopolized mining, Vertcoin remains resistant to the <a target='_blank' href='https://medium.com/vertcoin-blog/in-the-beginning-satoshi-created-bitcoin-72927bc59b3a'>specialised hardware</a> that is used to mine currencies like Bitcoin. <br><br> As mining represents an ownership in the network we believe that everyone has the right to access. We have created an easy One-Click Miner to help you get started with mining.<br><br> <a href='https://github.com/vertcoin/One-Click-Miner/releases' class='themeButton'>Download One Click Miner</a>"
 
 
 

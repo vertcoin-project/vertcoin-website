@@ -24,6 +24,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 * [Keys4coins](https://www.keys4coins.com/)
 
+* [RSJackpot](https://rsjackpot.org/)
 
 
 # Food

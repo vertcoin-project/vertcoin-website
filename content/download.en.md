@@ -78,11 +78,4 @@ can be imported into Electrum-VTC or Vertcoin Core at a later date and spent fro
 # Third Party Wallets
 
 These are wallets that are not produced by the Vertcoin development team and don't fall into any of
-the other categories. 
-
-## Exodus
-
-<a href="https://www.exodus.io/" target="_blank">Exodus</a> is a multicoin desktop wallet that relies on backend servers to provide blockchain data to
-the wallet which enables instant synchronisation but is completely trusted as far as we can tell.
-Exodus is closed-source but allows you to keep your private keys. Vertcoin is still in beta on Exodus
-so you will need to enable it from the settings page. 
+the other categories.  

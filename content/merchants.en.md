@@ -8,81 +8,58 @@ Show your appreciation for the businesses that lead the way in the adoption of c
 # Accept Vertcoin for your business?
 If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store and help adoption of our currency.
 
-
 # Debit cards
-
 * [Uquid](https://uquid.com/altcoin-debit-card)
 
-
-# Video Games
-
-* [XBL4BTC](https://xbl4btc.com)
-
-* [Cavemen Studios](http://www.cavemenstudios.com/index.php#games)
-
-* [Eternal Summer Sale](https://eternalsummersale.com/)
-
-* [Keys4coins](https://www.keys4coins.com/)
-
-* [RSJackpot](https://rsjackpot.org/)
-
-
 # Food
-
 * [Crypto de Change(UK)](https://www.cryptodechange.com/?currency=vtc)
-
 * [PexPeppers](https://www.pexpeppers.com/)
-
-
-# Goods/Merchandise
-* [VTCmarket](https://vtcmarket.com)
-
-* [Cryptoble](Https://cryptoble.win/shop/)
-
-* [Gifftoff](https://giftoff.com/)
-
-* [Hodlertees](http://hodlertees.com/)
-
-* [King Pen Vapes](http://KingPenVapes.com)
-
-* [WIKILEAKS shop](https://wikileaks.shop)
-
-* [Vertcoin stickers](http://redbubble.com/de/shop/vertcoin+stickers)
-
-* [Zazzle](https://www.zazzle.com/vertcoin+tshirts) 
-
-* [Teepublic](https://www.teepublic.com/t-shirt/1891587-vertcoin-crypto)
-
-* [Spreadshirt](https://shop.spreadshirt.com/vertcoinmerch/)
-
-* [Coinpupil](https://store.coinpupil.com/collections/vertcoin-merchandise-apparel-and-gifts)
-
-* [NakamotoClothing](https://nakamotoclothingco.com/collections/vertcoin)
-
-* [Geekboxit](https://geekboxit.com/product/vertcoin-t-shirt/)
-
-* [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
-
 
 # Gambling
 * [Vertcoingames](https://vertcoingames.com/)
 
+# Gift Cards
+* [CoinCards](https://coincards.ca/)
 
-# Wallets & miscellaneous
-
-* [Paper wallet](https://www.reddit.com/r/vertcoin/comments/6ywwjg/i_designed_vertcoin_public_and_private_wallets/)
-
-* [Wooden Vertcoin](https://www.etsy.com/listing/568026663/custom-etched-wooden-vertcoin-with-your?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vertcoin&ref=s)
-
+# Goods/Merchandise
+* [Cyroline](https://www.cyroline.de/)
+* [Coinpupil](https://store.coinpupil.com/collections/vertcoin-merchandise-apparel-and-gifts)
+* [Crypto and Proud](https://www.cryptoandproud.com/)
+* [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
+* [Cryptoble](https://cryptoble.win/)
+* [Gifftoff](https://giftoff.com/)
+* [Geekboxit](https://geekboxit.com/product/vertcoin-t-shirt/)
+* [Hodlertees](http://hodlertees.com/)
+* [King Pen Vapes](http://KingPenVapes.com)
+* [NakamotoClothing](https://nakamotoclothingco.com/collections/vertcoin)
+* [Spreadshirt](https://shop.spreadshirt.com/vertcoinmerch/)
+* [Shillshop](https://www.shillshop.com/stickers)
+* [Teepublic](https://www.teepublic.com/t-shirt/1891587-vertcoin-crypto)
+* [Vertcoin stickers](http://redbubble.com/de/shop/vertcoin+stickers)
+* [VTCmarket](https://vtcmarket.com)
+* [Vertcoin medallion](http://jzzsxm.ecwid.com)
+* [WIKILEAKS shop](https://wikileaks.shop)
+* [Zazzle](https://www.zazzle.com/vertcoin+tshirts)
 
 # Multimedia Services
-
 * [Richmond Drone Services](http://www.richmonddroneservices.com/)
 
-
-# Professional Services
-
+# Professional (law) Services
+* [Burrel-Law (NYC)](https://burrell-law.com/)
+* [Bitcoin Tax](https://bitcoin.tax/)
 * [The Crypto Lawyers(U.S.)](https://thecryptolawyers.com/)
 
-* [Burrel-Law (NYC)](https://burrell-law.com/)
+## Printing
+* [Catdi](https://www.catdi.com/)
 
+# Video Games
+* [Cavemen Studios](http://www.cavemenstudios.com/index.php#games)
+* [Keys4coins](https://www.keys4coins.com/)
+* [XBL4BTC](https://xbl4btc.com)
+
+# Wallets & miscellaneous
+* [Paper wallet](https://www.reddit.com/r/vertcoin/comments/6ywwjg/i_designed_vertcoin_public_and_private_wallets/)
+* [Wooden Vertcoin](https://www.etsy.com/listing/568026663/custom-etched-wooden-vertcoin-with-your?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=vertcoin&amp;ref=s)
+
+# (NSFW) Adult shops
+* [Toys4sex  the adult shop ](http://toys4sex.com.au/)

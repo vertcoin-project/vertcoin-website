@@ -42,11 +42,11 @@ that is put on the Electrum servers. Users should use Vertcoin Core for mining i
 
 |Platform|
 |--------|
-|[Windows (Installer)](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5-windows-setup.exe)|
-|[Windows (Standalone)](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5-windows.exe)|
-|[MacOS](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5-macosx.dmg)|
-|[Linux](https://github.com/vertcoin/electrum-vtc/releases/download/2.9.3.5/electrum-vtc-2.9.3.5.tar.gz)|
-|<a href="https://github.com/vertcoin/electrum-vtc" target="_blank">Source Code</a>|
+|[Windows (Installer)](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2-setup.exe)|
+|[Windows (Standalone)](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2.exe)|
+|[MacOS](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2.dmg)|
+|[Linux](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2.tar.gz)|
+|<a href="https://github.com/vertcoin-project/electrum-vtc/releases/tag/3.1.2" target="_blank">Source Code</a>|
 
 # Mobile Wallets
 

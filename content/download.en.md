@@ -52,8 +52,8 @@ that is put on the Electrum servers. Users should use Vertcoin Core for mining i
 
 Currently there are only third-party mobile wallets availible for VTC. We are working
 on bringing you development team provided wallets on Android and iOS and are in the
-approval stage of this process. In the meantime, currently there is only <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" target="_blank">Coinomi</a>
-on Android that supports VTC.
+approval stage of this process. In the meantime, currently there is only Coinomi
+on <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/coinomi-wallet/id1333588809" target="_blank">iOS</a> that supports VTC.
 
 # Hardware Wallets
 

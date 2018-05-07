@@ -49,7 +49,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Bitcoin Tax](https://bitcoin.tax/)
 * [The Crypto Lawyers(U.S.)](https://thecryptolawyers.com/)
 
-## Printing
+# Printing
 * [Catdi](https://www.catdi.com/)
 
 # Video Games

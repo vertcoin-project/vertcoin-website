@@ -205,9 +205,9 @@
 # Social Contract
 
 [socialContract_title]
-    other = "Committed To Building A Balanced System"
+    other = "What is Consensus"
 [socialContract_description]
-    other = "Decentralisation forms the basis of cryptocurrency. So far the large majority of tokens/coins have ignored centralisation issues bringing them closer to banking, a system we already have. Without decentralisation, cryptocurrency has either become either a scam or a failure. <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest.'>"
+    other = "Decentralisation forms the basis of cryptocurrency. So far the large majority of tokens/coins have ignored centralisation issues bringing them closer to banking, a system we already have. Without decentralisation, cryptocurrency has either become either a scam or a failure.<br><br><a href="../specifications-explained/" class="themeButton">Learn More</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
 
 
 # Social Contract Picture

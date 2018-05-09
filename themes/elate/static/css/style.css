@@ -2279,12 +2279,12 @@ h4 svg {
 
 
 .atomic-swap-image {
-  float: right;
-  position: absolute;
-  right: -763px;
-  top: -103px;
-  width: 623px;
-  height: auto;
+    float: right;
+    position: absolute;
+    right: -763px;
+    top: -163px;
+    width: 697px;
+    height: auto;
 }
 
 @media screen and (max-width: 767px) {

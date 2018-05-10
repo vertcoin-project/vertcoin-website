@@ -152,10 +152,10 @@
 # Lit Ecosystem
 
 [litEcosystem_title]
-    other = "Development Focus LitBox + Apps"
+    other = "Making Lightning Network Usable"
 
 [litEcosystem_subtitle]
-    other = "Be Your Own Bank - Multicoin Lightning Wallet"
+    other = "Mobile & Desktop Apps"
 
 [litEcosystem_description]
     other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn't practical. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreating the banking system we already have. <br><br> Alternatively, you could have a device in your house similar to a small router in your house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution</strong> that lets you be your own bank.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
@@ -165,13 +165,13 @@
 # Atomic Swaps
 
 [atomicSwaps_title]
-    other = "Swap Currencies Easily"
+    other = "Solving Lightning Network's Problems"
 
 [atomicSwaps_subtitle]
-    other = "Lightning Atomic Swaps"
+    other = "LitBox"
 
 [atomicSwaps_description]
-    other = "Atomic Swaps allow for decentralized swapping of cryptocurrencies without a 3rd party. <br><br> This means that a merchant could accept your Vertcoin payment and easily change it into Bitcoin or any other supported currency. <br><br> We’re building Atomic Swaps into our new platforms as part of a larger strategy to move away from centralised exchanges for the benefit of crypto.  <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
+    other = "With Lightning Network, you need to be online at all times. You can either give your funds to a 3rd party and just recreate banking, or you can self host and fundamentally change how money works.<br><br>LitBox allows you to do just this. Connect with your devices and be your own bank on Lightning Network. Vertcoin is pushing the limits to create a financial system free of third parties. <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
 
 
 

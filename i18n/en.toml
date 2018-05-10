@@ -103,7 +103,7 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "Vertcoin has similar goals to Bitcoin, however it differs in the mining sector. Mining should be as distributed as possible. ASICs do not accomplish this. Equally so, CPU mining, is abused by botnets, therefore Vertcoin is pro GPU mining as it is the most balanced consensus tool available.<br><br> Furthermore, unlike other projects Vertcoin has a connection with Lightning Network development not just implementing it. Vertcoin shares the same approach to the Lightning Network as it does to decentralised mining, no 3rd parties will be left standing.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
+    other = "Vertcoin has similar goals to Bitcoin, however it differs in the mining sector. Mining should be as distributed as possible. ASICs do not accomplish this. Equally so, CPU mining, is abused by botnets, therefore Vertcoin is pro GPU mining as it is the most balanced consensus tool available.<br><br> Furthermore, unlike other projects Vertcoin has a connection with Lightning Network development not just implementing it. Vertcoin shares the same approach to the Lightning Network as it does to decentralised mining, no 3rd parties will be left standing.<img class='how-vertcoin' src='images/how-vertcoin-compressed.jpg' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture

@@ -45,25 +45,25 @@
 
 								{{ range $index, $element := .Site.Params.desktopButton.item }}
 
-								<div class="button" style="    width: fit-content; width: 292px;
+								<a class="button" href="/download" style="    width: fit-content; width: 292px;
     font-size: 18px;
     padding: 12px 23px; margin-right: 10px; background: #048657;
-    color: white; text-decoration: none;"><a style="color: white;" href="/download">{{ i18n (printf "desktopDownload_%d_title" $index) | markdownify }}</a></div>
+    color: white; text-decoration: none;"><div style="color: white;">{{ i18n (printf "desktopDownload_%d_title" $index) | markdownify }}</div></a>
 
 								{{ end }}
 
 
 
 								{{ range $index, $element := .Site.Params.mobileButton.item }}
-								<div class="button hideMobile" style="    width: fit-content;
+								<a class="button hideMobile" href="/mine" style="    width: fit-content;
     font-size: 18px;
     padding: 10px 22px;
     background: transparent;
     color: white;
     margin-left: 10px;
-    border: 2px solid white; display: inline-block;"><a style="color: white;" href="/mine">{{ i18n (printf "mobileDownload_%d_title" $index) | markdownify }}</a>
+    border: 2px solid white; display: inline-block;"><a style="color: white;">{{ i18n (printf "mobileDownload_%d_title" $index) | markdownify }}</div>
 
-								</div>
+								</a>
 
 
 

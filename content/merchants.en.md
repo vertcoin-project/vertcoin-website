@@ -18,6 +18,9 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 # Gambling
 * [Vertcoingames](https://vertcoingames.com/)
 
+# Garden & Agriculture
+* [Royal Queen Seeds](https://www.royalqueenseeds.com/)
+
 # Gift Cards
 * [CoinCards](https://coincards.ca/)
 
@@ -25,6 +28,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Cyroline](https://www.cyroline.de/)
 * [Coinpupil](https://store.coinpupil.com/collections/vertcoin-merchandise-apparel-and-gifts)
 * [Crypto and Proud](https://www.cryptoandproud.com/)
+* [CryptoBird wear] (https://crypto-bird.store/)
 * [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
 * [Cryptoble](https://cryptoble.win/)
 * [Gifftoff](https://giftoff.com/)
@@ -45,12 +49,15 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Richmond Drone Services](http://www.richmonddroneservices.com/)
 
 # Professional (law) Services
-* [Burrel-Law (NYC)](https://burrell-law.com/)
+* [Burrell-Law (NYC)](https://burrell-law.com/)
 * [Bitcoin Tax](https://bitcoin.tax/)
 * [The Crypto Lawyers(U.S.)](https://thecryptolawyers.com/)
 
 # Printing
 * [Catdi](https://www.catdi.com/)
+
+# Technology
+* [Fasttech](https://www.fasttech.com/)
 
 # Video Games
 * [Cavemen Studios](http://www.cavemenstudios.com/index.php#games)
@@ -63,3 +70,4 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 # (NSFW) Adult shops
 * [Toys4sex  the adult shop ](http://toys4sex.com.au/)
+* [Agartha Darkweb Market - TOR](http://agarthaozozhidet.onion)

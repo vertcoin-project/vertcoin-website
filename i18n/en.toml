@@ -205,9 +205,9 @@
 # Social Contract
 
 [socialContract_title]
-    other = "What is Consensus"
+    other = "Vertcoin Whitepaper"
 [socialContract_description]
-    other = "Decentralisation forms the basis of cryptocurrency. So far the large majority of tokens/coins have ignored centralisation issues bringing them closer to banking, a system we already have. Without decentralisation, cryptocurrency has either become either a scam or a failure.<br><br><a href='../specifications-explained/' class='themeButton'>Learn More About Consensus</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
+    other = "Vertcoin remains ASIC resistant through a community and social contract to hard fork our mining algorithm and make the new device useless.<br><br>This has been done twice in Vertcoin’s history. Once for an ASIC and another for a botnet. If an ASIC ever appears again, Vertcoin has proven that it will and can make these devices useless paperweights.<br><br><a href='../specifications-explained/' class='themeButton'>Learn About The Algorithm</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
 
 
 # Social Contract Picture

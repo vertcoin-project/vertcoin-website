@@ -171,7 +171,7 @@
     other = "LitBox"
 
 [atomicSwaps_description]
-    other = "With Lightning Network, you need to be online at all times. You can either give your funds to a 3rd party and just recreate banking, or you can self host and fundamentally change how money works.<br><br>LitBox allows you to do just this. Connect with your devices and be your own bank on Lightning Network. Vertcoin is pushing the limits to create a financial system free of third parties. <img class='atomic-swap-image' src='../images/atomic-swaps-white.png' alt='Swap Currencies on the go'>"
+    other = "With Lightning Network, you need to be online at all times. You can either give your funds to a 3rd party and just recreate banking, or you can self host and fundamentally change how money works.<br><br>LitBox allows you to do just this. Connect with your devices and be your own bank on Lightning Network. Vertcoin is pushing the limits to create a financial system free of third parties. <img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
 
 
 

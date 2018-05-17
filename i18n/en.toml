@@ -103,7 +103,7 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "Vertcoin shares very similar goals to Bitcoin, however it differs in the mining sector. Mining should be as distributed as possible. <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/' target='_blank'>ASICs do not accomplish this.</a> They defeat the purpose of decentralised currency.<br><br> Furthermore, unlike other projects Vertcoin has a direct connection with Lightning Network development not just implementing it. Vertcoin shares the same approach to the Lightning Network as it does to decentralised mining, no trusted 3rd parties will be left standing.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
+    other = "We believe that cryptocurrency should belong to the people. <strong>Anything less than this is a failure to cryptocurrency itself</strong><br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin giving profitability over to large companies.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture

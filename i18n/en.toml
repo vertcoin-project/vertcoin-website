@@ -33,9 +33,9 @@
 
 
     [hero_title]
-    other = " <br> ASIC Resistant Decentralisation."
+    other = " <br> ASIC Resistant Decentralisation"
     [hero_subtitle]
-    other = "Vertcoin is an ASIC resistant alternative to Bitcoin & Litecoin"
+    other = "Vertcoin is an ASIC resistant alternative to Bitcoin and Litecoin"
 
 
 # Hero Desktop Downloads
@@ -87,7 +87,7 @@
 [why_title]
     other = "What Is Vertcoin?"
 [why_description]
-    other = "Vertcoin is a cryptocurrency alternative to Bitcoin or Litecoin that is against centralised mining of cryptocurrency using ASICs as they are destructive to the ecosystem.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
+    other = "Vertcoin is a cryptocurrency alternative to Bitcoin or Litecoin that is against centralised mining of cryptocurrency using ASICs.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
 
 # Why Section Picture
@@ -103,7 +103,7 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "Vertcoin has similar goals to Bitcoin, however it differs in the mining sector. Mining should be as distributed as possible. ASICs do not accomplish this. Equally so, CPU mining, is abused by botnets, therefore Vertcoin is pro GPU mining as it is the most balanced consensus tool available.<br><br> Furthermore, unlike other projects Vertcoin has a connection with Lightning Network development not just implementing it. Vertcoin shares the same approach to the Lightning Network as it does to decentralised mining, no 3rd parties will be left standing.<img class='how-vertcoin' src='images/how-vertcoin-compressed.jpg' alt='Fair Mining and Lightning Network'>"
+    other = "Vertcoin has similar goals to Bitcoin, however it differs in the mining sector. <strong>Mining should be as distributed as possible.</strong> ASICs do not accomplish this. Equally so, CPU mining, is abused by botnets, therefore Vertcoin is pro GPU mining as it is the most balanced consensus tool available.<br><br> Furthermore, unlike other projects Vertcoin has a connection with Lightning Network development not just implementing it. Vertcoin shares the same approach to the Lightning Network as it does to decentralised mining, no 3rd parties will be left standing.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture

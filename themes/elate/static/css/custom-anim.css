@@ -37,7 +37,8 @@
             -moz-transition: all 0.2s ease-out;
             -ms-transition: all 0.2s ease-out;
             -o-transition: all 0.2s ease-out;
-            transition: all 0.2s ease-out;}
+            transition: all 0.2s ease-out;
+	}
 
     ul.navbar-left li a {
             padding-top: 10px;}
@@ -46,7 +47,8 @@
         color: #048657!important;}
 
     ul.navbar-left li a:hover {
-        color: #048657!important;}
+       
+	}
 
     ul.navbar-left li a:before {
             content: '';
@@ -66,12 +68,13 @@
             bottom: 0;
             height: 2px;
             width: 0;
-            background: #048657;
-            transition: width .2s ease;}
+            background: transparent;
+            transition: width .2s ease;
+	}
 
     ul.navbar-left li a:hover:before {
             width: 100%;
-            background: #048657;
+            background: transparent;
             transition: width .2s ease;}
 
 

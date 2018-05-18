@@ -158,7 +158,7 @@
     other = "Mobile & Desktop Apps"
 
 [litEcosystem_description]
-    other = "Vertcoin is at the forefront of Lightning Network development, developing the first known multicoin lightning network wallet in existence.<br><br>One of the hardest aspects of Lightning Network development is working out how it will look and feel for the user. This is similar to the early days of the internet, working out how users will interact with infrastructure of the future.<br><br>The wallet will support Vertcoin, Litecoin, Bitcoin intially and will function as single Lightning ecosystem, complete eventually with Lightning Atomic Swaps.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Vertcoin is at the forefront of Lightning Network development, currently developing the first known multicoin lightning network wallet in existence.<br><br>One of the hardest aspects of Lightning Network development is working out how it will look and feel for the user. This is similar to the early days of the internet, working out how users will interact with future infrastructure.<br><br>The wallet will support Vertcoin, Litecoin, Bitcoin intially and will function as single Lightning ecosystem, complete eventually with Lightning Atomic Swaps.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 

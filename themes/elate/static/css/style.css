@@ -2276,11 +2276,11 @@ h4 svg {
 
 
 .atomic-swap-image {
-    float: right;
+        float: right;
     position: absolute;
-    right: -682px;
-    top: -112px;
-    width: 697px;
+    right: -810px;
+    top: 146px;
+    width: 830px;
     height: auto;
 }
 
@@ -2290,10 +2290,11 @@ h4 svg {
     position: relative;
     width: 526px;
     height: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: -43px;
     top: 0px;
     right: 0px;
+    left: -31px;
   }
 }
 

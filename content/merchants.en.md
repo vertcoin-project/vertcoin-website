@@ -70,4 +70,3 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 # (NSFW) Adult shops
 * [Toys4sex  the adult shop ](http://toys4sex.com.au/)
-* [Agartha Darkweb Market - TOR](http://agarthaozozhidet.onion)

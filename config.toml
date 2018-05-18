@@ -20,6 +20,10 @@ theme = "elate"
     languageName = "Franc"
     weight = 2
 
+    [languages.de]
+    languageName = "German"
+    weight = 3
+
 
 # Menu
 

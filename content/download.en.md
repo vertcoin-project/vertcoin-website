@@ -23,11 +23,11 @@ If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightn
 
 |Platform|
 |--------|
-|[Windows](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.0/vertcoin-qt-v0.13.0-win64.zip)|
-|[MacOS](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.0/vertcoin-qt-v0.13.0-macos.dmg)|
-|[Ubuntu/Debian](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.0/vertcoin-qt-v0.13.0-linux-amd64.zip)|
-|[Other Linux](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.0/vertcoind-v0.13.0-linux-amd64.zip)|
-|[Linux (ARM)](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.0/vertcoind-v0.13.0-linux-armhf.zip)|
+|[Windows](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-win64.zip)|
+|[MacOS](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-macOS.dmg)|
+|[Ubuntu/Debian](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-linux-amd64.zip)|
+|[Other Linux](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoind-v0.13.1-linux-amd64.zip)|
+|[Linux (ARM)](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoind-v0.13.1-linux-armhf.zip)|
 |<a href="https://github.com/vertcoin/vertcoin" target="_blank">Source Code</a>|
 
 # Electrum-VTC

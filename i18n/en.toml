@@ -108,9 +108,9 @@
 
 # How Section Picture
 [howPicture_0_title]
-    other = "Proof-Of-Work Stability"
+    other = "Anyone can mine Vertcoin using existing hardware and be paid to cryptographically secure the Vertcoin Network."
 [howPicture_1_title]
-    other = "Lightning Network (Non Commercial) MIT Version"
+    other = "Proof-Of-Work has a track record of over 10 years without failure Credit: Nvidia Graphics Card"
 
 
 # How Section Picture Caption
@@ -171,7 +171,7 @@
     other = "LitBox"
 
 [atomicSwaps_description]
-    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device in your house similar to a small router in your house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution</strong> that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
+    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router in house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution</strong> that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
 
 
 
@@ -207,7 +207,7 @@
 [socialContract_title]
     other = "Developer/Community Social Contract"
 [socialContract_description]
-    other = "Vertcoin remains ASIC resistant through a community contract to hard fork our mining algorithm and make the new device useless. This has been done twice in Vertcoin’s history, it is not an empty threat.<br><br><a href='../specifications-explained/' class='themeButton'>Learn About The Algorithm</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
+    other = "Vertcoin remains ASIC resistant through a community contract to hard fork our mining algorithm and making the device useless. This has been done twice in Vertcoin’s history, it is not an empty threat.<br><br><a href='../specifications-explained/' class='themeButton'>Learn About The Algorithm</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
 
 
 # Social Contract Picture
@@ -346,7 +346,11 @@
     [about_11_description]
     other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
 
-
+    
+    [about_12_position]
+    other = "Developer"
+    [about_12_description]
+    other = "CryptoPlankton helped build the new Vertcoin website and implement various branding upgrades. He is currently working the multicoin lightning wallet application as a UX specialist."
 
 
 

@@ -531,7 +531,7 @@ table {
   /*background-color: #fafafa;*/
   color: #fff;
   overflow: hidden;
-  border-bottom: 20px solid white;
+  border-bottom: 20px solid #171717;
   /*background: url('../images/texture.jpg');*/
   background-size: cover;
   background-position: 50% 50%;
@@ -739,6 +739,8 @@ table {
   position: relative;
   bottom: 0;
   z-index: 10;
+  background: #171717;
+    border-bottom: 25px solid #171717;
   /*padding-bottom: 7em;*/
 }
 /*@media screen and (max-width: 767px) {*/

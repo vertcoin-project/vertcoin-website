@@ -264,8 +264,7 @@ weight = 15
       img = "person2.png"
       alt = "CryptoPlankton"
       social = [
-        ["icon-twitter", "https://twitter.com/a432511"],
-        ["icon-linkedin", "https://www.linkedin.com/in/adammrivera/"]
+        ["icon-twitter", "https://twitter.com/cryptoplankto"],
       ]
     
 

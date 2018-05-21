@@ -87,7 +87,7 @@
 [why_title]
     other = "What Is Vertcoin?"
 [why_description]
-    other = "Vertcoin is a cryptocurrency like Bitcoin and Litecoin with an added focus on keeping the ecosystem as decentralised as possible.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
+    other = "Vertcoin is a cryptocurrency like Bitcoin and Litecoin with an added focus on keeping the ecosystem as decentralised as possible.<br><br>Vertcoin is a zero frills development coin that solves real cryptocurrecy problems rather than fluff that crowds the space.<img class='why-vertcoin' src='images/why-vertcoin.png' alt='No ASICs! No Monopolies! People Cheer!'>"
 
 
 # Why Section Picture
@@ -103,7 +103,9 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "We believe that cryptocurrency should belong to the people. <strong>Anything less than this is a failure to cryptocurrency itself</strong>.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin giving profitability over to large companies.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
+    other = "Cryptocurrency is worthless unless it's decentralised. Currently Bitcoin &amp; Litecoin have majority of their hashrate owned by large mining conglomerate in China. This is far from safe.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href="https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/">ASICs</a> have taken over Bitcoin/Litecoin centralising profitability and governance to ASIC manufacturers.
+<br><br>
+Vertcoin remains resistant to ASICs through regularly changing it's adaptive mining algorithm as ASICs cannot adapt to change.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture
@@ -171,7 +173,7 @@
     other = "LitBox"
 
 [atomicSwaps_description]
-    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> <strong>Solving this you have two choices</strong>. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router in house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what <strong>LitBox is, a multi coin lightning solution</strong> that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
+    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> Solving this you have two choices. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router in house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what LitBox is, a multi coin lightning solution that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
 
 
 

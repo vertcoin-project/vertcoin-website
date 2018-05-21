@@ -258,6 +258,15 @@ weight = 15
       alt = "Daiki"
       social = []
 
+
+     [[params.about.item]]
+      name = "CryptoPlankton"
+      img = "person2.png"
+      alt = "CryptoPlankton"
+      social = [
+        ["icon-twitter", "https://twitter.com/a432511"],
+        ["icon-linkedin", "https://www.linkedin.com/in/adammrivera/"]
+      ]
     
 
 

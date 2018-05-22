@@ -157,7 +157,7 @@ Vertcoin remains resistant to ASICs through regularly changing it's adaptive min
     other = "Making Lightning Network User Friendly"
 
 [litEcosystem_subtitle]
-    other = "Mobile & Desktop Apps"
+    other = "Multicoin Lightning Wallet - Development Focus"
 
 [litEcosystem_description]
     other = "Vertcoin is at the forefront of Lightning Network development, currently developing the first known multicoin lightning network wallet.<br><br>One of the hardest aspects of Lightning Network development is working out how it will look and feel for the user. This is similar to the early days of the internet, working out how users will interact with future infrastructure.<br><br>The wallet will support Vertcoin, Litecoin, Bitcoin intially and will function as single Lightning ecosystem, complete eventually with Lightning Atomic Swaps.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
@@ -170,7 +170,7 @@ Vertcoin remains resistant to ASICs through regularly changing it's adaptive min
     other = "Solving Lightning Network's Problems"
 
 [atomicSwaps_subtitle]
-    other = "LitBox"
+    other = "LitBox - Development Focus"
 
 [atomicSwaps_description]
     other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> Solving this you have two choices. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router in house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what LitBox is, a multi coin lightning solution that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"

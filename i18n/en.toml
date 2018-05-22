@@ -103,7 +103,7 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "Cryptocurrency is worthless unless it's decentralised. Currently Bitcoin &amp; Litecoin have majority of their hashrate owned by large mining conglomerate in China. This is far from safe.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin centralising profitability and governance to ASIC manufacturers.
+    other = "Cryptocurrency is worthless unless it's decentralised. Currently Bitcoin and Litecoin have majority of their hashrate owned by large mining conglomerate in China. This is far from safe.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin centralising profitability and governance to ASIC manufacturers.
 <br><br>
 Vertcoin remains resistant to ASICs through regularly changing it's adaptive mining algorithm as ASICs cannot adapt to change.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 

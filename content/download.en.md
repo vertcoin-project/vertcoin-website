@@ -21,7 +21,7 @@ blockchain history for yourself. Additionally, you help to redistribute the bloc
 to new users, ferry transactions around the network and help prevent <a href="https://bitcoin.stackexchange.com/questions/61151/eclipse-attack-vs-sybil-attack" target="_blank">eclipse attacks</a>.
 If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightning Network Wallet will also include these features as well.
 
-|Platform|
+|Platform (V0.13.1)|
 |--------|
 |[Windows](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-win64.zip)|
 |[MacOS](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-macOS.dmg)|
@@ -40,7 +40,7 @@ trustlessly and not helping to redistribute the Vertcoin blockchain to new users
 Users should not mine into Electrum-VTC due to the load caused by many small payments
 that is put on the Electrum servers. Users should use Vertcoin Core for mining instead.
 
-|Platform|
+|Platform (v3.1.2)|
 |--------|
 |[Windows (Installer)](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2-setup.exe)|
 |[Windows (Standalone)](https://github.com/vertcoin-project/electrum-vtc/releases/download/3.1.2/electrum-vtc-3.1.2.exe)|

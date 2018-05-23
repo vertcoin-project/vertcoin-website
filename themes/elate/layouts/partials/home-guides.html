@@ -1,7 +1,7 @@
 
 <div class="container">
     {{ range $index, $element := .Site.Params.guide.item }}
-    <h2 class="guideTitles"> <a href='{{ .url }}'>{{ i18n (printf "guide_%d_title" $index) | markdownify }}</a>
+    <h2 class="guideTitles"> <a href='{{ .url }}' target='{{ .target }}'>{{ i18n (printf "guide_%d_title" $index) | markdownify }}</a>
     <svg width="35px" height="15px" viewBox="0 0 35 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
         <title>Arrow</title>

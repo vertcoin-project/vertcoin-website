@@ -119,16 +119,19 @@ weight = 15
     [[params.howQuestion.item]]
     url = "../whatismining/"
     [[params.howQuestion.item]]
-    url = "https://medium.com/vertcoin-blog/2017-in-review-2018-roadmap-d4ba51b29da3"
+    url = "https://medium.com/@hugonguyen/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2"
     target = "_blank"
 
 # Adoption Links
 
-     [params.adoption]
-        [[params.adoption.item]]
-        url = "accept-vertcoin"
-        [[params.adoption.item]]
-        url = "trading"
+    [params.adoption]
+    [[params.adoption.item]]
+    url = "https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/"
+    target = "_blank"
+    [[params.adoption.item]]
+    url = "https://lightning.network/lightning-network-paper.pdf"
+    target = "_blank"
+
 
 
 

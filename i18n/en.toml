@@ -103,7 +103,7 @@
 [how_title]
     other = "Our Goal"
 [how_description]
-    other = "Cryptocurrency is worthless unless it's decentralised. Currently Bitcoin and Litecoin have majority of their hashrate owned by large mining conglomerate in China. This is far from safe.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin centralising profitability and governance to ASIC manufacturers.<br><br>Vertcoin remains resistant to ASICs through regularly changing it's adaptive mining algorithm as ASICs cannot adapt to change.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
+    other = "Cryptocurrency is worthless unless it's decentralised. Currently Bitcoin & Litecoin have the majority of their hashrate owned by large mining conglomerate in China. This is far from safe.<br><br>Vertcoin was created in 2014 with the intention of being easily mined by the masses. In more recent times devices called <a href='https://btcmanager.com/hammering-home-asic-resistance-thoughts-on-the-monero-hard-fork/'>ASICs</a> have taken over Bitcoin/Litecoin, centralising profitability and governance to ASIC manufacturers.<br><br>Vertcoin remains resistant to ASICs through regularly changing it's adaptive mining algorithm as ASICs cannot adapt to change. Choosing the right consensus tool is key to mining decentralisation and distributed governence, ASICs do not achieve this.<img class='how-vertcoin' src='images/how-vertcoin-compressed.png' alt='Fair Mining and Lightning Network'>"
 
 
 # How Section Picture
@@ -125,7 +125,7 @@
 [howQuestion_0_title]
     other = "What is Cryptocurrency Mining?"
 [howQuestion_1_title]
-    other = "Vertcoin's Roadmap 2018"
+    other = "Why Proof-Of-Stake isn't the answer"
 
 
 
@@ -155,10 +155,10 @@
     other = "Making Lightning Network User Friendly"
 
 [litEcosystem_subtitle]
-    other = "Multicoin Lightning Wallet - Development Focus"
+    other = "Lightning Wallet - Development Focus"
 
 [litEcosystem_description]
-    other = "Vertcoin is at the forefront of Lightning Network development, currently developing the first known multicoin lightning network wallet.<br><br>One of the hardest aspects of Lightning Network development is working out how it will look and feel for the user. This is similar to the early days of the internet, working out how users will interact with future infrastructure.<br><br>The wallet will support Vertcoin, Litecoin, Bitcoin intially and will function as single Lightning ecosystem, complete eventually with Lightning Atomic Swaps.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
+    other = "Vertcoin is at the forefront of Lightning Network development, currently developing the first known multicoin lightning network wallet.<br><br>The lightning wallet will run on <a href='https://github.com/mit-dci/lit' target='_blank'>LIT</a>, one of the 4 currently existing implementations of Lightning Network. Outside lightning channel management LIT will act like TCP/IP layer for cryptocurrency joining all your addresses under a single address umbrella unlike existing implementations. This means you'll have one address for sending/receiving that doesn't reveal your on-chain addresses.<br><br>LIT is also multicoin lightning protocol meaning that multicoin support is built directly in, natively supporting SegWit coins by default. Other implementations require forks of Lightning which inevitably result in downstream bugs never getting fixed, similar to Electrum. LIT is also the only protocol that doesn't require full nodes, which makes multicoin solutions like LitBox not only possible but very affordable.<br><br>Due to coin support being directly implemented into the protocol, LIT will be able to achieve the multicoin lightning ecosystem operability much faster and smoother than any other implementation.<img class='ecoSystem-image' src='images/iphoneX-lit-captioned.png' alt='Swap Currencies on the go'>"
 
 
 
@@ -171,7 +171,7 @@
     other = "LitBox - Development Focus"
 
 [atomicSwaps_description]
-    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> Solving this you have two choices. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router in house that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what LitBox is, a multi coin lightning solution that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
+    other = "Lightning presents an interesting challenge. In order to send/receive transactions users need to be online at all times, obviously this isn’t practical. <br><br> Solving this you have two choices. You could give control of your funds to a third party having them manage it for you and doing so recreate the banking system we already have. <br><br> Alternatively, you could have a device similar to a small home router that manages your Lightning transactions. This is the only option that lets you control your funds. That’s what LitBox is, a multi coin lightning solution that lets you be your own bank.<img class='atomic-swap-image' src='../images/litbox.png' alt='Be your own bank with LitBox'>"
 
 
 
@@ -196,9 +196,9 @@
 # Adoption Links
 
 [adoption_0_title]
-    other = "Accept Vertcoin"
+    other = "Lightning Network Implementations"
 [adoption_1_title]
-    other = "Trading Vertcoin"
+    other = "Lightning Network Whitepaper"
 
 
 
@@ -207,7 +207,7 @@
 [socialContract_title]
     other = "Developer/Community Social Contract"
 [socialContract_description]
-    other = "Vertcoin remains ASIC resistant through a community contract to hard fork our mining algorithm and making the device useless. This has been done twice in Vertcoin’s history, it is not an empty threat.<br><br><a href='../specifications-explained/' class='themeButton'>Learn About The Algorithm</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
+    other = "Vertcoin remains ASIC resistant through a community contract to hard fork the mining algorithm and making new devices useless. This has been done twice in Vertcoin’s history, it is not an empty threat.<br><br>The first fork was stop botnets monopolising the hashrate using CPUs. The second fork was to stop an ASIC created for lyre2REv1. The community will always vote to fork as Vertcoin’s miners are its users.<br><br><a href='../specifications-explained/' class='themeButton'>Learn About The Algorithm</a> <img class='why-vertcoin socialPositionModifier' src='images/social-contract.png' alt='A fair and balanced system away from corporate interest. '>"
 
 
 # Social Contract Picture

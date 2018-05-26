@@ -11,8 +11,10 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 # Debit cards
 * [Uquid](https://uquid.com/altcoin-debit-card)
 
+# Education
+* [LearnCrypto](https://learncrypto.io/)
+
 # Food
-* [Crypto de Change(UK)](https://www.cryptodechange.com/?currency=vtc)
 * [PexPeppers](https://www.pexpeppers.com/)
 
 # Gambling
@@ -23,19 +25,24 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 # Gift Cards
 * [CoinCards](https://coincards.ca/)
+* [Crypto de Change(UK)](https://www.cryptodechange.com/?currency=vtc)
+* [Gifftoff](https://giftoff.com/)
 
 # Goods/Merchandise
+* [Astronaut Apparel](https://astronautapparel.com/)
 * [Cyroline](https://www.cyroline.de/)
-* [Coinpupil](https://store.coinpupil.com/collections/vertcoin-merchandise-apparel-and-gifts)
+* [Crypto affect](https://www.cryptoaffect.com/collections/vertcoin-merchandise-apparel-and-gifts)
 * [Crypto and Proud](https://www.cryptoandproud.com/)
 * [CryptoBird wear] (https://crypto-bird.store/)
 * [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
 * [Cryptoble](https://cryptoble.win/)
-* [Gifftoff](https://giftoff.com/)
+* [Epic Pants](https://epicpants.com/)
 * [Geekboxit](https://geekboxit.com/product/vertcoin-t-shirt/)
 * [Hodlertees](http://hodlertees.com/)
 * [King Pen Vapes](http://KingPenVapes.com)
+* [Lazy Pyramid] (https://lazypyramid.com/)
 * [NakamotoClothing](https://nakamotoclothingco.com/collections/vertcoin)
+* [SatoshiMarket](https://satoshimarket.io/)
 * [Spreadshirt](https://shop.spreadshirt.com/vertcoinmerch/)
 * [Shillshop](https://www.shillshop.com/stickers)
 * [Teepublic](https://www.teepublic.com/t-shirt/1891587-vertcoin-crypto)
@@ -45,6 +52,9 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [WIKILEAKS shop](https://wikileaks.shop)
 * [Zazzle](https://www.zazzle.com/vertcoin+tshirts)
 
+# Medical
+* [Three Fields Acupuncture](http://www.threefieldsacupuncture.com/)
+ 
 # Multimedia Services
 * [Richmond Drone Services](http://www.richmonddroneservices.com/)
 

@@ -9,7 +9,7 @@ You can either accept Vertcoin via a payment processor that accepts cryptocurren
 
 # Payment Gateways
 
-Payment gateways accept Vertcoin on your behalf and give you your national currency in return. <a href="https://www.coinpayments.net/" target="_blank">CoinPayments</a> is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charged an 0.5% fee for its services and has integrations with various popular <a href="https://www.coinpayments.net/merchant-tools-plugins" target="_blank">e-commerce platforms</a> including WooCommerce, Xcart, drupal and wordpress.
+Payment gateways accept Vertcoin on your behalf and give you your national currency in return. <a href="https://www.coinpayments.net/" target="_blank">CoinPayments</a> is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charges a 0.5% fee for its services and has integrations with various popular <a href="https://www.coinpayments.net/merchant-tools-plugins" target="_blank">e-commerce platforms</a> including WooCommerce, <a href="https://www.coinpayments.net/shopify/" target="_blank">Shopify</a>, Xcart, drupal and wordpress.
 
 # For Developers
 

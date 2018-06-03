@@ -21,13 +21,13 @@ blockchain history for yourself. Additionally, you help to redistribute the bloc
 to new users, ferry transactions around the network and help prevent <a href="https://bitcoin.stackexchange.com/questions/61151/eclipse-attack-vs-sybil-attack" target="_blank">eclipse attacks</a>.
 If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightning Network Wallet will also include these features as well.
 
-|Platform (V0.13.1)|
+|Platform (V0.13.2)|
 |--------|
-|[Windows](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-win64.zip)|
-|[MacOS](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-macOS.dmg)|
-|[Ubuntu/Debian](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoin-qt-v0.13.1-linux-amd64.zip)|
-|[Other Linux](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoind-v0.13.1-linux-amd64.zip)|
-|[Linux (ARM)](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.1/vertcoind-v0.13.1-linux-armhf.zip)|
+|[Windows](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoin-qt-v0.13.2-win64.zip)|
+|[MacOS](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoin-qt-v0.13.2-macOS.dmg)|
+|[Ubuntu/Debian](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoin-qt-v0.13.2-linux-amd64.zip)|
+|[Other Linux](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoind-v0.13.2-linux-amd64.zip)|
+|[Linux (ARM)](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoind-v0.13.2-linux-armhf.zip)|
 |<a href="https://github.com/vertcoin/vertcoin" target="_blank">Source Code</a>|
 
 # Electrum-VTC

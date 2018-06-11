@@ -34,7 +34,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Cyroline](https://www.cyroline.de/)
 * [Crypto affect](https://www.cryptoaffect.com/collections/vertcoin-merchandise-apparel-and-gifts)
 * [Crypto and Proud](https://www.cryptoandproud.com/)
-* [CryptoBird wear] (https://crypto-bird.store/)
+* [CryptoBird wear](https://crypto-bird.store/)
 * [Cryptocompound](https://www.cryptocompound.com/collections/vertcoin)
 * [Cryptoble](https://cryptoble.win/)
 * [Crypto Mugz](http://www.cryptomugz.com/)
@@ -69,7 +69,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Catdi](https://www.catdi.com/)
 
 # Technology & Internet
-* [AirVPN] (https://airvpn.org/)
+* [AirVPN](https://airvpn.org/)
 * [Fasttech](https://www.fasttech.com/)
 * [GPS Tracking Made Easy](https://gpstrackingmadeeasy.com/)
 

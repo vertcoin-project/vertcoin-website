@@ -33,9 +33,9 @@
 
 
     [hero_title]
-    other = " <br> Committed To Decentralisation"
+    other = " <br> Committed To Decentralization"
     [hero_subtitle]
-    other = "Vertcoin is an ASIC resistant alternative to Bitcoin and Litecoin"
+    other = "Vertcoin is a peer-to-peer currency focused on decentralization"
 
 
 # Hero Desktop Downloads

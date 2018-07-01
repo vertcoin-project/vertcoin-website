@@ -352,6 +352,12 @@
     [about_12_description]
     other = "CryptoPlankton helped build the new Vertcoin website and implement various branding upgrades. He is currently working the multicoin lightning wallet application as a UX specialist."
 
+    
+    [about_13_position]
+    other = "Developer & Bug Bounty Initiator"
+    [about_13_description]
+    other = "Suriyaa has been programming since age 11. He is a student of TUM, working on multiple Open Source projects. Suriyaa joined the Vertcoin team in June 2018 after a friend recommended to use Vertcoin. He started as a developer, but is currently involved in web development. He is the initiator of the Vertcoin's Bug Bounty program."
+
 
 
 

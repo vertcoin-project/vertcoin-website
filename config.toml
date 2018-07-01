@@ -262,12 +262,23 @@ weight = 15
       social = []
 
 
-     [[params.about.item]]
+    [[params.about.item]]
       name = "CryptoPlankton"
       img = "person2.png"
       alt = "CryptoPlankton"
       social = [
         ["icon-twitter", "https://twitter.com/cryptoplankto"],
+      ]
+
+
+    [[params.about.item]]
+      name = "Suriyaa Sundararuban"
+      img = "person2.png"
+      alt = "Suriyaa"
+      social = [
+        ["icon-twitter", "https://twitter.com/SuriyaaKudoIsc"],
+        ["icon-github", "https://github.com/SuriyaaKudoIsc"],
+        ["icon-linkedin", "https://www.linkedin.com/in/suriyaakudo/"]
       ]
     
 

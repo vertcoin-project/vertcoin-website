@@ -72,7 +72,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [AirVPN](https://airvpn.org/)
 * [Fasttech](https://www.fasttech.com/)
 * [GPS Tracking Made Easy](https://gpstrackingmadeeasy.com/)
-* [Evolution-Host] (https://evolution-host.com/)
+* [Evolution-Host](https://evolution-host.com/)
 
 # Video Games
 * [Cavemen Studios](http://www.cavemenstudios.com/index.php#games)

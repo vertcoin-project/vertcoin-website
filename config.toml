@@ -277,8 +277,7 @@ weight = 15
       alt = "Suriyaa"
       social = [
         ["icon-twitter", "https://twitter.com/SuriyaaKudoIsc"],
-        ["icon-github", "https://github.com/SuriyaaKudoIsc"],
-        ["icon-linkedin", "https://www.linkedin.com/in/suriyaakudo/"]
+        ["icon-github", "https://github.com/SuriyaaKudoIsc"]
       ]
     
 

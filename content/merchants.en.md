@@ -31,6 +31,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 # Goods/Merchandise
 * [Astronaut Apparel](https://astronautapparel.com/)
 * [Barter4Crypto](https://barter4crypto.com/)
+* [Bullcrypto](https://bullcrypto.co/)
 * [Cyroline](https://www.cyroline.de/)
 * [Crypto affect](https://www.cryptoaffect.com/collections/vertcoin-merchandise-apparel-and-gifts)
 * [Crypto and Proud](https://www.cryptoandproud.com/)
@@ -40,6 +41,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Crypto Mugz](http://www.cryptomugz.com/)
 * [Epic Pants](https://epicpants.com/)
 * [Geekboxit](https://geekboxit.com/product/vertcoin-t-shirt/)
+* [Hipptee](https://hipptee.com/products/vertcointshirt)
 * [Hodlertees](http://hodlertees.com/)
 * [King Pen Vapes](http://KingPenVapes.com)
 * [Lazy Pyramid](https://lazypyramid.com)
@@ -70,6 +72,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 
 # Technology & Internet
 * [AirVPN](https://airvpn.org/)
+* [Coinhost](http://coinhost.io)
 * [Fasttech](https://www.fasttech.com/)
 * [GPS Tracking Made Easy](https://gpstrackingmadeeasy.com/)
 * [Evolution-Host](https://evolution-host.com/)
